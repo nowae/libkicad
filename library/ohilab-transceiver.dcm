@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT230XS
+D FT230X USB to basic UART IC
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
+$ENDCMP
+#
+$CMP SN65HVD888
+D SN65HVD888 Bus-Polarity Correcting RS-485 Transceiver with IEC-ESD Protection
+F http://www.ti.com/lit/ds/symlink/sn65hvd888.pdf
+$ENDCMP
+#
+#End Doc Library

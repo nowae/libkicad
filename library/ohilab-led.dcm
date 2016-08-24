@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CLV1A-FKB
+D CLV1A-FKB Cree(R) PLCC4 3-in-1 SMD LED 
+F http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLV1AFKB(874).pdf?la=en
+$ENDCMP
+#
+$CMP GREEN
+D Green Led
+$ENDCMP
+#
+$CMP RED
+D Red Led
+$ENDCMP
+#
+$CMP YELLOW
+D Yellow Led
+$ENDCMP
+#
+#End Doc Library

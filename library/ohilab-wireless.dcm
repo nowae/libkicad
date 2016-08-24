@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPWF01SA
+D SPWF01SA Serial-to-Wi-Fi b/g/n intelligent modules
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/ba/8c/b2/64/02/bc/4e/05/DM00102124.pdf/files/DM00102124.pdf/jcr:content/translations/en.DM00102124.pdf
+$ENDCMP
+#
+$CMP nRF24L01+
+D nRF24L01+ Ultra low power 2.4GHz RF Transceiver IC
+F http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf
+$ENDCMP
+#
+#End Doc Library

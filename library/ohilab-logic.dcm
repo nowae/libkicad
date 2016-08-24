@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8804DW
+D DRV8804 Quad Serial Interface Low-Side Driver IC
+F http://www.ti.com/lit/ds/symlink/drv8804.pdf
+$ENDCMP
+#
+$CMP SN65HVS882
+D SN65HVS882 8 input 10-34V digital-input serializer for industrial digital inputs
+F http://www.ti.com/lit/ds/symlink/sn65hvs882.pdf
+$ENDCMP
+#
+$CMP SN74LV14A
+D SNx4LV14A Hex Schmitt-Trigger Inverters
+F http://www.ti.com/lit/ds/symlink/sn74lv14a.pdf
+$ENDCMP
+#
+$CMP VN808CM-E
+D VN808CM-E Octal channel high-side driver
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group2/a7/3a/c1/a2/1f/7d/4c/cb/CD00059622/files/CD00059622.pdf/jcr:content/translations/en.CD00059622.pdf
+$ENDCMP
+#
+#End Doc Library

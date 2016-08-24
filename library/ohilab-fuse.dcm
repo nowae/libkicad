@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0154003.DRT
+D Surface Mount Fuses 154/154T/154L/154TL Series OMNI-BLOK Fuse and Holder Assembly
+F http://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP FUSE
+D Fuse, generic
+$ENDCMP
+#
+#End Doc Library

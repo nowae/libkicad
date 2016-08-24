@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4067
+D LTC4067 USB Power Manager with OVP and Li-Ion/Polymer Charger
+F http://cds.linear.com/docs/en/datasheet/4067f.pdf
+$ENDCMP
+#
+#End Doc Library

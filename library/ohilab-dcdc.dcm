@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEL3-2411
+D DC/DC Converters TEL 3 Series, 3 Watt, 24V in - 5V out 600mA
+F http://www.tracopower.com/products/tel3.pdf
+$ENDCMP
+#
+$CMP TME2405S
+D DC/DC Converters TME Series, 1 Watt
+F http://www.tracopower.com/products/tme.pdf
+$ENDCMP
+#
+$CMP TSR1-2450SM
+D DC/DC Converters TSR-1SM Series, 1 A
+F http://assets.tracopower.com/20160407154341/TSR1SM/documents/tsr1sm-datasheet.pdf
+$ENDCMP
+#
+$CMP TSRN1-2450SM
+D DC/DC Converters TSRN-1SM Series, 1 A Switching Regulator
+F http://assets.tracopower.com/20160418120646/TSRN1SM/documents/tsrn1sm-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

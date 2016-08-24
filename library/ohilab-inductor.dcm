@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FERRITE_BEAD
+D Ferrite Bead
+$ENDCMP
+#
+$CMP INDUCTOR
+D Inductor
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FXAS21002C
+D FXAS21002C 3-Axis Digital Angular Rate Gyroscope
+F http://cache.nxp.com/files/sensors/doc/data_sheet/FXAS21002.pdf
+$ENDCMP
+#
+$CMP FXOS8700CQ
+D FXOS8700CQ 6-axis sensor with integrated linear accelerometer and magnetometer
+F http://cache.nxp.com/files/sensors/doc/data_sheet/FXOS8700CQ.pdf
+$ENDCMP
+#
+$CMP MPL3115A2
+D MPL3115A2, I2C Precision Altimeter
+F http://cache.nxp.com/files/sensors/doc/data_sheet/MPL3115A2.pdf
+$ENDCMP
+#
+#End Doc Library

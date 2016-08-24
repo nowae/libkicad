@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_12X1
+D Connector 12x1
+$ENDCMP
+#
+$CMP CONN_2X1
+D Connector 2x1
+$ENDCMP
+#
+$CMP CONN_3X1
+D Connector 3x1
+$ENDCMP
+#
+$CMP CONN_4X1
+D Connector 4x1
+$ENDCMP
+#
+$CMP CONN_5X2
+D Connector 5x2
+$ENDCMP
+#
+$CMP CONN_6X1
+D Connector 6x1
+$ENDCMP
+#
+$CMP CONN_8X1
+D Connector 8x1
+$ENDCMP
+#
+$CMP MICROUSB-629105150521
+D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
+F http://katalog.we-online.de/em/datasheet/629105150521.pdf
+$ENDCMP
+#
+#End Doc Library

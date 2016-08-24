@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISO7241M
+D ISO724x High-Speed, Quad-Channel Digital Isolators
+F http://www.ti.com/lit/ds/symlink/iso7241c.pdf
+$ENDCMP
+#
+$CMP ISO7340FC
+D ISO734x Robust EMC, LowPower, Quad-Channel Digital Isolators
+F http://www.ti.com/lit/ds/symlink/iso7340fc.pdf
+$ENDCMP
+#
+$CMP ISO7421
+D ISO742x Low-Power Dual-Channel Digital Isolators
+F http://www.ti.com/lit/ds/symlink/iso7421.pdf
+$ENDCMP
+#
+#End Doc Library

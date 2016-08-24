@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5205-3.3
+D MIC5205 150mA Low-Noise LDO Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5205.pdf
+$ENDCMP
+#
+$CMP SPX3819-3.3
+D SPX3819 500mA Low-Noise LDO Voltage Regulator
+F https://www.exar.com/product/power-management/power-conversion/ldos-and-regulators/linear-ldos/spx3819s-l
+$ENDCMP
+#
+#End Doc Library

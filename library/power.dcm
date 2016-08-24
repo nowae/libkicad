@@ -1,0 +1,71 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +24VISO1
+D +24V Isolated, Nr. 1
+$ENDCMP
+#
+$CMP +24VISO2
+D +24V Isolated, Nr. 2
+$ENDCMP
+#
+$CMP +3.3VISO
+D +3.3V Isoltated
+$ENDCMP
+#
+$CMP +5VISO1
+D +5V Isolated, Nr. 1
+$ENDCMP
+#
+$CMP +5VISO2
+D +5V Isolated, Nr. 2
+$ENDCMP
+#
+$CMP +5VISO3
+D +5V Isolated, Nr. 3
+$ENDCMP
+#
+$CMP GND-3V3-ISO
+D +3V3 Isolated GND, Nr. 0
+$ENDCMP
+#
+$CMP GND-3V3-ISO1
+D +3V3 Isolated GND, Nr. 1
+$ENDCMP
+#
+$CMP GND-3V3-ISO2
+D +3V3 Isolated GND, Nr. 2
+$ENDCMP
+#
+$CMP GND-5V-ISO
+D +5V Isolated GND, Nr. 0
+$ENDCMP
+#
+$CMP GND-5V-ISO1
+D +5V Isolated GND, Nr. 1
+$ENDCMP
+#
+$CMP GND-5V-ISO2
+D +5V Isolated GND, Nr. 2
+$ENDCMP
+#
+$CMP GND-5V-ISO3
+D +5V Isolated GND, Nr. 3
+$ENDCMP
+#
+$CMP GND-EARTH-1
+D GND Earth, Nr. 1
+$ENDCMP
+#
+$CMP GNDISO
+D Isolated GND
+$ENDCMP
+#
+$CMP GNDISO1
+D Isolated GND, Nr. 1
+$ENDCMP
+#
+$CMP GNDISO2
+D Isolated GND, Nr. 2
+$ENDCMP
+#
+#End Doc Library

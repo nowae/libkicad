@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BYM10-1000
+D BYM10-xxx Surface Mount Glass Passivated Junction Rectifier
+F http://www.vishay.com/docs/88546/bym10-xxx.pdf
+$ENDCMP
+#
+$CMP CD0603-S0180R
+D Switching Chip Diode Series - 0603/1005
+F http://www.vishay.com/docs/88546/bym10-xxx.pdf
+$ENDCMP
+#
+$CMP CDSOT23-SM712
+D CDSOT23-SM712 Surface Mount TVS Diode
+F https://www.bourns.com/pdfs/CDSOT23-SM712.pdf
+$ENDCMP
+#
+$CMP DZ2436000L
+D DZ2436000L Zener Diode
+$ENDCMP
+#
+$CMP MBR0520
+D MBR0520LT1G Surface Mount Schottky Power Rectifier 0.5 Amperes 20 Volts
+F http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF
+$ENDCMP
+#
+$CMP MMBD7000LT1G
+D MMBD7000LT1G Dual Switching Diode
+F http://www.onsemi.com/pub_link/Collateral/MMBD7000LT1-D.PDF
+$ENDCMP
+#
+$CMP PESD12VL2BT
+D PESDxL2BT series Low capacitance double bidirectional ESD protection diodes in SOT23
+F http://cache.nxp.com/documents/data_sheet/PESDXL2BT_SER.pdf
+$ENDCMP
+#
+$CMP RS1M
+D RS1A - RS1M Fast Rectifiers
+F https://www.fairchildsemi.com/datasheets/RS/RS1M.pdf
+$ENDCMP
+#
+$CMP SM15T39CA
+D SM15T Transil Transient Voltage Suppressor
+$ENDCMP
+#
+$CMP SMBJ48A-13-F
+D SMBJ5.0(C)A - SMBJ170(C)A 600W Surface Mount Transient Voltage Suppressor
+F http://www.diodes.com/_files/datasheets/ds19002.pdf
+$ENDCMP
+#
+#End Doc Library

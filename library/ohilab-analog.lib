@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MAX31855
+#
+DEF MAX31855 U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C CNN
+F1 "MAX31855" 0 -350 60 H V C CNN
+F2 "" -150 1100 60 H V C CNN
+F3 "" -200 -200 60 H I C CNN
+F4 "Maxim Integrated Products" -100 -100 60 H I C CNN "Manufacturer"
+F5 "MAX31855KASA+T" 0 0 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 100 100 60 H I C CNN "Distributor"
+F7 "2515622" 200 200 60 H I C CNN "Distributor Code"
+F8 "7.110" 300 300 60 H I C CNN "Price €"
+DRAW
+S -300 250 300 -250 0 1 0 N
+X GND 1 -500 150 200 R 50 50 1 1 W
+X T- 2 -500 50 200 R 50 50 1 1 I
+X T+ 3 -500 -50 200 R 50 50 1 1 I
+X VCC 4 -500 -150 200 R 50 50 1 1 W
+X SCLK 5 500 -150 200 L 50 50 1 1 I
+X ~CS 6 500 -50 200 L 50 50 1 1 I
+X SO 7 500 50 200 L 50 50 1 1 O
+X DNC 8 500 150 200 L 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+#End Library

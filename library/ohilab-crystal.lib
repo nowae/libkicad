@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 32768Hz_CM7V-T1A
+#
+DEF 32768Hz_CM7V-T1A Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "32768Hz_CM7V-T1A" 0 -150 50 H V C CNN
+F2 "1206" -100 50 50 H I C CNN
+F3 "12.5pF 10ppm" 0 150 50 H I C CNN
+F4 "Micro Crystal AG" 100 250 60 H I C CNN "Manufacturer"
+F5 "CM7V-T1A 32.768kHz 12.5pF +/-10ppm TA QC" 200 350 60 H I C CNN "Part Number"
+F6 "RS Components S.p.a." 300 450 60 H I C CNN "Distributor"
+F7 "729-3265" 400 550 60 H I C CNN "Distributor Code"
+F8 "1.270" 500 650 60 H I C CNN "Price €"
+$FPLIST
+ Crystal_*
+$ENDFPLIST
+DRAW
+S -50 100 50 -100 0 1 12 N
+P 2 0 1 12  -100 -50  -100 50 N
+P 2 0 1 12  100 -50  100 50 N
+X 1 1 -150 0 50 R 40 40 1 1 P
+X 2 2 150 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ABM7-16.000MHZ
+#
+DEF ABM7-16.000MHZ Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "ABM7-16.000MHZ" 0 -150 50 H V C CNN
+F2 "" -100 50 50 H I C CNN
+F3 "18pF 30ppm" 0 150 50 H I C CNN
+F4 "Abracom Corporation" 100 250 60 H I C CNN "Manufacturer"
+F5 "ABM7-16.000MHZ-D2Y-T" 200 350 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 300 450 60 H I C CNN "Distributor"
+F7 "2308713" 400 550 60 H I C CNN "Distributor Code"
+F8 "0.861" 500 650 60 H I C CNN "Price €"
+$FPLIST
+ Crystal_*
+$ENDFPLIST
+DRAW
+S -50 100 50 -100 0 1 12 N
+P 2 0 1 12  -100 -50  -100 50 N
+P 2 0 1 12  100 -50  100 50 N
+X 1 1 -150 0 50 R 40 40 1 1 P
+X 2 2 150 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

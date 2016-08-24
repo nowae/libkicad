@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRLML6402
+D IRLML6402 HEXFET(R) Power MOSFET Ultra Low On-Resistance
+F http://www.infineon.com/dgdl/irlml6402.pdf
+$ENDCMP
+#
+$CMP ZVN4210G
+D ZVN4210G N-Channel Eenhancement mode vertical DMOS FETD
+K nmos n-mos n-mosfet transistor
+F http://www.diodes.com/_files/datasheets/ZVN4210G.pdf
+$ENDCMP
+#
+#End Doc Library
