@@ -68,6 +68,7 @@ Library
 |   |   |-- CDSOT23-SM712
 |   |   |-- MBR0520
 |   |   |-- MMBD7000LT1G
+|   |   |-- MMSZ4684T1G
 |   |   |-- PESD12VL2BT
 |   |   |-- RS1M
 |   |   |-- SM15T39CA
@@ -135,6 +136,8 @@ Library
 |   |-- Transceiver
 |   |   |-- FT230XS
 |   |   |-- SN65HVD888
+|   |   |-- TJF1051T
+|   |   |-- TJF1052IT
 |   |
 |   |-- Transistor
 |   |   |-- IRLML6402

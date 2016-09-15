@@ -33,4 +33,8 @@ D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
 F http://katalog.we-online.de/em/datasheet/629105150521.pdf
 $ENDCMP
 #
+$CMP XBEE-SOCKET
+D XBee socket for DIGI device
+$ENDCMP
+#
 #End Doc Library

@@ -49,6 +49,7 @@ F6 "Farnell Italia S.r.l." 100 250 60 H I C CNN "Distributor"
 F7 "2526573" 0 -50 60 H I C CNN "Distributor Code"
 F8 "6.310" 0 -150 60 H I C CNN "Price €"
 DRAW
+T 900 0 0 60 0 0 0 ISOLATION  Normal 0 C C
 S -450 550 450 -550 0 1 0 N
 P 2 0 1 0  -220 -150  -170 -150 N
 P 2 0 1 0  -220 -50  -170 -50 N

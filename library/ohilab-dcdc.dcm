@@ -10,6 +10,11 @@ D DC/DC Converters TME Series, 1 Watt
 F http://www.tracopower.com/products/tme.pdf
 $ENDCMP
 #
+$CMP TSR1-2433SM
+D DC/DC Converters TSR-1SM Series, 1 A
+F http://assets.tracopower.com/20160407154341/TSR1SM/documents/tsr1sm-datasheet.pdf
+$ENDCMP
+#
 $CMP TSR1-2450SM
 D DC/DC Converters TSR-1SM Series, 1 A
 F http://assets.tracopower.com/20160407154341/TSR1SM/documents/tsr1sm-datasheet.pdf

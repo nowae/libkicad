@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +24VISO
+D +24V Isolated
+$ENDCMP
+#
 $CMP +24VISO1
 D +24V Isolated, Nr. 1
 $ENDCMP
@@ -10,6 +14,14 @@ $ENDCMP
 #
 $CMP +3.3VISO
 D +3.3V Isoltated
+$ENDCMP
+#
+$CMP +3.3VISO1
+D +3.3V Isoltated, Nr. 1
+$ENDCMP
+#
+$CMP +3.3VISO2
+D +3.3V Isoltated, Nr. 2
 $ENDCMP
 #
 $CMP +5VISO1

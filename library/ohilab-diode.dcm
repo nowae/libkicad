@@ -29,6 +29,11 @@ D MMBD7000LT1G Dual Switching Diode
 F http://www.onsemi.com/pub_link/Collateral/MMBD7000LT1-D.PDF
 $ENDCMP
 #
+$CMP MMSZ4684T1G
+D MMSZ4684 3.3 V Low Current Zener Diode Voltage Regulator
+F http://www.onsemi.com/pub_link/Collateral/MMSZ4678T1-D.PDF
+$ENDCMP
+#
 $CMP PESD12VL2BT
 D PESDxL2BT series Low capacitance double bidirectional ESD protection diodes in SOT23
 F http://cache.nxp.com/documents/data_sheet/PESDXL2BT_SER.pdf
