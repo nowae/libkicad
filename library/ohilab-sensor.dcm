@@ -10,9 +10,24 @@ D FXOS8700CQ 6-axis sensor with integrated linear accelerometer and magnetometer
 F http://cache.nxp.com/files/sensors/doc/data_sheet/FXOS8700CQ.pdf
 $ENDCMP
 #
+$CMP MMA8451Q
+D MMA8451Q, 3-axis, 14-bit/8-bit digital accelerometer
+F http://cache.nxp.com/files/sensors/doc/data_sheet/MMA8451Q.pdf
+$ENDCMP
+#
 $CMP MPL3115A2
 D MPL3115A2, I2C Precision Altimeter
 F http://cache.nxp.com/files/sensors/doc/data_sheet/MPL3115A2.pdf
+$ENDCMP
+#
+$CMP SFH5711
+D SFH 5711 High accuracy Ambient Light Sensor
+F http://www.osram-os.com/Graphics/XPic6/00039059_0.pdf
+$ENDCMP
+#
+$CMP Si7021-A20
+D Si7021-A20 I2C humidity and temperature sensor
+F https://www.silabs.com/Support%20Documents%2FTechnicalDocs%2FSi7021-A20.pdf
 $ENDCMP
 #
 #End Doc Library

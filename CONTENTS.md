@@ -3,6 +3,7 @@ Library
 |   |-- Power
 |   |   |-- +12V
 |   |   |-- +24V
+|   |   |-- +24VISO
 |   |   |-- +24VISO1
 |   |   |-- +24VISO2
 |   |   |-- +3.3V
@@ -47,7 +48,9 @@ Library
 |   |   |-- CONN_5X2
 |   |   |-- CONN_6X1
 |   |   |-- CONN_8X1
+|   |   |-- DB9
 |   |   |-- MICROUSB-629105150521
+|   |   |-- XBEE-SOCKET
 |   |
 |   |-- Crystal
 |   |   |-- 32768Hz_CM7V-T1A
@@ -56,6 +59,7 @@ Library
 |   |-- DcDc
 |   |   |-- TEL3-2411
 |   |   |-- TME2405S
+|   |   |-- TSR1-2433SM
 |   |   |-- TSR1-2450SM
 |   |   |-- TSRN1-2450SM
 |   |
@@ -70,6 +74,7 @@ Library
 |   |   |-- MMBD7000LT1G
 |   |   |-- MMSZ4684T1G
 |   |   |-- PESD12VL2BT
+|   |   |-- PESD1CAN
 |   |   |-- RS1M
 |   |   |-- SM15T39CA
 |   |   |-- SMBJ48A-13-F
@@ -128,7 +133,10 @@ Library
 |   |-- Sensor
 |   |   |-- FXAS21002C
 |   |   |-- FXOS8700CQ
+|   |   |-- MMA8451Q
 |   |   |-- MPL3115A2
+|   |   |-- SFH5711
+|   |   |-- Si7021-A20
 |   |
 |   |-- Switch
 |   |   |-- EVQPE104K

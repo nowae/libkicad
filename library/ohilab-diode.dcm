@@ -39,6 +39,11 @@ D PESDxL2BT series Low capacitance double bidirectional ESD protection diodes in
 F http://cache.nxp.com/documents/data_sheet/PESDXL2BT_SER.pdf
 $ENDCMP
 #
+$CMP PESD1CAN
+D PESD1CAN - CAN bus ESD protection diode
+F http://www.nxp.com/documents/data_sheet/PESD1CAN.pdf
+$ENDCMP
+#
 $CMP RS1M
 D RS1A - RS1M Fast Rectifiers
 F https://www.fairchildsemi.com/datasheets/RS/RS1M.pdf

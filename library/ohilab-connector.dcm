@@ -28,6 +28,11 @@ $CMP CONN_8X1
 D Connector 8x1
 $ENDCMP
 #
+$CMP DB9
+D Connector  DB9
+K CONN DB9
+$ENDCMP
+#
 $CMP MICROUSB-629105150521
 D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
 F http://katalog.we-online.de/em/datasheet/629105150521.pdf
