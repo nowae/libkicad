@@ -31,6 +31,7 @@ Library
 |   |   |-- GNDISO2
 |   |
 |   |-- Analog
+|   |   |-- LTC2622
 |   |   |-- MAX31855
 |   |
 |   |-- Battery Charger
