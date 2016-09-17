@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUZZER
+D Generic Buzzer
+$ENDCMP
+#
+$CMP PKLCS1212E4001-R1
+D Piezoelectric Sound Components Piezoelectric Sounders SMD Type
+K Buzzer Piezo
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx
+$ENDCMP
+#
+#End Doc Library
