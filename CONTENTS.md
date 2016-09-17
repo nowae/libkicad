@@ -36,6 +36,10 @@ Library
 |   |-- Battery Charger
 |   |   |-- LTC4067
 |   |
+|   |-- Buzzer
+|   |   |-- BUZZER
+|   |   |-- PKLCS1212E4001-R1
+|   |
 |   |-- Capacitor
 |   |   |-- CAPACITOR
 |   |   |-- CAPACITOR_POL
@@ -95,6 +99,7 @@ Library
 |   |
 |   |-- Logic
 |   |   |-- DRV8804DW
+|   |   |-- DS3231
 |   |   |-- SN65HVS882
 |   |   |-- SN74LV14A
 |   |   |-- VN808CM-E
@@ -148,6 +153,7 @@ Library
 |   |   |-- TJF1052IT
 |   |
 |   |-- Transistor
+|   |   |-- BCW66
 |   |   |-- IRLML6402
 |   |   |-- ZVN4210G
 |   |

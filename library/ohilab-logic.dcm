@@ -5,6 +5,11 @@ D DRV8804 Quad Serial Interface Low-Side Driver IC
 F http://www.ti.com/lit/ds/symlink/drv8804.pdf
 $ENDCMP
 #
+$CMP DS3231
+D DS3231 Extremely Accurate I2C-Integrated RTC/TCXO/Crystal
+F https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
+$ENDCMP
+#
 $CMP SN65HVS882
 D SN65HVS882 8 input 10-34V digital-input serializer for industrial digital inputs
 F http://www.ti.com/lit/ds/symlink/sn65hvs882.pdf

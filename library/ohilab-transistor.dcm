@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BCW66
+D BCW66GLT1G General Purpose Transistor NPN Silicon
+K npn transistor
+F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
+$ENDCMP
+#
 $CMP IRLML6402
 D IRLML6402 HEXFET(R) Power MOSFET Ultra Low On-Resistance
 F http://www.infineon.com/dgdl/irlml6402.pdf
