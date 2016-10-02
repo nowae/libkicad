@@ -24,6 +24,11 @@ D MBR0520LT1G Surface Mount Schottky Power Rectifier 0.5 Amperes 20 Volts
 F http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF
 $ENDCMP
 #
+$CMP MBRS2040L
+D MBRS2040LT3G Surface Mount Schottky Power Rectifier SMB Power 2.0 Amperes 40 Volts
+F http://www.onsemi.com/pub_link/Collateral/MBRS2040LT3-D.PDF
+$ENDCMP
+#
 $CMP MMBD7000LT1G
 D MMBD7000LT1G Dual Switching Diode
 F http://www.onsemi.com/pub_link/Collateral/MMBD7000LT1-D.PDF

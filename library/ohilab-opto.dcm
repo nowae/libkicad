@@ -10,6 +10,16 @@ D ISO734x Robust EMC, LowPower, Quad-Channel Digital Isolators
 F http://www.ti.com/lit/ds/symlink/iso7340fc.pdf
 $ENDCMP
 #
+$CMP ISO7341C
+D ISO734x Robust EMC, LowPower, Quad-Channel Digital Isolators
+F http://www.ti.com/lit/ds/symlink/iso7341-q1.pdf
+$ENDCMP
+#
+$CMP ISO7341FC
+D ISO734x Robust EMC, LowPower, Quad-Channel Digital Isolators
+F http://www.ti.com/lit/ds/symlink/iso7341-q1.pdf
+$ENDCMP
+#
 $CMP ISO7421
 D ISO742x Low-Power Dual-Channel Digital Isolators
 F http://www.ti.com/lit/ds/symlink/iso7421.pdf

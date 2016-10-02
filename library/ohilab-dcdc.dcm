@@ -5,6 +5,11 @@ D DC/DC Converters TEL 3 Series, 3 Watt, 24V in - 5V out 600mA
 F http://www.tracopower.com/products/tel3.pdf
 $ENDCMP
 #
+$CMP TES1-2411
+D DC/DC Converters TES 1 Series, 1 Watt
+F http://assets.tracopower.com/20160916155828/TES1/documents/tes1-datasheet.pdf
+$ENDCMP
+#
 $CMP TES3-2422
 D DC/DC Converters TES 3 Series, +- 12V 125mA 3 Watt
 F http://assets.tracopower.com/20160916155828/TES3/documents/tes3-datasheet.pdf
@@ -13,6 +18,11 @@ $ENDCMP
 $CMP TME2405S
 D DC/DC Converters TME Series, 1 Watt
 F http://www.tracopower.com/products/tme.pdf
+$ENDCMP
+#
+$CMP TSR0.5-2433
+D DC/DC Converters TSR 0.5 Series, 0.5 A Switching Regulator
+F http://assets.tracopower.com/20160926105753/TSR05/documents/tsr05-datasheet.pdf
 $ENDCMP
 #
 $CMP TSR1-2433SM

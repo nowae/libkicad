@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP LM358D
-D SLOS068T – JUNE 1976 – REVISED APRIL 2015LMx58, LMx58x, LM2904, LM2904VDual Operational Amplifiers
+D LMx58, LMx58x, LM2904, LM2904V Dual Operational Amplifiers
 F http://www.ti.com/lit/ds/symlink/lm358.pdf
 $ENDCMP
 #

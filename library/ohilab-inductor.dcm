@@ -8,4 +8,10 @@ $CMP INDUCTOR
 D Inductor
 $ENDCMP
 #
+$CMP TCK-044
+D Common mode choke TCK-044
+K inductor choke
+F http://www.tracopower.com/products/tck044.pdf
+$ENDCMP
+#
 #End Doc Library

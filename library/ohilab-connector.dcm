@@ -4,6 +4,10 @@ $CMP CONN_12X1
 D Connector 12x1
 $ENDCMP
 #
+$CMP CONN_12X2
+D Connector 12x2
+$ENDCMP
+#
 $CMP CONN_2X1
 D Connector 2x1
 $ENDCMP
@@ -33,9 +37,19 @@ D Connector  DB9
 K CONN DB9
 $ENDCMP
 #
+$CMP MICROSD-MOLEX:473092651
+D 1.10mm Pitch microSD Card Header with Detect Switch
+F http://www.molex.com/pdm_docs/sd/473092651_sd.pdf
+$ENDCMP
+#
 $CMP MICROUSB-629105150521
 D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
 F http://katalog.we-online.de/em/datasheet/629105150521.pdf
+$ENDCMP
+#
+$CMP USB_B_180-5787834-1
+D USB 4P Vertical Type B Receptacle Connector
+F http://www.te.com/usa-en/product-5787834-1.html
 $ENDCMP
 #
 $CMP XBEE-SOCKET

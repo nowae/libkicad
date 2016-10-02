@@ -11,6 +11,12 @@ D IRLML6402 HEXFET(R) Power MOSFET Ultra Low On-Resistance
 F http://www.infineon.com/dgdl/irlml6402.pdf
 $ENDCMP
 #
+$CMP Si2333DDS
+D Si2333DDS P-Channel 12 V (D-S) MOSFET
+K pmos p-mos p-mosfet transistor
+F http://www.vishay.com/docs/63861/si2333dds.pdf
+$ENDCMP
+#
 $CMP ZVN4210G
 D ZVN4210G N-Channel Eenhancement mode vertical DMOS FETD
 K nmos n-mos n-mosfet transistor

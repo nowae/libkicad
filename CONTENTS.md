@@ -36,6 +36,7 @@ Library
 |   |
 |   |-- Battery Charger
 |   |   |-- LTC4067
+|   |   |-- MCP73831
 |   |
 |   |-- Buzzer
 |   |   |-- BUZZER
@@ -47,6 +48,7 @@ Library
 |   |
 |   |-- Connector
 |   |   |-- CONN_12X1
+|   |   |-- CONN_12X2
 |   |   |-- CONN_2X1 
 |   |   |-- CONN_3X1
 |   |   |-- CONN_4X1
@@ -54,16 +56,21 @@ Library
 |   |   |-- CONN_6X1
 |   |   |-- CONN_8X1
 |   |   |-- DB9
+|   |   |-- MICROSD-MOLEX:473092651
 |   |   |-- MICROUSB-629105150521
+|   |   |-- USB_B_180-5787834-1
 |   |   |-- XBEE-SOCKET
 |   |
 |   |-- Crystal
 |   |   |-- 32768Hz_CM7V-T1A
+|   |   |-- ABM7-12.000MHZ
 |   |   |-- ABM7-16.000MHZ
 |   |
 |   |-- DcDc
 |   |   |-- TEL3-2411
 |   |   |-- TME2405S
+|   |   |-- TES1-2411
+|   |   |-- TSR0.5-2433
 |   |   |-- TSR1-2433SM
 |   |   |-- TSR1-2450SM
 |   |   |-- TSRN1-2450SM
@@ -76,6 +83,7 @@ Library
 |   |   |-- CD0603-SO180R
 |   |   |-- CDSOT23-SM712
 |   |   |-- MBR0520
+|   |   |-- MBRS2040L
 |   |   |-- MMBD7000LT1G
 |   |   |-- MMSZ4684T1G
 |   |   |-- PESD12VL2BT
@@ -91,6 +99,7 @@ Library
 |   |-- Inductor
 |   |   |-- FERRITE_BEAD
 |   |   |-- INDUCTOR
+|   |   |-- TCK-044
 |   |
 |   |-- Led
 |   |   |-- CLV1A-FKB (RGB)
@@ -123,6 +132,8 @@ Library
 |   |-- Optoisolator
 |   |   |-- ISO7241M
 |   |   |-- ISO7340FC
+|   |   |-- ISO7341C
+|   |   |-- ISO7341FC
 |   |   |-- ISO7421
 |   |
 |   |-- Regulator
@@ -160,6 +171,7 @@ Library
 |   |-- Transistor
 |   |   |-- BCW66
 |   |   |-- IRLML6402
+|   |   |-- Si2333DDS
 |   |   |-- ZVN4210G
 |   |
 |   |-- Wireless

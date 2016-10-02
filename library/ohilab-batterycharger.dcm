@@ -5,4 +5,9 @@ D LTC4067 USB Power Manager with OVP and Li-Ion/Polymer Charger
 F http://cds.linear.com/docs/en/datasheet/4067f.pdf
 $ENDCMP
 #
+$CMP MCP73831
+D MCP73831/2 Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controllers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
 #End Doc Library

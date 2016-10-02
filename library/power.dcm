@@ -12,6 +12,14 @@ $CMP +12VISO2
 D +12V Isolated, Nr. 2
 $ENDCMP
 #
+$CMP +12VISO5
+D +12V Isolated, Nr. 5
+$ENDCMP
+#
+$CMP +12VISO6
+D +12V Isolated, Nr. 6
+$ENDCMP
+#
 $CMP +24VISO
 D +24V Isolated
 $ENDCMP
@@ -36,6 +44,18 @@ $CMP +3.3VISO2
 D +3.3V Isoltated, Nr. 2
 $ENDCMP
 #
+$CMP +3.3VISO3
+D +3.3V Isoltated, Nr. 3
+$ENDCMP
+#
+$CMP +3.3VISO4
+D +3.3V Isoltated, Nr. 4
+$ENDCMP
+#
+$CMP +3.3VISO5
+D +3.3V Isoltated, Nr. 5
+$ENDCMP
+#
 $CMP +5VISO1
 D +5V Isolated, Nr. 1
 $ENDCMP
@@ -48,8 +68,20 @@ $CMP +5VISO3
 D +5V Isolated, Nr. 3
 $ENDCMP
 #
+$CMP +5VISO4
+D +5V Isolated, Nr. 4
+$ENDCMP
+#
+$CMP +5VISO5
+D +5V Isolated, Nr. 5
+$ENDCMP
+#
 $CMP -12VISO
 D -12V Isolated
+$ENDCMP
+#
+$CMP -12VISO5
+D -12V Isolated, Nr. 5
 $ENDCMP
 #
 $CMP GND-12V-ISO
@@ -106,6 +138,22 @@ $ENDCMP
 #
 $CMP GNDISO2
 D Isolated GND, Nr. 2
+$ENDCMP
+#
+$CMP GNDISO3
+D Isolated GND, Nr. 3
+$ENDCMP
+#
+$CMP GNDISO4
+D Isolated GND, Nr. 4
+$ENDCMP
+#
+$CMP GNDISO5
+D Isolated GND, Nr. 5
+$ENDCMP
+#
+$CMP GNDISO6
+D Isolated GND, Nr. 6
 $ENDCMP
 #
 #End Doc Library
