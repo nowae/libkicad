@@ -178,4 +178,20 @@ Library
 |       |-- ZVN4210G
 |
 |-- Footprint
-
+|   |-- CAPACITOR
+|   |   |-- CAPACITOR-0402
+|   |   |-- CAPACITOR-0603
+|   |   |-- CAPACITOR-0805
+|   |   |-- CAPACITOR-1206
+|   |
+|   |-- LEDs
+|   |   |-- LED-0402
+|   |   |-- LED-0603
+|   |   |-- LED-0805
+|   |   |-- LED-1206
+|   |
+|   |-- RESISTOR
+|       |-- RESISTOR-0402
+|       |-- RESISTOR-0603
+|       |-- RESISTOR-0805
+|       |-- RESISTOR-1206
