@@ -184,6 +184,13 @@ Library
 |   |   |-- CAPACITOR-0805
 |   |   |-- CAPACITOR-1206
 |   |
+|   |-- CONNECTOR_MCV
+|   |   |-- CONN-MCV1.5_3-G-3.81
+|   |   |-- CONN-MCV1.5_8-G-3.81
+|   |
+|   |-- DIODE
+|   |   |-- DIODE-SOD123
+|   |
 |   |-- LEDs
 |   |   |-- LED-0402
 |   |   |-- LED-0603
@@ -191,7 +198,11 @@ Library
 |   |   |-- LED-1206
 |   |
 |   |-- RESISTOR
-|       |-- RESISTOR-0402
-|       |-- RESISTOR-0603
-|       |-- RESISTOR-0805
-|       |-- RESISTOR-1206
+|   |   |-- RESISTOR-0402
+|   |   |-- RESISTOR-0603
+|   |   |-- RESISTOR-0805
+|   |   |-- RESISTOR-1206
+|   |
+|   |-- SOIC
+|       |-- SOIC14_3.9x8.7_1.27
+|   |   |-- WSOIC16_7.4x10.1_1.27
