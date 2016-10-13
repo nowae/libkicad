@@ -190,6 +190,8 @@ Library
 |   |
 |   |-- DIODE
 |   |   |-- DIODE-SOD123
+|   |   |-- DIODE-DO214AB-BID
+|   |   |-- DIODE-DO214AB-UNI
 |   |
 |   |-- LEDs
 |   |   |-- LED-0402
@@ -202,6 +204,9 @@ Library
 |   |   |-- RESISTOR-0603
 |   |   |-- RESISTOR-0805
 |   |   |-- RESISTOR-1206
+|   |
+|   |-- TRACOPOWER
+|   |   |-- TRACO-TSR0.5-24XX
 |   |
 |   |-- SOIC
 |       |-- SOIC14_3.9x8.7_1.27
