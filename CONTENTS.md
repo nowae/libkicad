@@ -193,6 +193,9 @@ Library
 |   |   |-- DIODE-DO214AB-BID
 |   |   |-- DIODE-DO214AB-UNI
 |   |
+|   |-- DIP
+|   |   |-- DIP8-SMD
+|   |
 |   |-- LEDs
 |   |   |-- LED-0402
 |   |   |-- LED-0603
