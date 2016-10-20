@@ -179,6 +179,8 @@ Library
 |
 |-- Footprint
 |   |-- CAPACITOR
+|   |   |-- CAPACITOR-6.3x7.7
+|   |   |-- CAPACITOR-8.0x6.2
 |   |   |-- CAPACITOR-0402
 |   |   |-- CAPACITOR-0603
 |   |   |-- CAPACITOR-0805
@@ -208,9 +210,18 @@ Library
 |   |   |-- RESISTOR-0805
 |   |   |-- RESISTOR-1206
 |   |
+|   |-- SOIC
+|   |   |-- POWERSO-36_11.0x15.9_0.65
+|   |   |-- SOIC8_3.9x4.9_1.27
+|   |   |-- SOIC14_3.9x8.7_1.27
+|   |   |-- WSOIC16_7.4x10.1_1.27
+|   |
+|   |-- SOT
+|   |   |-- SOT23-3
+|   |   |-- SOT23-3-GSD
+|   |
+|   |-- SSOP
+|   |   |-- SSOP16_3.9x4.9_0.635
+|   |
 |   |-- TRACOPOWER
 |   |   |-- TRACO-TSR0.5-24XX
-|   |
-|   |-- SOIC
-|       |-- SOIC14_3.9x8.7_1.27
-|   |   |-- WSOIC16_7.4x10.1_1.27
