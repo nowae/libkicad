@@ -186,14 +186,28 @@ Library
 |   |   |-- CAPACITOR-0805
 |   |   |-- CAPACITOR-1206
 |   |
+|   |-- CONNECTOR
+|   |   |-- CONN-5x2-1.27-SMD
+|   |
 |   |-- CONNECTOR_MCV
+|   |   |-- CONN-MCV0.5_3-G-2.5
+|   |   |-- CONN-MCV0.5_8-G-2.5
 |   |   |-- CONN-MCV1.5_3-G-3.81
 |   |   |-- CONN-MCV1.5_8-G-3.81
 |   |
+|   |-- CRYSTAL
+|   |   |-- CRYSTAL-1206
+|   |   |-- CRYSTAL-ABM7
+|   |
 |   |-- DIODE
 |   |   |-- DIODE-SOD123
+|   |   |-- DIODE-DO214AA-UNI
 |   |   |-- DIODE-DO214AB-BID
 |   |   |-- DIODE-DO214AB-UNI
+|   |
+|   |-- DFN
+|   |   |-- DFN6_3.0x3.0_1.0
+|   |   |-- DFN12+1_3.0x4.0_0.5
 |   |
 |   |-- DIP
 |   |   |-- DIP8-SMD
@@ -204,11 +218,16 @@ Library
 |   |   |-- LED-0805
 |   |   |-- LED-1206
 |   |
+|   |-- LQFP
+|   |   |-- LQFP64_10x10_0.5
+|   |   |-- LQFP144_20x20_0.5
+|   |
 |   |-- RESISTOR
 |   |   |-- RESISTOR-0402
 |   |   |-- RESISTOR-0603
 |   |   |-- RESISTOR-0805
 |   |   |-- RESISTOR-1206
+|   |   |-- RESISTOR-TRIM-BOURNS-3224J
 |   |
 |   |-- SOIC
 |   |   |-- POWERSO-36_11.0x15.9_0.65
@@ -219,8 +238,11 @@ Library
 |   |-- SOT
 |   |   |-- SOT23-3
 |   |   |-- SOT23-3-GSD
+|   |   |-- SOT23-5
+|   |   |-- SOT223
 |   |
 |   |-- SSOP
+|   |   |-- MSOP8_3x3_0.65
 |   |   |-- SSOP16_3.9x4.9_0.635
 |   |
 |   |-- TRACOPOWER
