@@ -1,5 +1,5 @@
-(module DIODE-DO214AB-UNI (layer F.Cu) (tedit 57FF72A9)
-  (descr "DIODE SMD DO214AB Unidirectional")
+(module DIODE-DO214AB-UNI (layer F.Cu) (tedit 580B8B99)
+  (descr "DIODE SMD DO214AB (SMC) Unidirectional")
   (tags "DIODE DO214AB DO-214AB")
   (attr smd)
   (fp_text reference VAL** (at 0 -4) (layer F.SilkS)
@@ -8,6 +8,8 @@
   (fp_text value DIODE-DO214AB-UNI (at 0 4.1) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
+  (fp_line (start 3.2 1.8) (end 3.2 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 3.2 -3.1) (end 3.2 -1.7) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.6 -3.4) (end 4.6 -3.4) (layer F.CrtYd) (width 0.05))
   (fp_line (start 4.6 -3.4) (end 5.4 -3.4) (layer F.CrtYd) (width 0.05))
   (fp_line (start 5.4 -3.4) (end 5.4 3.4) (layer F.CrtYd) (width 0.05))
