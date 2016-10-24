@@ -33,14 +33,14 @@ D Connector 8x1
 $ENDCMP
 #
 $CMP DB9_FEMALE
-D DSub connector, 9-way, female, vertical
+D DSub connector, 9-way, female
 K DB9 FEMALE VERTICAL
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1634222%7FJ%7Fpdf%7FEnglish%7FENG_CD_1634222_J_baseFilename.pdf%7F3-1634222-2
 $ENDCMP
 #
 $CMP DB9_MALE
-D Connector  DB9
-K CONN DB9
+D DSub connector, 9-way, male
+K DB9 MALE VERTICAL
 $ENDCMP
 #
 $CMP MICROSD-MOLEX:473092651
