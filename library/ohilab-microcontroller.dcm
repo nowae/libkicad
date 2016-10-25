@@ -5,6 +5,11 @@ D  ATSAM3X8E Atmel SAM3X/SAM3A Series, SMART ARM-based MCU
 F http://www.atmel.com/Images/Atmel-11057-32-bit-Cortex-M3-Microcontroller-SAM3X-SAM3A_Datasheet.pdf
 $ENDCMP
 #
+$CMP CY8C4247L
+D Programmable System-on-Chip with ARM-M0 and Bluetooth Smart Radio
+F http://www.cypress.com/file/137466/download
+$ENDCMP
+#
 $CMP MKL15Z128VLH4
 D Kinetis KL15 48 MHz Cortex-M0+ Based Microcontroller
 F http://cache.nxp.com/files/32bit/doc/data_sheet/KL15P80M48SF0.pdf
