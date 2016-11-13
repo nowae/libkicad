@@ -1,4 +1,4 @@
-(module TRACO-TES3-XXXX (layer F.Cu) (tedit 58273291)
+(module TRACO-TES3-XXXX (layer F.Cu) (tedit 582895E5)
   (descr "TRACO POWER DC/DC Converters TES 3 Series, 3 Watt")
   (tags "TRACO DCDC 3W TES3")
   (fp_text reference VAL** (at 0 -11) (layer F.SilkS)
@@ -87,5 +87,4 @@
   (pad 13 smd rect (at 13.97 -8.6) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 11.43 -8.6) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 8.89 -8.6) (size 1.5 3) (layers F.Cu F.Paste F.Mask))
-  (pad "" np_thru_hole circle (at 8.45 3) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
 )
