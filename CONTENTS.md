@@ -178,6 +178,9 @@ Library
 |       |-- ZVN4210G
 |
 |-- Footprint
+|   |-- BUZZER
+|   |   |-- XXXX
+|   |
 |   |-- CAPACITOR
 |   |   |-- CAPACITOR-6.3x7.7
 |   |   |-- CAPACITOR-8.0x6.2
@@ -188,10 +191,18 @@ Library
 |   |
 |   |-- CONNECTOR
 |   |   |-- CONN-5x2-1.27-SMD
+|   |   |-- CONN-XBEE-THT
+|   |   |-- CONN-XBEEPRO-THT
+|   |   |-- DB9_FEMALE_V
+|   |   |-- DB9_MALE_V
+|   |   |-- MICROUSB-WURTH-WRCOM
+|   |   |-- USB-TECON-5787834_1
 |   |
 |   |-- CONNECTOR_MCV
 |   |   |-- CONN-MCV0.5_3-G-2.5
+|   |   |-- CONN-MCV0.5_4-G-2.5
 |   |   |-- CONN-MCV0.5_8-G-2.5
+|   |   |-- CONN-MCV0.5_12-G-2.5
 |   |   |-- CONN-MCV1.5_3-G-3.81
 |   |   |-- CONN-MCV1.5_8-G-3.81
 |   |
@@ -222,6 +233,11 @@ Library
 |   |   |-- LQFP64_10x10_0.5
 |   |   |-- LQFP144_20x20_0.5
 |   |
+|   |-- MISC
+|   |   |-- JUMPERSMD-3
+|   |   |-- SENSOR-SFH5711
+|   |   |-- TESTPOINT-1MM
+|   |
 |   |-- RESISTOR
 |   |   |-- RESISTOR-0402
 |   |   |-- RESISTOR-0603
@@ -246,4 +262,7 @@ Library
 |   |   |-- SSOP16_3.9x4.9_0.635
 |   |
 |   |-- TRACOPOWER
+|   |   |-- TRACO-TES1-XXXX
+|   |   |-- TRACO-TES3-XXXX
 |   |   |-- TRACO-TSR0.5-24XX
+|   |   |-- TRACO-TSRN1-XXXXSM
