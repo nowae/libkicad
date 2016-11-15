@@ -1,0 +1,17 @@
+(module SCREW-M2.5 (layer F.Cu) (tedit 582B16EC)
+  (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value SCREW-M2.5 (at 0 3.5) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_line (start -2.9 -2.9) (end -2.9 2.9) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -2.9 2.9) (end 2.9 2.9) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 2.9 2.9) (end 2.9 -2.9) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 2.9 -2.9) (end -2.9 -2.9) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -1.5 0) (end 1.5 0) (layer F.Fab) (width 0.8))
+  (fp_line (start 0 -1.5) (end 0 1.5) (layer F.Fab) (width 0.8))
+  (fp_circle (center 0 0) (end 2.7 0) (layer F.SilkS) (width 0.15))
+  (fp_circle (center 0 0) (end 2.5 -0.1) (layer F.Fab) (width 0.15))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.6 2.6) (drill 2.6) (layers *.Cu *.Mask))
+)
