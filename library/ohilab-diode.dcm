@@ -54,6 +54,11 @@ D RS1A - RS1M Fast Rectifiers
 F https://www.fairchildsemi.com/datasheets/RS/RS1M.pdf
 $ENDCMP
 #
+$CMP SK36A
+D SK36A 3A, 20V - 200V Surface Mount Schottky Barrier Rectifiers
+F http://www.taiwansemi.com/products/datasheet/SK32A%20SERIES_S15.pdf
+$ENDCMP
+#
 $CMP SM15T39CA
 D SM15T Transil Transient Voltage Suppressor
 $ENDCMP
