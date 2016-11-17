@@ -1,9 +1,9 @@
-(module CAPACITOR-6.3x7.7 (layer F.Cu) (tedit 580471F6)
-  (descr "Electrolitic Capacitor - Width 6.3mm - Heigth 7.7.mm")
+(module CAPACITOR-6.3x5.3 (layer F.Cu) (tedit 582D2CF6)
+  (descr "Electrolitic Capacitor - Width 6.3mm - Heigth 5.3mm")
   (fp_text reference VAL** (at 0 -4.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value CAPACITOR-6.3x7.7 (at 0 0) (layer F.Fab) hide
+  (fp_text value CAPACITOR-6.3x5.3 (at 0 0) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 3.3 0.3) (end 3.7 0.3) (layer F.Fab) (width 0.15))
@@ -34,7 +34,7 @@
   (fp_line (start 3.3 3.3) (end 3.3 -3.3) (layer F.Fab) (width 0.15))
   (pad 1 smd rect (at -2.5 0) (size 3.2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.5 0) (size 3.2 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KIOHILABMOD}/packages3d/walter/capacitor/c_elec_6_3x7_7.wrl
+  (model ${KIOHILABMOD}/packages3d/walter/capacitor/c_elec_6_3x5_3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
