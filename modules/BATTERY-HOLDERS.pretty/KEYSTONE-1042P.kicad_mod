@@ -1,4 +1,4 @@
-(module KEYSTONE-1042P (layer F.Cu) (tedit 582E50E2)
+(module KEYSTONE-1042P (layer F.Cu) (tedit 582E513B)
   (descr "Keystone 1042P - 18650 LITHIUM-ION BATTERY HOLDERS")
   (tags 18650)
   (fp_text reference VAL** (at 0 -0.7) (layer F.SilkS)

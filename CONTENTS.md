@@ -89,6 +89,7 @@ Library
 |   |   |-- PESD12VL2BT
 |   |   |-- PESD1CAN
 |   |   |-- RS1M
+|   |   |-- SK36A
 |   |   |-- SM15T39CA
 |   |   |-- SMBJ48A-13-F
 |   |
@@ -178,24 +179,33 @@ Library
 |       |-- ZVN4210G
 |
 |-- Footprint
+|   |-- BATTERY-HOLDERS
+|   |   |-- KEYSTONE-1042P
+|   |   |-- KEYSTONE-3002
+|   | 
 |   |-- BUZZER
-|   |   |-- XXXX
+|   |   |-- BUZZER-PKLCS-SERIES
 |   |
 |   |-- CAPACITOR
+|   |   |-- CAPACITOR-6.3x5.3
 |   |   |-- CAPACITOR-6.3x7.7
 |   |   |-- CAPACITOR-8.0x6.2
+|   |   |-- CAPACITOR-8.0x10.0
 |   |   |-- CAPACITOR-0402
 |   |   |-- CAPACITOR-0603
 |   |   |-- CAPACITOR-0805
 |   |   |-- CAPACITOR-1206
 |   |
 |   |-- CONNECTOR
-|   |   |-- CONN-5x2-1.27-SMD
+|   |   |-- CONN-SOCKET-12x2-2.54
+|   |   |-- CONN-STRIP-4x1-2.54
+|   |   |-- CONN-STRIP-5x2-1.27-SMD
 |   |   |-- CONN-XBEE-THT
 |   |   |-- CONN-XBEEPRO-THT
 |   |   |-- DB9_FEMALE_V
 |   |   |-- DB9_MALE_V
 |   |   |-- MICROUSB-WURTH-WRCOM
+|   |   |-- SDCARD-MOLEX-0473092651
 |   |   |-- USB-TECON-5787834_1
 |   |
 |   |-- CONNECTOR_MCV
@@ -204,6 +214,7 @@ Library
 |   |   |-- CONN-MCV0.5_8-G-2.5
 |   |   |-- CONN-MCV0.5_12-G-2.5
 |   |   |-- CONN-MCV1.5_3-G-3.81
+|   |   |-- CONN-MCV1.5_4-G-3.81
 |   |   |-- CONN-MCV1.5_8-G-3.81
 |   |
 |   |-- CRYSTAL
@@ -215,6 +226,7 @@ Library
 |   |   |-- DIODE-DO214AA-UNI
 |   |   |-- DIODE-DO214AB-BID
 |   |   |-- DIODE-DO214AB-UNI
+|   |   |-- DIODE-DO214AC-UNI
 |   |
 |   |-- DFN
 |   |   |-- DFN6_3.0x3.0_1.0
@@ -222,6 +234,15 @@ Library
 |   |
 |   |-- DIP
 |   |   |-- DIP8-SMD
+|   |
+|   |-- FUSE
+|   |   |-- FUSE-LITTELFUSE-SMT
+|   |
+|   |-- INDUCTOR
+|   |   |-- INDUCTOR-0402
+|   |   |-- INDUCTOR-0603
+|   |   |-- INDUCTOR-0805
+|   |   |-- INDUCTOR-TCK044
 |   |
 |   |-- LEDs
 |   |   |-- LED-0402
@@ -233,6 +254,13 @@ Library
 |   |   |-- LQFP64_10x10_0.5
 |   |   |-- LQFP144_20x20_0.5
 |   |
+|   |-- MECHANICAL
+|   |   |-- FIDUCIAL-TOP
+|   |   |-- SCREW-M2
+|   |   |-- SCREW-M2.5
+|   |   |-- SCREW-M3
+|   |   |-- SCREW-M4
+|   |
 |   |-- MISC
 |   |   |-- JUMPERSMD-3
 |   |   |-- SENSOR-SFH5711
@@ -243,6 +271,7 @@ Library
 |   |   |-- RESISTOR-0603
 |   |   |-- RESISTOR-0805
 |   |   |-- RESISTOR-1206
+|   |   |-- RESISTOR-CAT16-X4
 |   |   |-- RESISTOR-TRIM-BOURNS-3224J
 |   |
 |   |-- SOIC
@@ -260,6 +289,9 @@ Library
 |   |-- SSOP
 |   |   |-- MSOP8_3x3_0.65
 |   |   |-- SSOP16_3.9x4.9_0.635
+|   |
+|   |-- SWITCH
+|   |   |-- SWITCH-EVQPE1
 |   |
 |   |-- TRACOPOWER
 |   |   |-- TRACO-TES1-XXXX
