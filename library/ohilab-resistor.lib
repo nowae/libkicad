@@ -51,7 +51,7 @@ F1 "CAT16-103J4LF" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "ARRAY-4, 10k, 1206, 5%" 0 450 50 H I C CNN
 F4 "Bourns" 0 550 60 H I C CNN "Manufacturer"
-F5 "CAT16-103J4LF" 0 650 60 H I C CNN "Part Name"
+F5 "CAT16-103J4LF" 0 650 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 50 750 60 H I C CNN "Distributor"
 F7 "1770124" 0 850 60 H I C CNN "Distributor Code"
 F8 "0.152" 0 950 60 H I C CNN "Price €"
@@ -80,7 +80,7 @@ F1 "CAT16-104J4LF" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "ARRAY-4, 100k, 1206, 5%" 0 450 50 H I C CNN
 F4 "Bourns" 0 550 60 H I C CNN "Manufacturer"
-F5 "CAT16-104J4LF" 0 650 60 H I C CNN "Part Name"
+F5 "CAT16-104J4LF" 0 650 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 50 750 60 H I C CNN "Distributor"
 F7 "1770125" 0 850 60 H I C CNN "Distributor Code"
 F8 "0.025" 0 950 60 H I C CNN "Price €"
