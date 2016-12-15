@@ -298,3 +298,7 @@ Library
 |   |   |-- TRACO-TES3-XXXX
 |   |   |-- TRACO-TSR0.5-24XX
 |   |   |-- TRACO-TSRN1-XXXXSM
+|   |
+|   |-- WIFI
+|   |   |-- ANTENNA-AMCA31
+|   |   |-- WIFI-SPWF01XX
