@@ -118,6 +118,7 @@ Library
 |   |-- Microcontroller
 |   |   |-- ATSAM3X8E
 |   |   |-- MKL15Z128VLH4
+|   |   |-- MK64FN1M0VDC12
 |   |   |-- MK64FN1M0VLL12
 |   |
 |   |-- Miscellaneous
