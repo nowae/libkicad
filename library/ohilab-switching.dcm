@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMZ34002
+D Switching power module with +4.5V-40V input and -17V output min at 2A
+F http://www.ti.com/lit/ds/symlink/lmz34002.pdf
+$ENDCMP
+#
+$CMP LMZ35003
+D Switching power module with 7V-50V input and 15V output max at 2.5A
+F http://www.ti.com/lit/ds/symlink/lmz35003.pdf
+$ENDCMP
+#
+$CMP TPS62180
+D Step down converter with +4V to +15Vin and +0.9 to +6Vout at 6A
+F http://www.ti.com/lit/ds/symlink/tps62180.pdf
+$ENDCMP
+#
+#End Doc Library
