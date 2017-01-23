@@ -15,4 +15,9 @@ D Step down converter with +4V to +15Vin and +0.9 to +6Vout at 6A
 F http://www.ti.com/lit/ds/symlink/tps62180.pdf
 $ENDCMP
 #
+$CMP TPS62743
+D Ultra low power switching with +2.15 to +5.5Vin and +1.2 to 3.3Vout, 400mA, Iq = 360nA
+F http://www.ti.com/lit/ds/symlink/tps62743.pdf
+$ENDCMP
+#
 #End Doc Library
