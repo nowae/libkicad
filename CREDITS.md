@@ -1,4 +1,4 @@
 # Credits
 
-Marco Giammarini <http://www.warcomeb.it>
-Nicola Orlandini
+* Nicola Orlandini
+* Marco Giammarini <http://www.warcomeb.it>
