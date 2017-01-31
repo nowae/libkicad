@@ -31,7 +31,7 @@
   (fp_line (start -1.1 0.5) (end -1.1 -0.5) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -0.6 0) (size 0.6 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.6 0) (size 0.6 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KIOHILABMOD}/packages3d/walter/LEDs/led_0603.wrl
+  (model ${KINOWAEMOD}/packages3d/walter/LEDs/led_0603.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.666667 0.666667 0.666667))
     (rotate (xyz 0 0 0))

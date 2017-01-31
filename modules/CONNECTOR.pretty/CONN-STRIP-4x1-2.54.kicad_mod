@@ -41,7 +41,7 @@
   (pad 3 thru_hole circle (at 1.27 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at -3.81 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 3.81 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model ${KIOHILABMOD}/packages3d/walter/connector/pin_strip_4.wrl
+  (model ${KINOWAEMOD}/packages3d/walter/connector/pin_strip_4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
