@@ -53,6 +53,11 @@ D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
 F http://katalog.we-online.de/em/datasheet/629105150521.pdf
 $ENDCMP
 #
+$CMP USB_A_90
+D USB 4P Horizontal Type A Plug Connector
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//0480372200_IO_CONNECTORS.pdf
+$ENDCMP
+#
 $CMP USB_B_180-5787834-1
 D USB 4P Vertical Type B Receptacle Connector
 F http://www.te.com/usa-en/product-5787834-1.html
