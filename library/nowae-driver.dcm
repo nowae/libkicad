@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FLS0116
+D MOSFET Integrated Smart LED Lamp Driver IC with PFC Function
+F https://www.fairchildsemi.com/datasheets/FL/FLS0116.pdf
+$ENDCMP
+#
+$CMP TPS92511
+D Common Anode Constant Current Buck with 500mA and +65Vin max
+F http://www.ti.com/lit/ds/symlink/tps92511.pdf
+$ENDCMP
+#
+#End Doc Library
