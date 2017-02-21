@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FRDM-KL25Z
+D FRDM-KL25Z: Freedom Development Platform for Kinetis KL14, KL15, KL24, KL25 MCUs
+F http://www.nxp.com/assets/documents/data/en/user-guides/FRDMKL25ZUM.zip
+$ENDCMP
+#
 $CMP XMC4700-RELAX
 D XMC4700 Evaluation Board For XMC4000 Family
 F http://www.infineon.com/dgdl/Infineon-Board_User_Manual_XMC4700_XMC4800_Relax_Kit_Series-UM-v01_00-EN.pdf?fileId=5546d46250cc1fdf01513f8e052d07fc
