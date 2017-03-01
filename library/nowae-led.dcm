@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP BLUE
-D Green Led
+D Blue Led
 $ENDCMP
 #
 $CMP CLV1A-FKB

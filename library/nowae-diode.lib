@@ -318,8 +318,7 @@ F6 "Farnell Italia S.r.l." 300 400 60 H I C CNN "Distributor"
 F7 "2454086" 400 500 60 H I C CNN "Distributor Code"
 F8 "0.262" 500 600 60 H I C CNN "Price €"
 $FPLIST
- D?
- S*
+ DIODE-DO214AC-*
 $ENDFPLIST
 DRAW
 P 2 0 1 6 50 50 50 -50 N
