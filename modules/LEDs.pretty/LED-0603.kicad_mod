@@ -1,4 +1,4 @@
-(module LED-0603 (layer F.Cu) (tedit 57F91B80)
+(module LED-0603 (layer F.Cu) (tedit 58B96610)
   (descr "SMD CAP 0603")
   (tags "0603 SM0603 LED")
   (attr smd)
@@ -6,6 +6,9 @@
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value LED-0603 (at 0 1.4) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 -1.3) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 2.2 0.8) (end -1.5 0.8) (layer F.CrtYd) (width 0.05))

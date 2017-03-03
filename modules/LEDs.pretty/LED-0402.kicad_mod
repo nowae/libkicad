@@ -1,4 +1,4 @@
-(module LED-0402 (layer F.Cu) (tedit 57F91BD3)
+(module LED-0402 (layer F.Cu) (tedit 58B965F9)
   (descr "SMD 0402")
   (tags "0402 SM0402")
   (attr smd)
@@ -6,6 +6,9 @@
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value LED-0402 (at 0 1.1) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 -1) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 1.6 0.5) (end -1.1 0.5) (layer F.CrtYd) (width 0.05))

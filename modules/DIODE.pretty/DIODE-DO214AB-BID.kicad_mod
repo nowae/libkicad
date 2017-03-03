@@ -1,4 +1,4 @@
-(module DIODE-DO214AB-BID (layer F.Cu) (tedit 57FF7314)
+(module DIODE-DO214AB-BID (layer F.Cu) (tedit 58B965B3)
   (descr "DIODE SMD DO214AB Bidirectional")
   (tags "DIODE DO214AB DO-214AB")
   (attr smd)
@@ -6,6 +6,9 @@
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value DIODE-DO214AB-BID (at 0 4.1) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 -4) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -4.6 -3.4) (end 4.6 -3.4) (layer F.CrtYd) (width 0.05))
