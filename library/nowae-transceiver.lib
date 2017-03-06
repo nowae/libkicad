@@ -14,7 +14,7 @@ F6 "Farnell Italia S.r.l." 0 -1150 60 H I C CNN "Distributor"
 F7 "2081324" 0 -1250 60 H I C CNN "Distributor Code"
 F8 "2.12" 0 -1350 60 H I C CNN "Price €"
 $FPLIST
- QFN16_3x3_0.5
+ QFN16_3x3_0.5_16+1
 $ENDFPLIST
 DRAW
 S -300 750 300 -750 0 1 0 N
