@@ -10,6 +10,11 @@ D Switching power module with 7V-50V input and 15V output max at 2.5A
 F http://www.ti.com/lit/ds/symlink/lmz35003.pdf
 $ENDCMP
 #
+$CMP TPS62152
+D TPS6215x 3-V to 17-V, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
+F http://www.ti.com/lit/ds/symlink/tps62150.pdf
+$ENDCMP
+#
 $CMP TPS62153
 D TPS6215x 3-V to 17-V, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
 F http://www.ti.com/lit/ds/symlink/tps62150.pdf
