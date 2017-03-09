@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RN4870
+D Mudole BLE 4.2, 2.4GHz, With Antenna
+$ENDCMP
+#
 $CMP SPWF01SA
 D SPWF01SA Serial-to-Wi-Fi b/g/n intelligent modules
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/ba/8c/b2/64/02/bc/4e/05/DM00102124.pdf/files/DM00102124.pdf/jcr:content/translations/en.DM00102124.pdf

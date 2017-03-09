@@ -7,12 +7,15 @@ DEF RN4870 U 0 40 Y Y 1 F N
 F0 "U" -350 1150 60 H V C CNN
 F1 "RN4870" 250 1150 60 H V C CNN
 F2 "" 0 300 60 H I C CNN
-F3 "BLE 4.2, 2.4GHz, W/ Antenna" 0 300 60 H I C CNN
-F4 "Microchip" -250 1250 60 H I C CNN "Manufacturer"
-F5 "RN4870-V/RM118" -150 1350 60 H I C CNN "Part Number"
-F6 "RS Components S.p.A." -50 1450 60 H I C CNN "Distributor"
-F7 "123-8535" 50 1550 60 H I C CNN "Cod. Distributor"
-F8 "7.93" 150 1650 60 H I C CNN "Price"
+F3 "BLE 4.2, 2.4GHz, W/ Antenna" 0 -1350 60 H I C CNN
+F4 "Microchip" 0 -1450 60 H I C CNN "Manufacturer"
+F5 "RN4870-V/RM118" 0 -1550 60 H I C CNN "Part Number"
+F6 "RS Components S.p.A." 0 -1650 60 H I C CNN "Distributor"
+F7 "123-8535" 0 -1750 60 H I C CNN "Cod. Distributor"
+F8 "7.93" 0 -1850 60 H I C CNN "Price"
+$FPLIST
+ RN4870U
+$ENDFPLIST
 DRAW
 S -450 1050 450 -1050 0 1 0 N
 X GND 1 -650 900 200 R 50 50 1 1 W
