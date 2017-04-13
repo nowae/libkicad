@@ -83,9 +83,9 @@
   (pad 2 thru_hole oval (at -1.9 0) (size 2.2 2.7) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 1.9 0) (size 2.2 2.7) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 5.715 0) (size 2.2 2.7) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
-  (model ${KINOWAEMOD}/packages3d/walter/connector-mkds/mkds_1,5-2.wrl
+  (model ${KINOWAEMOD}/packages3d/walter/connector-mkds/mkds_1,5-4.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.75 0.7 0.65))
+    (scale (xyz 1.5 1 1))
     (rotate (xyz 0 0 0))
   )
 )
