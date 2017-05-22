@@ -10,6 +10,11 @@ D FT230X USB to basic UART IC
 F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
 $ENDCMP
 #
+$CMP ISO15M
+D ISO15M Isolated 3.3V Half-Duplex RS-485 Transceivers, -55°C +125°C
+F http://www.ti.com/lit/ds/symlink/iso15.pdf
+$ENDCMP
+#
 $CMP MCP2551
 D UART TTl to CAN Bus
 F http://ww1.microchip.com/downloads/en/DeviceDoc/21667f.pdf
