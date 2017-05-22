@@ -10,6 +10,11 @@ D DS3231 Extremely Accurate I2C-Integrated RTC/TCXO/Crystal
 F https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
 $ENDCMP
 #
+$CMP NC7WZ17
+D NC7WZ17 Dual Buffer with Schmitt Trigger Inputs
+F http://www.ti.com/lit/ds/symlink/sn74lv14a.pdf
+$ENDCMP
+#
 $CMP SN65HVS882
 D SN65HVS882 8 input 10-34V digital-input serializer for industrial digital inputs
 F http://www.ti.com/lit/ds/symlink/sn65hvs882.pdf
