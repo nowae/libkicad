@@ -25,4 +25,9 @@ D Kinetis KL15 48 MHz Cortex-M0+ Based Microcontroller
 F http://cache.nxp.com/files/32bit/doc/data_sheet/KL15P80M48SF0.pdf
 $ENDCMP
 #
+$CMP XMC4500
+D Microcontroller ARM Cortex-M4 32bit, 120 MHz, 1 MB, 160 KB, 100 Pin
+F http://www.infineon.com/dgdl/Infineon-XMC4500-DS-v01_04-EN.pdf?fileId=5546d46254e133b40154e1b56cbe0123
+$ENDCMP
+#
 #End Doc Library
