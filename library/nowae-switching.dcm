@@ -11,12 +11,12 @@ F http://www.ti.com/lit/ds/symlink/lmz35003.pdf
 $ENDCMP
 #
 $CMP TPS62152
-D TPS6215x 3-V to 17-V, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
+D TPS6215x 3-V to 17-V, Fixed 3.3V Output Voltage, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
 F http://www.ti.com/lit/ds/symlink/tps62150.pdf
 $ENDCMP
 #
 $CMP TPS62153
-D TPS6215x 3-V to 17-V, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
+D TPS6215x 3-V to 17-V, Adjustable Output Voltage, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
 F http://www.ti.com/lit/ds/symlink/tps62150.pdf
 $ENDCMP
 #
