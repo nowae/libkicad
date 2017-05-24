@@ -96,6 +96,10 @@ $CMP GND-12V-ISO2
 D +12V Isolated GND, Nr. 2
 $ENDCMP
 #
+$CMP GND-24V-ISO
+D +24V Isolated GND, Nr. 0
+$ENDCMP
+#
 $CMP GND-3V3-ISO
 D +3V3 Isolated GND, Nr. 0
 $ENDCMP
