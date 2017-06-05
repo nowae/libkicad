@@ -17,6 +17,16 @@ K pmos p-mos p-mosfet transistor
 F http://www.vishay.com/docs/63861/si2333dds.pdf
 $ENDCMP
 #
+$CMP TPL7407LDR
+D TPL7407L 40-V 7-Channel Low Side Driver
+F http://www.ti.com/lit/ds/symlink/tpl7407l.pdf
+$ENDCMP
+#
+$CMP ULN2803ADW
+D ULN2803A Darlington Transistor Arrays
+F http://www.ti.com/lit/ds/symlink/uln2803a.pdf
+$ENDCMP
+#
 $CMP ZVN4210G
 D ZVN4210G N-Channel Eenhancement mode vertical DMOS FETD
 K nmos n-mos n-mosfet transistor
