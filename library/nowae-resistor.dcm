@@ -22,6 +22,18 @@ K R pack array
 F http://www.bourns.com/docs/Product-MDS/cat16-j4.pdf
 $ENDCMP
 #
+$CMP CAT16-152J4LF
+D CAT16-F/J4 (LF) series - Chip Resistor Array
+K R pack array
+F http://www.bourns.com/docs/Product-MDS/cat16-j4.pdf
+$ENDCMP
+#
+$CMP CAT16-330J4LF
+D CAT16-F/J4 (LF) series - Chip Resistor Array
+K R pack array
+F http://www.bourns.com/docs/Product-MDS/cat16-j4.pdf
+$ENDCMP
+#
 $CMP MMA0204-1K2
 D MMA0204 - Professional MELF Resistors
 F http://www.vishay.com/docs/28713/melfprof.pdf
