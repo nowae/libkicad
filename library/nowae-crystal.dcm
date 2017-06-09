@@ -18,4 +18,10 @@ K Quartz, Ceramic, Filter, Resonator
 F http://www.abracon.com/Resonators/abm7.pdf
 $ENDCMP
 #
+$CMP ABM7-25.000MHZ
+D ABM7 Ceramic SMD micro miniature microprocessor crystal
+K Quartz, Ceramic, Filter, Resonator
+F http://www.abracon.com/Resonators/abm7.pdf
+$ENDCMP
+#
 #End Doc Library
