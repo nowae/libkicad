@@ -20,6 +20,11 @@ D Kinetis K64 120 MHz Cortex-M4 Based Microcontroller
 F http://www.nxp.com/assets/documents/data/en/data-sheets/K64P144M120SF5.pdf
 $ENDCMP
 #
+$CMP MK64FN1M0VLQ12
+D Kinetis K64 120 MHz Cortex-M4 Based Microcontroller
+F http://www.nxp.com/assets/documents/data/en/data-sheets/K64P144M120SF5.pdf
+$ENDCMP
+#
 $CMP MKL15Z128VLH4
 D Kinetis KL15 48 MHz Cortex-M0+ Based Microcontroller
 F http://cache.nxp.com/files/32bit/doc/data_sheet/KL15P80M48SF0.pdf
