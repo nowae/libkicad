@@ -561,7 +561,7 @@ F1 "GND-5V-ISO" 0 0 30 H I C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
-T 0 -50 -50 20 0 0 0 +5V Normal 0 C C
+T 0 -50 -50 20 0 0 0 05V Normal 0 C C
 T 0 50 -50 20 0 0 0 ISO Normal 0 C C
 P 4 0 1 0 -50 0 50 0 0 -50 -50 0 N
 X GND 1 0 0 0 U 30 30 1 1 W N
