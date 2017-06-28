@@ -73,9 +73,9 @@ ENDDEF
 #
 # NC7WZ17
 #
-DEF ~NC7WZ17 U 0 30 Y Y 2 F N
+DEF NC7WZ17 U 0 30 Y Y 2 F N
 F0 "U" 200 100 60 H V C CNN
-F1 "NC7WZ17" 275 -100 60 H I C CNN
+F1 "NC7WZ17" 275 -100 60 H V C CNN
 F2 "SC70-6_1.25x2.00_0.65" 0 -950 60 H I C CNN
 F3 "Dual Buffer with Schmitt Trigger Inputs" 0 -350 60 H I C CNN
 F4 "Fairchild Semiconductor" 0 -450 60 H I C CNN "Manufacturer"
