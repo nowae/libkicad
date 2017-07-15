@@ -15,6 +15,11 @@ D LMx58, LMx58x, LM2904, LM2904V Dual Operational Amplifiers
 F http://www.ti.com/lit/ds/symlink/lm358.pdf
 $ENDCMP
 #
+$CMP MCP609
+D 2.5V to 6.0V Micropower CMOS Op Amp Qual Operational Amplifiers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11177f.pdf
+$ENDCMP
+#
 $CMP OPA2132U
 D OPAx132High-SpeedFET-Input Operational Amplifiers
 F http://www.ti.com/lit/ds/symlink/opa2132.pdf
