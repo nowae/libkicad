@@ -64,15 +64,15 @@ ENDDEF
 # LM358D
 #
 DEF LM358D U 0 0 Y Y 2 F N
-F0 "U" 200 200 60 H V C CNN
-F1 "LM358D" 300 100 60 H V C CNN
+F0 "U" 200 150 60 H V C CNN
+F1 "LM358D" 300 -150 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 200 200 60 H V C CNN
-F4 "Texas Instruments" 300 300 60 H I C CNN "Manufacturer"
-F5 "LM358DR" 400 400 60 H I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 500 500 60 H I C CNN "Distributor"
-F7 "1648685" 600 600 60 H I C CNN "Distributor Code"
-F8 "0.400" 700 700 60 H I C CNN "Price €"
+F4 "Texas Instruments" 0 -350 60 H I C CNN "Manufacturer"
+F5 "LM358DR" 0 -450 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -550 60 H I C CNN "Distributor"
+F7 "1648685" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.400" 0 -750 60 H I C CNN "Price €"
 DRAW
 T 0 -150 -100 79 0 0 0 + Normal 0 C C
 T 0 -150 100 79 0 0 0 - Normal 0 C C
