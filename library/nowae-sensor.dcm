@@ -5,6 +5,11 @@ D FXAS21002C 3-Axis Digital Angular Rate Gyroscope
 F http://cache.nxp.com/files/sensors/doc/data_sheet/FXAS21002.pdf
 $ENDCMP
 #
+$CMP FXLN8372Q
+D Xtrinsic FXLN83xxQ 3-Axis Low- Power Analog-Output Accelerometer
+F http://www.nxp.com/docs/en/data-sheet/FXLN83xxQ.pdf
+$ENDCMP
+#
 $CMP FXOS8700CQ
 D FXOS8700CQ 6-axis sensor with integrated linear accelerometer and magnetometer
 F http://cache.nxp.com/files/sensors/doc/data_sheet/FXOS8700CQ.pdf
