@@ -19,6 +19,11 @@ $CMP DZ2436000L
 D DZ2436000L Zener Diode
 $ENDCMP
 #
+$CMP ES1CL
+D 1A Surface Mount Super Fast Rectifiers
+F http://www.taiwansemi.com/products/datasheet/ES1AL%20SERIES_K15.pdf
+$ENDCMP
+#
 $CMP MBR0520
 D MBR0520LT1G Surface Mount Schottky Power Rectifier 0.5 Amperes 20 Volts
 F http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF
