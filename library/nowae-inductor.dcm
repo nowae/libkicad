@@ -14,4 +14,9 @@ K inductor choke
 F http://www.tracopower.com/products/tck044.pdf
 $ENDCMP
 #
+$CMP TRANSFORMER-WURTH:750315371
+D MID-PPTI Push-Pull Transformers for Texas Instruments
+F http://katalog.we-online.de/ctm/datasheet/750315371.pdf
+$ENDCMP
+#
 #End Doc Library
