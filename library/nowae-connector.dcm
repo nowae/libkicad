@@ -61,6 +61,11 @@ D 1.10mm Pitch microSD Card Header with Detect Switch
 F http://www.molex.com/pdm_docs/sd/473092651_sd.pdf
 $ENDCMP
 #
+$CMP MICROSD-WURTH:693071010811
+D Micro SD Card Connector Push & Push - with card detection - 8 pins WR-CRD
+F http://katalog.we-online.de/em/datasheet/693071010811.pdf
+$ENDCMP
+#
 $CMP MICROUSB-629105150521
 D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
 F http://katalog.we-online.de/em/datasheet/629105150521.pdf
