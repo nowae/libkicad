@@ -20,6 +20,11 @@ D REF3325 3.9-μA, SC70-3, SOT-23-3, and UQFN-8, 30-ppm/°C
 F http://www.ti.com/lit/ds/symlink/ref3325.pdf
 $ENDCMP
 #
+$CMP SN6505BDBVT
+D SN6505 Low-Noise 1-A Transformer Drivers for Isolated Power Supplies
+F http://www.ti.com/lit/ds/symlink/sn6505a.pdf
+$ENDCMP
+#
 $CMP SPX3819-3.3
 D SPX3819 500mA Low-Noise LDO Voltage Regulator
 F https://www.exar.com/product/power-management/power-conversion/ldos-and-regulators/linear-ldos/spx3819s-l
