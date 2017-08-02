@@ -5,6 +5,11 @@ D 1.0A SURFACE MOUNT SCHOTTKY BARR
 F https://www.diodes.com/assets/Datasheets/ds30217.pdf
 $ENDCMP
 #
+$CMP 1N5819HW-7-F
+D 1.0A SURFACE MOUNT SCHOTTKY BARR
+F https://www.diodes.com/assets/Datasheets/ds30217.pdf
+$ENDCMP
+#
 $CMP BYM10-1000
 D BYM10-xxx Surface Mount Glass Passivated Junction Rectifier
 F http://www.vishay.com/docs/88546/bym10-xxx.pdf
