@@ -25,4 +25,13 @@ D ISO742x Low-Power Dual-Channel Digital Isolators
 F http://www.ti.com/lit/ds/symlink/iso7421.pdf
 $ENDCMP
 #
+$CMP TCLT1600
+D Optocoupler, Phototransistor Output, AC Input, SOP-4L, Long Mini-Flat Package
+F https://www.vishay.com/docs/83517/tclt1600.pdf
+$ENDCMP
+#
+$CMP TCMT1103
+D DC Optocoupler
+$ENDCMP
+#
 #End Doc Library
