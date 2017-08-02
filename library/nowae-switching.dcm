@@ -10,6 +10,11 @@ D Switching power module with 7V-50V input and 15V output max at 2.5A
 F http://www.ti.com/lit/ds/symlink/lmz35003.pdf
 $ENDCMP
 #
+$CMP ST1S14PHR
+D Step down switching regulator, +5.5 to +48Vin, 3 A
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/35/21/f8/1a/9f/41/da/CD00285678.pdf/files/CD00285678.pdf/jcr:content/translations/en.CD00285678.pdf
+$ENDCMP
+#
 $CMP TPS62152
 D TPS6215x 3-V to 17-V, Fixed 3.3V Output Voltage, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
 F http://www.ti.com/lit/ds/symlink/tps62150.pdf
