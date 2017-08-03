@@ -4,6 +4,11 @@ $CMP DIPSWITCH-MULTICOMP:MCDHN-04F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 $ENDCMP
 #
+$CMP DIPSWITCH-MULTICOMP:MCDHN-08F
+D DIL Switch - MCDHN Series, Top Tape Sealed
+F http://www.farnell.com/datasheets/1701867.pdf
+$ENDCMP
+#
 $CMP EVQPE104K
 D 6.0mm X 3.5mm SMD Light Touch Switches
 K switch button

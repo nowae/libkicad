@@ -128,6 +128,10 @@ $CMP GND-5V-ISO3
 D +5V Isolated GND, Nr. 3
 $ENDCMP
 #
+$CMP GND-ANALOG-0
+D Analog GND, Nr. 0
+$ENDCMP
+#
 $CMP GND-EARTH-1
 D GND Earth, Nr. 1
 $ENDCMP
