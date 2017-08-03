@@ -14,4 +14,9 @@ D 6.0mm X 3.5mm SMD Light Touch Switches
 K switch button
 $ENDCMP
 #
+$CMP TS3A4741DGKR
+D TS3A474x 0.9-Ω Low-Voltage Single-Supply 2-Channel SPST Analog Switches
+F http://www.ti.com/lit/ds/symlink/ts3a4741.pdf
+$ENDCMP
+#
 #End Doc Library
