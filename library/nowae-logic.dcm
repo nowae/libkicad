@@ -36,6 +36,11 @@ K TTL AND AND3
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g11.pdf
 $ENDCMP
 #
+$CMP SN74LVC1G332BVD
+D SN74LVC1G332 - Single 3-Input Positive-OR Gate
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g332.pdf
+$ENDCMP
+#
 $CMP VN808CM-E
 D VN808CM-E Octal channel high-side driver
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/group2/a7/3a/c1/a2/1f/7d/4c/cb/CD00059622/files/CD00059622.pdf/jcr:content/translations/en.CD00059622.pdf
