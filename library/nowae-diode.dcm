@@ -10,6 +10,11 @@ D 1.0A SURFACE MOUNT SCHOTTKY BARR
 F https://www.diodes.com/assets/Datasheets/ds30217.pdf
 $ENDCMP
 #
+$CMP BAV70L
+D BAV70: Switching Diode, Quad - Two Duals, Common Cathode, 100V
+F http://www.onsemi.com/pub/Collateral/BAV70LT1-D.PDF
+$ENDCMP
+#
 $CMP BYM10-1000
 D BYM10-xxx Surface Mount Glass Passivated Junction Rectifier
 F http://www.vishay.com/docs/88546/bym10-xxx.pdf
