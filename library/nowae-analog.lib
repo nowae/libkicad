@@ -82,7 +82,7 @@ ENDDEF
 DEF MAX31865 U 0 40 Y Y 1 F N
 F0 "U" 0 650 60 H V C CNN
 F1 "MAX31865" 0 -650 60 H V C CNN
-F2 "" 0 0 60 H I C CNN
+F2 "TQFN20_5x5_0.65_20+1" 0 -1350 60 H I C CNN
 F3 "RTD to Digital Converter" 0 -750 60 H I C CNN
 F4 "Maxim Integrated" 0 -850 60 H I C CNN "Manufacturer"
 F5 "MAX31865ATP+" 0 -950 60 H I C CNN "Part Number"
@@ -90,7 +90,7 @@ F6 "Farnell Italia S.r.l." 0 -1050 60 H I C CNN "Distributor"
 F7 "2515574" 0 -1150 60 H I C CNN "Distributor Code"
 F8 "4.11" 0 -1250 60 H I C CNN "Price €"
 $FPLIST
- TQFN20_5x5_0.65
+ TQFN20_5x5_0.65_20+1
 $ENDFPLIST
 DRAW
 S -350 550 350 -550 0 1 0 N
