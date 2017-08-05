@@ -127,6 +127,9 @@ F5 "TPS62152RGTT" 0 -800 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -900 60 H I C CNN "Distributor"
 F7 "2311345" 0 -1000 60 H I C CNN "Distributor Code"
 F8 "1.48" 0 -1100 60 H I C CNN "Price €"
+$FPLIST
+ HSOIC8_3.9x4.9_1.27
+$ENDFPLIST
 DRAW
 S -200 250 200 -350 0 1 0 N
 X BOOT 1 -400 150 200 R 50 50 1 1 I
