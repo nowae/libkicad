@@ -73,6 +73,9 @@ F5 "LM358DR" 0 -450 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -550 60 H I C CNN "Distributor"
 F7 "1648685" 0 -650 60 H I C CNN "Distributor Code"
 F8 "0.400" 0 -750 60 H I C CNN "Price €"
+$FPLIST
+ SOIC8_3.9x4.9_1.27
+$ENDFPLIST
 DRAW
 T 0 -150 -100 79 0 0 0 + Normal 0 C C
 T 0 -150 100 79 0 0 0 - Normal 0 C C
