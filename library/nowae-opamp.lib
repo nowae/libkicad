@@ -44,7 +44,7 @@ F6 "Farnell Italia S.r.l." 0 -650 60 H I C CNN "Distributor"
 F7 "2295977" 0 -750 60 H I C CNN "Distributor Code"
 F8 "4.69" 0 -850 60 H I C CNN "Price €"
 $FPLIST
- VSSOP8_3x3_0.65
+ MSOP8_3x3_0.65
 $ENDFPLIST
 DRAW
 T 0 -150 -100 79 0 0 0 + Normal 0 C C
