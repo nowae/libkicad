@@ -100,6 +100,9 @@ F5 "SN6505BDBVT" 0 -500 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -600 60 H I C CNN "Distributor"
 F7 "2507108" 0 -700 60 H I C CNN "Distributor Code"
 F8 "5.400" 0 -800 60 H I C CNN "Price €"
+$FPLIST
+ SOT23-6
+$ENDFPLIST
 DRAW
 S -250 200 250 -200 0 1 0 N
 X D1 1 450 -100 200 L 50 50 1 1 w
