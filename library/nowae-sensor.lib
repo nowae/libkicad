@@ -54,6 +54,9 @@ F5 "FXLN8372QR1" 0 -750 60 H I C CNN "Part Number"
 F6 "Mouser Electronics S.r.l." 0 -850 60 H I C CNN "Distributor"
 F7 "841-FXLN8372QR1" 0 -950 60 H I C CNN "Distributor Code"
 F8 "4.25" 0 -1050 60 H I C CNN "Price €"
+$FPLIST
+ QFN12_3x3_0.65
+$ENDFPLIST
 DRAW
 S 350 350 -350 -350 0 1 0 N
 X BYP 1 -550 250 200 R 50 50 1 1 O
