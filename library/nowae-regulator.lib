@@ -35,6 +35,9 @@ F5 "REF1930AIDDCT" 0 -600 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -700 60 H I C CNN "Distributor"
 F7 "2450205" 0 -800 60 H I C CNN "Distributor Code"
 F8 "2.89" 0 -900 60 H I C CNN "Price €"
+$FPLIST
+ SOT23-5
+$ENDFPLIST
 DRAW
 S -250 200 250 -200 0 1 0 N
 X VBIAS 1 450 -100 200 L 50 50 1 1 O
