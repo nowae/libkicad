@@ -123,10 +123,10 @@ F1 "ST1S14PHR" 0 -450 60 H V C CNN
 F2 "HSOIC-8" 0 -1200 60 H I C CNN
 F3 "Step Down, +5.5 to +48Vin, +3.3Vout, 3A" 0 -600 60 H I C CNN
 F4 "ST Microelectronics" 0 -700 60 H I C CNN "Manufacturer"
-F5 "TPS62152RGTT" 0 -800 60 H I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 0 -900 60 H I C CNN "Distributor"
-F7 "2311345" 0 -1000 60 H I C CNN "Distributor Code"
-F8 "1.48" 0 -1100 60 H I C CNN "Price €"
+F5 "ST1S14PHR" 0 -800 60 H I C CNN "Part Number"
+F6 "Mouser Electronics S.r.l." 0 -900 60 H I C CNN "Distributor"
+F7 "511-ST1S14PHR" 0 -1000 60 H I C CNN "Distributor Code"
+F8 "1.530" 0 -1100 60 H I C CNN "Price €"
 $FPLIST
  HSOIC8_3.9x4.9_1.27
 $ENDFPLIST
