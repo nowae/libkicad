@@ -30,7 +30,7 @@ D SN65HVD888 Bus-Polarity Correcting RS-485 Transceiver with IEC-ESD Protection
 F http://www.ti.com/lit/ds/symlink/sn65hvd888.pdf
 $ENDCMP
 #
-$CMP TJF1051T
+$CMP TJF1051T/3
 D TJF1051 High-speed CAN transceiver
 F http://cache.nxp.com/documents/data_sheet/TJF1051.pdf
 $ENDCMP
