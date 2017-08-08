@@ -10,6 +10,12 @@ D 100KOHM - 3224 - 4 mm SMD Trimpot® Trimming Potentiometer
 F http://www.bourns.com/docs/Product-Datasheets/3224.pdf
 $ENDCMP
 #
+$CMP CAT16-102J4LF
+D CAT16-F/J4 (LF) series - Chip Resistor Array
+K R pack array
+F http://www.bourns.com/docs/Product-MDS/cat16-j4.pdf
+$ENDCMP
+#
 $CMP CAT16-103J4LF
 D CAT16-F/J4 (LF) series - Chip Resistor Array
 K R pack array
