@@ -56,6 +56,11 @@ $CMP ETH-WIZNET:RB1-125BAG1A
 D RB1-125BAG1A - RJ45 1X1 Tab Down Through Hole 10/100Base-T
 $ENDCMP
 #
+$CMP ETH-WURTH:74990101210
+D LAN-Transformer WE-RJ45LAN 10/100BaseT
+F http://katalog.we-online.de/pbs/datasheet/74990101210.pdf
+$ENDCMP
+#
 $CMP MICROSD-MOLEX:473092651
 D 1.10mm Pitch microSD Card Header with Detect Switch
 F http://www.molex.com/pdm_docs/sd/473092651_sd.pdf
