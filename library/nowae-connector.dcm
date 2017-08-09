@@ -45,6 +45,11 @@ D 09 03 164 6921 - DIN-Signal C064MS-3,0C1-2
 F https://b2b.harting.com/ebusiness/it/DIN-Signal-C064MS-30C1-2/09031646921
 $ENDCMP
 #
+$CMP CONN_HARTING:09051486921
+D 09 05 148 6921 - DIN-Power E048MS-3,0C1-2
+F https://b2b.harting.com/ebusiness/it/DIN-Power-E048MS-30C1-2/09051486921
+$ENDCMP
+#
 $CMP DB9_FEMALE
 D DSub connector, 9-way, female
 K DB9 FEMALE VERTICAL
