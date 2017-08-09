@@ -33,7 +33,7 @@
   (fp_line (start -1.67 0) (end -0.87 0) (layer F.Fab) (width 0.1))
   (pad 2 thru_hole circle (at 1.27 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at -1.27 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model ${KINOWAEMOD}/packages3d/walter/connector/pin_strip_4.wrl
+  (model ${KINOWAEMOD}/packages3d/walter/connector/pin_strip_2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
