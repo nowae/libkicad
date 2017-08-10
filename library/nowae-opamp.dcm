@@ -55,6 +55,11 @@ D TLVx316 - 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operation
 F http://www.ti.com/lit/ds/symlink/tlv316.pdf
 $ENDCMP
 #
+$CMP TLV2316IDR
+D TLVx316 - 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifiers
+F http://www.ti.com/lit/ds/symlink/tlv316.pdf
+$ENDCMP
+#
 $CMP TLV316IDBV
 D TLVx316 - 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifiers
 F http://www.ti.com/lit/ds/symlink/tlv316.pdf
