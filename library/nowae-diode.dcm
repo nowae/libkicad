@@ -93,6 +93,11 @@ $CMP SM15T39CA
 D SM15T Transil Transient Voltage Suppressor
 $ENDCMP
 #
+$CMP SMBJ100CA
+D SMBJ Transil Transient Voltage Suppressor
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/19/78/91/39/07/cd/40/65/CD00001366.pdf/files/CD00001366.pdf/jcr:content/translations/en.CD00001366.pdf
+$ENDCMP
+#
 $CMP SMBJ48A-13-F
 D SMBJ5.0(C)A - SMBJ170(C)A 600W Surface Mount Transient Voltage Suppressor
 F http://www.diodes.com/_files/datasheets/ds19002.pdf
