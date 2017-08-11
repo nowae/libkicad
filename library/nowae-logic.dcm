@@ -15,6 +15,12 @@ D NC7WZ17 Dual Buffer with Schmitt Trigger Inputs
 F http://www.ti.com/lit/ds/symlink/sn74lv14a.pdf
 $ENDCMP
 #
+$CMP NE555D
+D xx555 Precision Timers
+K NE555
+F http://www.ti.com/lit/ds/slfs022i/slfs022i.pdf
+$ENDCMP
+#
 $CMP SN65HVS882
 D SN65HVS882 8 input 10-34V digital-input serializer for industrial digital inputs
 F http://www.ti.com/lit/ds/symlink/sn65hvs882.pdf

@@ -103,6 +103,11 @@ D SMBJ5.0(C)A - SMBJ170(C)A 600W Surface Mount Transient Voltage Suppressor
 F http://www.diodes.com/_files/datasheets/ds19002.pdf
 $ENDCMP
 #
+$CMP TS4148-RYG
+D TS4148 RYG 150mA, 75V Switching Diode
+F http://www.taiwansemi.com/products/datasheet/TS4148%20RYG_M1612.pdf
+$ENDCMP
+#
 $CMP US1M
 D US1A-US1M UltraFast Rectifiers
 F https://www.diodes.com/assets/Datasheets/ds16008.pdf
