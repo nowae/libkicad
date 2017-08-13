@@ -39,6 +39,11 @@ D 1A Surface Mount Super Fast Rectifiers
 F http://www.taiwansemi.com/products/datasheet/ES1AL%20SERIES_K15.pdf
 $ENDCMP
 #
+$CMP ESD8V0L2B-03L
+D ESD8V0L2B-03L - Low Capacitance TVS Diode
+F https://www.infineon.com/dgdl/Infineon-ESD8V0LSERIES-DS-v01_01-en.pdf?fileId=db3a30431441fb5d011488ab01860dee
+$ENDCMP
+#
 $CMP MBR0520
 D MBR0520LT1G Surface Mount Schottky Power Rectifier 0.5 Amperes 20 Volts
 F http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF
