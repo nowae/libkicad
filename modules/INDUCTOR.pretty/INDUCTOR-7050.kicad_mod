@@ -24,4 +24,9 @@
   (fp_line (start -3.3 -3.3) (end -3.3 3.3) (layer F.Fab) (width 0.15))
   (pad 1 smd rect (at -2.7 0) (size 3 3.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.7 0) (size 3 3.5) (layers F.Cu F.Paste F.Mask))
+  (model ${KINOWAEMOD}/packages3d/walter/inductor/inductor_smd_6.5x4.8mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
