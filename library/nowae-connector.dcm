@@ -109,6 +109,11 @@ D USB 4P Vertical Type B Receptacle Connector
 F http://www.te.com/usa-en/product-5787834-1.html
 $ENDCMP
 #
+$CMP USB_B_90-WURTH:61400416121
+D USB 2.0 Type B Horizontal WR-COM
+F http://katalog.we-online.de/em/datasheet/61400416121.pdf
+$ENDCMP
+#
 $CMP XBEE-SOCKET
 D XBee socket for DIGI device
 $ENDCMP
