@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COMMONMODEFILTER-WURTH:744282100
+D WE-SSC SMD Common Mode Line Filter 1260 
+F http://katalog.we-online.de/pbs/datasheet/744282100.pdf
+$ENDCMP
+#
 $CMP CURRENTTRANSFORMER-TALEMA:AC1200
 D AC Series Current Transformer - Low Cost 50/60Hz Current Transformers
 F http://www.nuvotem.com/products/datasheets/AC-1200.pdf
