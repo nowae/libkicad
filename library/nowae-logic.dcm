@@ -58,6 +58,10 @@ D SN74LVC1G332 - Single 3-Input Positive-OR Gate
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g332.pdf
 $ENDCMP
 #
+$CMP STM1816TWX7F
+D STM1816 Low power reset circuit
+$ENDCMP
+#
 $CMP VN330SP-E
 D VN330SP-E Quad high-side smart power solid-state relay
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/02/a4/4a/ac/bc/a8/4f/cd/CD00061239.pdf/files/CD00061239.pdf/jcr:content/translations/en.CD00061239.pdf

@@ -15,6 +15,11 @@ D Step down switching regulator, +5.5 to +48Vin, 3 A
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/35/21/f8/1a/9f/41/da/CD00285678.pdf/files/CD00285678.pdf/jcr:content/translations/en.CD00285678.pdf
 $ENDCMP
 #
+$CMP TPS54232D
+D TPS54232 2-A, 28-V, 1-MHz, Step-Down DC-DC Converter With Eco-Mode
+F http://www.ti.com/lit/ds/symlink/tps54232.pdf
+$ENDCMP
+#
 $CMP TPS62152
 D TPS6215x 3-V to 17-V, Fixed 3.3V Output Voltage, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
 F http://www.ti.com/lit/ds/symlink/tps62150.pdf
