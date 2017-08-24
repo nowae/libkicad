@@ -44,6 +44,11 @@ D 1A Surface Mount Super Fast Rectifiers
 F http://www.taiwansemi.com/products/datasheet/ES1AL%20SERIES_K15.pdf
 $ENDCMP
 #
+$CMP ES2C
+D ES2A - ES2J2A, 50V - 600V Surface Mount Super Fast Rectifier
+F http://www.taiwansemi.com/products/datasheet/ES2A%20SERIES_K1701.pdf
+$ENDCMP
+#
 $CMP MBR0520
 D MBR0520LT1G Surface Mount Schottky Power Rectifier 0.5 Amperes 20 Volts
 F http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF
@@ -111,6 +116,11 @@ $ENDCMP
 $CMP SMBJ48A-13-F
 D SMBJ5.0(C)A - SMBJ170(C)A 600W Surface Mount Transient Voltage Suppressor
 F http://www.diodes.com/_files/datasheets/ds19002.pdf
+$ENDCMP
+#
+$CMP SS26FL
+D SS24FL / SS26FL Surface Mount Schottky Barrier Rectifier
+F http://www.onsemi.com/pub/Collateral/SS26FL-D.pdf
 $ENDCMP
 #
 $CMP TS4148-RYG
