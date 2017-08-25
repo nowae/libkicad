@@ -22,6 +22,11 @@ D TPL7407L 40-V 7-Channel Low Side Driver
 F http://www.ti.com/lit/ds/symlink/tpl7407l.pdf
 $ENDCMP
 #
+$CMP TPL7407LPW
+D TPL7407L 40-V 7-Channel Low Side Driver
+F http://www.ti.com/lit/ds/symlink/tpl7407l.pdf
+$ENDCMP
+#
 $CMP ULN2803ADW
 D ULN2803A Darlington Transistor Arrays
 F http://www.ti.com/lit/ds/symlink/uln2803a.pdf
