@@ -45,7 +45,7 @@ F http://www.taiwansemi.com/products/datasheet/ES1AL%20SERIES_K15.pdf
 $ENDCMP
 #
 $CMP ES2C
-D ES2A - ES2J2A, 50V - 600V Surface Mount Super Fast Rectifier
+D ES2A - ES2J 2A, 50V - 600V Surface Mount Super Fast Rectifier
 F http://www.taiwansemi.com/products/datasheet/ES2A%20SERIES_K1701.pdf
 $ENDCMP
 #
