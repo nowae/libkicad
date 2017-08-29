@@ -89,6 +89,11 @@ D PESD1CAN - CAN bus ESD protection diode
 F http://www.nxp.com/documents/data_sheet/PESD1CAN.pdf
 $ENDCMP
 #
+$CMP PESD3V3L2BT
+D PESDxL2BT series Low capacitance double bidirectional ESD protection diodes in SOT23
+F https://assets.nexperia.com/documents/data-sheet/PESDXL2BT_SER.pdf
+$ENDCMP
+#
 $CMP RMB4S
 D Fast Recovery Surface Mount Bridge Rectifier
 F https://www.vishay.com/docs/88705/rmbs.pdf

@@ -10,6 +10,11 @@ D REF1930 Low-Drift, Low-Power, Dual-Output, VREF and VREF / 2 Voltage Reference
 F http://www.ti.com/lit/ds/symlink/ref1930.pdf
 $ENDCMP
 #
+$CMP REF1933AIDD
+D REF1933 Low-Drift, Low-Power, Dual-Output, VREF and VREF / 2 Voltage References
+F http://www.ti.com/lit/ds/symlink/ref1930.pdf
+$ENDCMP
+#
 $CMP REF3312AIDB
 D REF33xx 3.9-μA, SC70-3, SOT-23-3, andUQFN-8, 30-ppm/°CDrift VoltageReference
 F http://www.ti.com/lit/ds/symlink/ref3312.pdf
