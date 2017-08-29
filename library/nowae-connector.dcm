@@ -36,6 +36,10 @@ $CMP CONN_4X1
 D Connector 4x1
 $ENDCMP
 #
+$CMP CONN_5X1
+D Connector 5x1
+$ENDCMP
+#
 $CMP CONN_5X2
 D Connector 5x2
 $ENDCMP
