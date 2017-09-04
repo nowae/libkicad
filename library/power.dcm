@@ -20,6 +20,14 @@ $CMP +12VISO6
 D +12V Isolated, Nr. 6
 $ENDCMP
 #
+$CMP +13VISO
+D +13V Isolated
+$ENDCMP
+#
+$CMP +14VISO
+D +14V Isolated
+$ENDCMP
+#
 $CMP +24VISO
 D +24V Isolated
 $ENDCMP
