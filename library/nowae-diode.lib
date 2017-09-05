@@ -250,7 +250,7 @@ ENDDEF
 DEF ES2C D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
 F1 "ES2C" 0 -100 50 H V C CNN
-F2 "" -100 0 60 H I C CNN
+F2 "DIODE:DIODE-DO214AA-UNI" 0 -800 60 H I C CNN
 F3 "2A 150V" 0 -200 60 H I C CNN
 F4 "Taiwan Semiconductor" 0 -300 60 H I C CNN "Manufacturer"
 F5 "ES2C" 0 -400 60 H I C CNN "Part Number"
@@ -258,7 +258,7 @@ F6 "Farnell Italia S.r.l." 0 -500 60 H I C CNN "Distributor"
 F7 "1700787" 0 -600 60 H I C CNN "Distributor Code"
 F8 "0.313" 0 -700 60 H I C CNN "Price €"
 $FPLIST
- DIODE-SUBSMA
+ DIODE:DIODE-DO214AA-UNI
 $ENDFPLIST
 DRAW
 P 2 0 1 6 50 50 50 -50 N
