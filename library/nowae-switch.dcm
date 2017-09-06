@@ -9,6 +9,11 @@ D DIL Switch - MCDHN Series, Top Tape Sealed
 F http://www.farnell.com/datasheets/1701867.pdf
 $ENDCMP
 #
+$CMP DIPSWITCH-WURTH:416131160808
+D 1.27mm small compact SMD flat actuator with top tape WS-DISV
+F http://katalog.we-online.de/em/datasheet/4161311608xx.pdf
+$ENDCMP
+#
 $CMP EVQPE104K
 D 6.0mm X 3.5mm SMD Light Touch Switches
 K switch button
