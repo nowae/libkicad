@@ -1,4 +1,4 @@
-(module WSOIC16_7.4x10.1_1.27 (layer F.Cu) (tedit 57F97201)
+(module WSOIC16_7.4x10.1_1.27 (layer F.Cu) (tedit 59BB978F)
   (descr "Wide 16-Lead Plastic Small Outline SOIC14")
   (tags "WSOIC16 WSOIC-14 1.27")
   (attr smd)
@@ -6,6 +6,9 @@
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value WSOIC16_7.4x10.1_1.27 (at 0 6.3) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -5.8 -5.4) (end 5.8 -5.4) (layer F.CrtYd) (width 0.05))
