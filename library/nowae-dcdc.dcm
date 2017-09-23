@@ -5,6 +5,11 @@ D DC/DC Converters TEL 3 Series, 3 Watt, 24V in - 5V out 600mA
 F http://www.tracopower.com/products/tel3.pdf
 $ENDCMP
 #
+$CMP TEN3-2411N
+D DC/DC Converters TEN 3N Series, 3 Watt, 24V in - 5V out 500mA
+F https://assets.tracopower.com/20170919163706/TEN3N/documents/ten3n-datasheet.pdf
+$ENDCMP
+#
 $CMP TES1-2411
 D DC/DC Converters TES 1 Series, 1 Watt
 F http://assets.tracopower.com/20160916155828/TES1/documents/tes1-datasheet.pdf
