@@ -1,4 +1,4 @@
-(module USB-A-WURTH-61400416021 (layer F.Cu) (tedit 59CA1833)
+(module USB-A-WURTH-61400416021 (layer F.Cu) (tedit 59CBFAB9)
   (descr "USB Type B - Vertical Thru-Hole")
   (tags "USB TYPE B")
   (fp_text reference VAL** (at 0 -8.5) (layer F.SilkS)
@@ -26,7 +26,7 @@
   (pad 3 thru_hole circle (at -1 6.05) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at -3.5 6.05) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 3.5 6.05) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (pad 3 thru_hole circle (at 1 6.05) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 1 6.05) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad S1 thru_hole circle (at -6.6 3.35) (size 3.2 3.2) (drill 2.4) (layers *.Cu *.Mask F.SilkS))
   (pad S2 thru_hole circle (at 6.6 3.35) (size 3.2 3.2) (drill 2.4) (layers *.Cu *.Mask F.SilkS))
   (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/61400416021.wrl
