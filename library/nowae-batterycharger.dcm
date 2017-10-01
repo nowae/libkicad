@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ24072
+D bq2407x 1.5-A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC
+F http://www.ti.com/lit/ds/symlink/bq24072.pdf
+$ENDCMP
+#
 $CMP LTC4067
 D LTC4067 USB Power Manager with OVP and Li-Ion/Polymer Charger
 F http://cds.linear.com/docs/en/datasheet/4067f.pdf
