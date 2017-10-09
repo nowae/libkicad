@@ -10,6 +10,11 @@ D Xtrinsic FXLN83xxQ 3-Axis Low- Power Analog-Output Accelerometer
 F http://www.nxp.com/docs/en/data-sheet/FXLN83xxQ.pdf
 $ENDCMP
 #
+$CMP FXLS8471Q
+D FXLS8471Q, 3-Axis, Linear AccelerometerFXLS8471Q, 3-Axis, Linear Accelerometer
+F https://cache.nxp.com/docs/en/data-sheet/FXLS8471Q.pdf
+$ENDCMP
+#
 $CMP FXOS8700CQ
 D FXOS8700CQ 6-axis sensor with integrated linear accelerometer and magnetometer
 F http://cache.nxp.com/files/sensors/doc/data_sheet/FXOS8700CQ.pdf
