@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ORG1410-PM04
+D HORNET ORG1410 GPS MODULE WITH INTEGRATED ANTENNA
+F https://www.origingps.com/wp-content/uploads/2017/07/Hornet-ORG1410-Datasheet-rev-3.5.pdf
+$ENDCMP
+#
+$CMP ORG1510-R02
+D MULTI MICRO HORNET (ORG1510-R02) GPS / GNSS MODULE WITH INTEGRATED ANTENNA
+F https://www.origingps.com/wp-content/uploads/2017/10/Multi-Micro-Hornet-ORG1510-R02-Datasheet-Rev-1.2-1.pdf
+$ENDCMP
+#
 $CMP RN4870
 D Mudole BLE 4.2, 2.4GHz, With Antenna
 $ENDCMP
