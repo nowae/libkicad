@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BGM111A256V2
+D BGM111 Blue Gecko Bluetooth (R) Module
+F https://www.silabs.com/documents/login/data-sheets/BGM111_datasheet.pdf
+$ENDCMP
+#
 $CMP ORG1410-PM04
 D HORNET ORG1410 GPS MODULE WITH INTEGRATED ANTENNA
 F https://www.origingps.com/wp-content/uploads/2017/07/Hornet-ORG1410-Datasheet-rev-3.5.pdf
