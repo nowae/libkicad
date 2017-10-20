@@ -144,6 +144,6 @@
   (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/687330124422.wrl
     (at (xyz 0 0 0.05))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
