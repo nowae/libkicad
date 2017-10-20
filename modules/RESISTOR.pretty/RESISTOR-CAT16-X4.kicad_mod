@@ -1,9 +1,12 @@
-(module RESISTOR-CAT16-X4 (layer F.Cu) (tedit 582D2A5C)
+(module RESISTOR-CAT16-X4 (layer F.Cu) (tedit 59EA0273)
   (descr "SMT resistor net, Bourns CAT16 series, 4 way")
   (fp_text reference VAL** (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value RESISTOR-CAT16-X4 (at 0 2.5) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 -2.6) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 0.8 -1.7) (end 0.8 -1.6) (layer F.SilkS) (width 0.15))
