@@ -97,6 +97,12 @@ D LAN-Transformer WE-RJ45LAN 10/100BaseT
 F http://katalog.we-online.de/pbs/datasheet/74990101210.pdf
 $ENDCMP
 #
+$CMP HDMI-WURTH:685119134923
+D HDMI SMT Horizontal WR-COM
+K HDMI
+F http://katalog.we-online.de/em/datasheet/685119134923.pdf
+$ENDCMP
+#
 $CMP MICROSD-MOLEX:473092651
 D 1.10mm Pitch microSD Card Header with Detect Switch
 F http://www.molex.com/pdm_docs/sd/473092651_sd.pdf

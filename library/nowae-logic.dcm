@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74AVCH1T45GW
+D 74AVCH1T45 Dual-supply voltage level translator/transceiver 3-state
+F https://assets.nexperia.com/documents/data-sheet/74AVCH1T45_Q100.pdf
+$ENDCMP
+#
 $CMP DRV8804DW
 D DRV8804 Quad Serial Interface Low-Side Driver IC
 F http://www.ti.com/lit/ds/symlink/drv8804.pdf
@@ -24,6 +29,11 @@ $CMP NE555D
 D xx555 Precision Timers
 K NE555
 F http://www.ti.com/lit/ds/slfs022i/slfs022i.pdf
+$ENDCMP
+#
+$CMP PCA9306DP
+D PCA9306 Dual bidirectional I2C-bus and SMBus voltage-level translator
+F https://cache.nxp.com/docs/en/data-sheet/PCA9306.pdf
 $ENDCMP
 #
 $CMP SN65HVS882
