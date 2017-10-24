@@ -112,6 +112,11 @@ D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
 F http://katalog.we-online.de/em/datasheet/629105150521.pdf
 $ENDCMP
 #
+$CMP USB-3.0-A-WURTH:692141030100
+D USB 3.0 Type A Horizontal Double WR-COM
+F http://katalog.we-online.de/em/datasheet/692141030100.pdf
+$ENDCMP
+#
 $CMP USB_A-180-WURTH:614004135023
 D USB 2.0 Type A Vertical WR-COM
 F http://katalog.we-online.de/em/datasheet/614004135023.pdf
