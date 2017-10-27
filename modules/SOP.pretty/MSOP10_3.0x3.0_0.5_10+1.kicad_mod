@@ -1,11 +1,11 @@
-(module MSOP10_3x3_0.5_10+1 (layer F.Cu) (tedit 59AF1C0E)
+(module MSOP10_3.0x3.0_0.5_10+1 (layer F.Cu) (tedit 59F2E344)
   (descr "8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "SSOP 0.65")
   (attr smd)
   (fp_text reference VAL** (at 0 -2.4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value MSOP10_3x3_0.5_10+1 (at 0 2.6) (layer F.Fab) hide
+  (fp_text value MSOP10_3.0x3.0_0.5_10+1 (at 0 2.6) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text user %R (at 0 -2.4) (layer F.Fab)
