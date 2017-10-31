@@ -10,6 +10,11 @@ D 74AVCH2T45 Dual-bit Dual-supply voltage level translator/transceiver 3-state
 F https://assets.nexperia.com/documents/data-sheet/74AVCH2T45.pdf
 $ENDCMP
 #
+$CMP 74AVCH2T45DC
+D 74AVCH2T45 Dual-bit Dual-supply voltage level translator/transceiver 3-state
+F https://assets.nexperia.com/documents/data-sheet/74AVCH2T45.pdf
+$ENDCMP
+#
 $CMP DRV8804DW
 D DRV8804 Quad Serial Interface Low-Side Driver IC
 F http://www.ti.com/lit/ds/symlink/drv8804.pdf
