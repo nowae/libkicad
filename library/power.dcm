@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +1.8VA
+D +1.8V Always On
+$ENDCMP
+#
+$CMP +1.8VS
+D +1.8V Off When Suspended
+$ENDCMP
+#
 $CMP +12VISO
 D +12V Isolated
 $ENDCMP
@@ -40,6 +48,10 @@ $CMP +24VISO2
 D +24V Isolated, Nr. 2
 $ENDCMP
 #
+$CMP +3.3VA
+D +3.3V Always On
+$ENDCMP
+#
 $CMP +3.3VISO
 D +3.3V Isoltated
 $ENDCMP
@@ -62,6 +74,10 @@ $ENDCMP
 #
 $CMP +3.3VISO5
 D +3.3V Isoltated, Nr. 5
+$ENDCMP
+#
+$CMP +3.3VS
+D +3.3V Off When Suspended
 $ENDCMP
 #
 $CMP +5VISO1
