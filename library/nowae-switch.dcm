@@ -19,6 +19,11 @@ D 6.0mm X 3.5mm SMD Light Touch Switches
 K switch button
 $ENDCMP
 #
+$CMP TPS22918
+D TPS229185.5-V, 2-A, 52-mΩOn-ResistanceLoadSwitch
+F http://www.ti.com/lit/ds/symlink/tps22918.pdf
+$ENDCMP
+#
 $CMP TS3A4741DGKR
 D TS3A474x 0.9-Ω Low-Voltage Single-Supply 2-Channel SPST Analog Switches
 F http://www.ti.com/lit/ds/symlink/ts3a4741.pdf
