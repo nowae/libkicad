@@ -103,6 +103,16 @@ K HDMI
 F http://katalog.we-online.de/em/datasheet/685119134923.pdf
 $ENDCMP
 #
+$CMP M.2_2230
+D M.2 2230
+K connector
+$ENDCMP
+#
+$CMP M.2_2242
+D M.2 2240
+K connector
+$ENDCMP
+#
 $CMP MICROSD-MOLEX:473092651
 D 1.10mm Pitch microSD Card Header with Detect Switch
 F http://www.molex.com/pdm_docs/sd/473092651_sd.pdf
