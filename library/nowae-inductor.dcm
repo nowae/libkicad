@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COMMONMODEFILTER-WURTH:744232090
+D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
+F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
+$ENDCMP
+#
+$CMP COMMONMODEFILTER-WURTH:744233670
+D WE-CNSW-HF SMD Common Mode Line Filter USB 3.0 0805
+F http://katalog.we-online.de/pbs/datasheet/744233670.pdf
+$ENDCMP
+#
 $CMP COMMONMODEFILTER-WURTH:744282100
 D WE-SSC SMD Common Mode Line Filter 1260 
 F http://katalog.we-online.de/pbs/datasheet/744282100.pdf
