@@ -25,6 +25,11 @@ D TPS54232 2-A, 28-V, 1-MHz, Step-Down DC-DC Converter With Eco-Mode
 F http://www.ti.com/lit/ds/symlink/tps54232.pdf
 $ENDCMP
 #
+$CMP TPS54541DPRT
+D TPS54541 4.5V to 42VInput, 5-A Step-Down DC-DC Converter With Soft-Start and Eco-mode
+F http://www.ti.com/lit/ds/symlink/tps54541.pdf
+$ENDCMP
+#
 $CMP TPS61041DBVR
 D TPS6104x Low-Power DC-DC Boost Converter in SOT-23 and WSON Packages
 F http://www.ti.com/lit/ds/symlink/tps61041.pdf
