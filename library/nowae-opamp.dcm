@@ -10,6 +10,11 @@ D INA333 Micro-Power (50μA), Zerø-Drift, Rail-to-Rail Out Instrumentation Ampl
 F http://www.ti.com/lit/ds/symlink/ina333.pdf
 $ENDCMP
 #
+$CMP INA828
+D INA828 50uV Offset, Low Power, Precision Instrumentation Amplifiers
+F http://www.ti.com/lit/ds/symlink/ina828.pdf
+$ENDCMP
+#
 $CMP LM358D
 D LMx58, LMx58x, LM2904, LM2904V Dual Operational Amplifiers
 F http://www.ti.com/lit/ds/symlink/lm358.pdf
