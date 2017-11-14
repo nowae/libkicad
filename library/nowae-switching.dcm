@@ -35,6 +35,11 @@ D TPS6104x Low-Power DC-DC Boost Converter in SOT-23 and WSON Packages
 F http://www.ti.com/lit/ds/symlink/tps61041.pdf
 $ENDCMP
 #
+$CMP TPS61087DRCR
+D TPS61087 650-kHz,1.2-MHz, 18.5-V Step-Up DC-DC Converter With 3.2-A Switch
+F http://www.ti.com/lit/ds/symlink/tps61087.pdf
+$ENDCMP
+#
 $CMP TPS62152
 D TPS6215x 3-V to 17-V, Fixed 3.3V Output Voltage, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
 F http://www.ti.com/lit/ds/symlink/tps62150.pdf
