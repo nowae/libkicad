@@ -123,6 +123,11 @@ D SMBJ5.0(C)A - SMBJ170(C)A 600W Surface Mount Transient Voltage Suppressor
 F http://www.diodes.com/_files/datasheets/ds19002.pdf
 $ENDCMP
 #
+$CMP SS22
+D 1.0A SURFACE MOUNT SCHOTTKY BARR
+F http://www.onsemi.com/pub/Collateral/SS29-D.pdf
+$ENDCMP
+#
 $CMP SS26FL
 D SS24FL / SS26FL Surface Mount Schottky Barrier Rectifier
 F http://www.onsemi.com/pub/Collateral/SS26FL-D.pdf
