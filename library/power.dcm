@@ -112,6 +112,10 @@ $CMP -12VISO5
 D -12V Isolated, Nr. 5
 $ENDCMP
 #
+$CMP -3.3V
+D -3.3V
+$ENDCMP
+#
 $CMP -5VISO
 D -5V Isolated, Nr. 1
 $ENDCMP
