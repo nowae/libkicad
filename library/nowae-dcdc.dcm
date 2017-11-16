@@ -30,6 +30,11 @@ D DC/DC Converters TSR 0.5 Series, 0.5 A Switching Regulator
 F http://assets.tracopower.com/20160926105753/TSR05/documents/tsr05-datasheet.pdf
 $ENDCMP
 #
+$CMP TSR1-2433
+D DC/DC Step-Down Converter TSR 1 Series, 1 Amp
+F http://assets.tracopower.com/20170811130314/TSR1/documents/tsr1-datasheet.pdf
+$ENDCMP
+#
 $CMP TSR1-2433SM
 D DC/DC Converters TSR-1SM Series, 1 A
 F http://assets.tracopower.com/20160407154341/TSR1SM/documents/tsr1sm-datasheet.pdf
