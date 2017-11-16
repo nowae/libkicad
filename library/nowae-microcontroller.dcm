@@ -10,6 +10,11 @@ D Programmable System-on-Chip with ARM-M0 and Bluetooth Smart Radio
 F http://www.cypress.com/file/137466/download
 $ENDCMP
 #
+$CMP MK10DX64VLH7
+D Kinetis KL25 48 MHz Cortex-M0+ Based Microcontroller
+F https://www.nxp.com/docs/en/data-sheet/KL25P80M48SF0.pdf
+$ENDCMP
+#
 $CMP MK64FN1M0VDC12
 D Kinetis K64 120 MHz Cortex-M4 Based Microcontroller - XFBGA 121 PIN
 F http://www.nxp.com/assets/documents/data/en/data-sheets/K64P144M120SF5.pdf
