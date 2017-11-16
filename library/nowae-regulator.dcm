@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP L78L12ACU
+D L78L - Positive voltage regulators
+F http://www.st.com/content/st_com/en/products/power-management/linear-voltage-regulators/standard-voltage-regulators/l78l.html
+$ENDCMP
+#
 $CMP MIC5205-3.3
 D MIC5205 150mA Low-Noise LDO Regulator
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5205.pdf
