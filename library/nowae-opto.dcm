@@ -30,8 +30,9 @@ D Optocoupler, Phototransistor Output, AC Input, SOP-4L, Long Mini-Flat Package
 F https://www.vishay.com/docs/83517/tclt1600.pdf
 $ENDCMP
 #
-$CMP TCMT1103
-D DC Optocoupler
+$CMP TCMT1100
+D TCMT110 Series - Optocoupler, Phototransistor Output, Single Channel, Half Pitch Mini-Flat Package
+F https://www.vishay.com/docs/83510/tcmt1100.pdf
 $ENDCMP
 #
 #End Doc Library
