@@ -34,11 +34,11 @@ F0 "U" 0 300 60 H V C CNN
 F1 "LTC2622" 0 -300 60 H V C CNN
 F2 "" -150 1100 60 H V C CNN
 F3 "" -200 -200 60 H I C CNN
-F4 "Linear Technology" -100 -100 60 H I C CNN "Manufacturer"
-F5 "LTC2622CMS8#PBF" 0 0 60 H I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 100 100 60 H I C CNN "Distributor"
-F7 "1330954" 200 200 60 H I C CNN "Distributor Code"
-F8 "5.150" 300 300 60 H I C CNN "Price €"
+F4 "Linear Technology" 0 -400 60 H I C CNN "Manufacturer"
+F5 "LTC2622CMS8#PBF" 0 -500 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -600 60 H I C CNN "Distributor"
+F7 "1330954" 0 -700 60 H I C CNN "Distributor Code"
+F8 "5.150" 0 -800 60 H I C CNN "Price €"
 DRAW
 S -300 250 300 -250 0 1 0 N
 X ~CS 1 -500 150 200 R 50 50 1 1 I

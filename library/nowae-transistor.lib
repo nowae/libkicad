@@ -1,18 +1,18 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# BCW66
+# BCW66GLT
 #
-DEF BCW66 Q 0 0 Y N 1 F N
-F0 "Q" 300 50 50 H V R CNN
-F1 "BCW66" 450 -50 50 H V R CNN
-F2 "SOT23-3" 200 100 50 H I C CNN
-F3 "45V, 100MHz, 330mW, 800mA, 60hFE" 300 50 50 H I C CNN
-F4 "ON Semiconductor" 400 150 60 H I C CNN "Manufacturer"
-F5 "BCW66GLT1G" 500 250 60 H I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 600 350 60 H I C CNN "Distributor"
-F7 "2317524" 700 450 60 H I C CNN "Distributor Code"
-F8 "0.157" 800 550 60 H I C CNN "Price €"
+DEF BCW66GLT Q 0 0 Y N 1 F N
+F0 "Q" 225 50 50 H V L CNN
+F1 "BCW66GLT" 225 -50 50 H V L CNN
+F2 "SOT23-3" 0 -850 50 H I C CNN
+F3 "45V, 100MHz, 330mW, 800mA, 60hFE" 0 -250 50 H I C CNN
+F4 "ON Semiconductor" 0 -350 60 H I C CNN "Manufacturer"
+F5 "BCW66GLT1G" 0 -450 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -550 60 H I C CNN "Distributor"
+F7 "2317524" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.157" 0 -750 60 H I C CNN "Price €"
 DRAW
 C 50 0 111 0 1 10 N
 P 2 0 1 0 25 25 100 100 N

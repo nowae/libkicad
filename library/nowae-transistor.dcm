@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP BCW66
+$CMP BCW66GLT
 D BCW66GLT1G General Purpose Transistor NPN Silicon
 K npn transistor
 F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
