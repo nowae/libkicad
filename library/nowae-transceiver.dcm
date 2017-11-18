@@ -25,6 +25,11 @@ D UART TTl to CAN Bus
 F http://ww1.microchip.com/downloads/en/DeviceDoc/21667f.pdf
 $ENDCMP
 #
+$CMP PEM3012
+D PEM3000 SERIES - 30W Power Over Ethernet Plus (POE+) PD Module
+F http://www.poweredethernet.com/download/PEM3000_Rev15E_R1-4.pdf
+$ENDCMP
+#
 $CMP PTN3363BS
 D PTN3363 Low power HDMI/DVI level shifter with active DDC buffer, supporting 3.4 Gbit/s operation
 F https://cache.nxp.com/docs/en/data-sheet/PTN3363.pdf
