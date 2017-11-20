@@ -1,4 +1,4 @@
-(module TRACO-TMR6-XXXX (layer F.Cu) (tedit 5A12AB31)
+(module TRACO-TMR6-XXXX (layer F.Cu) (tedit 5A12B246)
   (descr "TRACO POWER DC/DC Converters TSR 1 Series, 1 A Switching Regulator")
   (tags "TRACO TSR1")
   (fp_text reference VAL** (at 0 -5.5) (layer F.SilkS)
@@ -26,7 +26,6 @@
   (pad 1 thru_hole rect (at -8.89 -1.3) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -6.35 -1.3) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at -3.81 -1.3) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (pad 4 thru_hole circle (at -1.27 -1.3) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 1.27 -1.3) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 3.81 -1.3) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole circle (at 6.35 -1.3) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
