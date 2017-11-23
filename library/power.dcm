@@ -100,6 +100,10 @@ $CMP +5VISO5
 D +5V Isolated, Nr. 5
 $ENDCMP
 #
+$CMP +VBAT
+D +VBAT
+$ENDCMP
+#
 $CMP +VEXT
 D External power supply without fixed value
 $ENDCMP
