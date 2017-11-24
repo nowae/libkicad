@@ -12,9 +12,9 @@ F4 "Wurth Elektronik GmbH" 0 -350 60 H I C CNN "Manufacturer"
 F5 "744232090" 0 -450 60 H I C CNN "Part Number"
 F6 "Wurth Elektronic s.r.l." 0 -550 60 H I C CNN "Distributor"
 F7 "744232090" 0 -650 60 H I C CNN "Distributor Code"
-F8 "Farnell Italia S.r.l." 0 -750 60 H I C CNN "Distributor 2"
-F9 "1.65" 0 -950 60 H I C CNN "Price €"
-F10 "1636474" 0 -850 60 H I C CNN "Distributor Code 2"
+F8 "1.65" 0 -750 60 H I C CNN "Price €"
+F9 "1636474" 0 -950 60 H I C CNN "Distributor2 Code"
+F10 "Farnell Italia S.r.l." 0 -850 60 H I C CNN "Distributor2"
 $FPLIST
  INDUCTOR-WURTH-1206
 $ENDFPLIST

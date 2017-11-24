@@ -124,7 +124,7 @@ F http://www.diodes.com/_files/datasheets/ds19002.pdf
 $ENDCMP
 #
 $CMP SS22
-D 2.0A SURFACE MOUNT SCHOTTKY BARR
+D SS22 - 2.0A Surface Mount Schottky Barrier
 F http://www.onsemi.com/pub/Collateral/SS29-D.pdf
 $ENDCMP
 #
