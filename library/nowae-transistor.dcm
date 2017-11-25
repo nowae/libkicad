@@ -6,6 +6,12 @@ K npn transistor
 F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
 $ENDCMP
 #
+$CMP FDV304P
+D FDV304P Digital FET, P-Channel
+K pmos p-mos p-mosfet transistor
+F http://www.onsemi.com/pub/Collateral/FDV304P-D.PDF
+$ENDCMP
+#
 $CMP IRLML6402
 D IRLML6402 HEXFET(R) Power MOSFET Ultra Low On-Resistance
 F http://www.infineon.com/dgdl/irlml6402.pdf
