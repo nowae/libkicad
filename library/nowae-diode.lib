@@ -354,12 +354,14 @@ DEF MMBD7000LT1G D 0 40 N N 1 F N
 F0 "D" 150 175 50 H V C CNN
 F1 "MMBD7000LT1G" -150 0 50 V V C CNN
 F2 "" 0 50 60 H I C CNN
-F3 "100V @ 1A" 500 -225 60 H I C CNN
-F4 "ON Semiconductor" 600 -125 60 H I C CNN "Manufacturer"
-F5 "MMBD7000LT1G" 575 125 60 H I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 625 250 60 H I C CNN "Distributor"
-F7 "1459097" 375 425 60 H I C CNN "Distributor Code"
-F8 "0.040" 325 350 60 H I C CNN "Price €"
+F3 "100V @ 200mA" 0 -400 60 H I C CNN
+F4 "ON Semiconductor" 0 -500 60 H I C CNN "Manufacturer"
+F5 "MMBD7000LT1G" 0 -600 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -700 60 H I C CNN "Distributor"
+F7 "1459097" 0 -800 60 H I C CNN "Distributor Code"
+F8 "0.040" 0 -900 60 H I C CNN "Price €"
+F9 "RS Components S.r.l." 0 -1000 60 H I C CNN "Distributor2"
+F10 "463-662" 0 -1100 60 H I C CNN "Distributor2 Code"
 $FPLIST
  D?
  S*
@@ -748,18 +750,41 @@ X K 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TS4148-RYG
+# TS4148-RXG
 #
-DEF TS4148-RYG D 0 40 N N 1 F N
+DEF TS4148-RXG D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "TS4148-RYG" 0 -100 50 H V C CNN
-F2 "DIODE-0805" 0 -200 60 H I C CNN
+F1 "TS4148-RXG" 0 -100 50 H V C CNN
+F2 "DIODE:DIODE-1206" 0 -200 60 H I C CNN
 F3 "Ceramics 0.15A 75V" 0 -300 60 H I C CNN
 F4 "Taiwan Semiconductor" 0 -400 60 H I C CNN "Manufacturer"
 F5 "TS4148-RXG" 0 -500 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -600 60 H I C CNN "Distributor"
 F7 "2708388" 0 -700 60 H I C CNN "Distributor Code"
 F8 "0.0469" 0 -800 60 H I C CNN "Price €"
+$FPLIST
+ DIODE-0805
+$ENDFPLIST
+DRAW
+P 2 0 1 6 50 50 50 -50 N
+P 3 0 1 0 -50 50 50 0 -50 -50 F
+X A 1 -200 0 150 R 40 40 1 1 P
+X K 2 200 0 150 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TS4148-RYG
+#
+DEF TS4148-RYG D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "TS4148-RYG" 0 -100 50 H V C CNN
+F2 "DIODE:DIODE-0805" 0 -200 60 H I C CNN
+F3 "Ceramics 0.15A 75V" 0 -300 60 H I C CNN
+F4 "Taiwan Semiconductor" 0 -400 60 H I C CNN "Manufacturer"
+F5 "TS4148-RYG" 0 -500 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -600 60 H I C CNN "Distributor"
+F7 "2708389" 0 -700 60 H I C CNN "Distributor Code"
+F8 "0.0703" 0 -800 60 H I C CNN "Price €"
 $FPLIST
  DIODE-0805
 $ENDFPLIST
