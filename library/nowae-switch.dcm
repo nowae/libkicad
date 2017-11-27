@@ -29,4 +29,9 @@ D TS3A474x 0.9-Ω Low-Voltage Single-Supply 2-Channel SPST Analog Switches
 F http://www.ti.com/lit/ds/symlink/ts3a4741.pdf
 $ENDCMP
 #
+$CMP TS5A3159DCK
+D TS5A3159 1-Ω SPDT Analog Switch
+F http://www.ti.com/lit/ds/symlink/ts5a3159.pdf
+$ENDCMP
+#
 #End Doc Library
