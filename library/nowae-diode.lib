@@ -384,13 +384,13 @@ ENDDEF
 DEF MMSZ4684T1G DZ 0 40 N N 1 F N
 F0 "DZ" 0 100 50 H V C CNN
 F1 "MMSZ4684T1G" 0 -100 50 H V C CNN
-F2 "SOD-123" -100 0 60 H I C CNN
-F3 "3V3 500mW" 0 100 60 H I C CNN
-F4 "ON Semiconductor" 100 200 60 H I C CNN "Manufacturer"
-F5 "MMSZ4684T1G" 200 300 60 H I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 300 400 60 H I C CNN "Distributor"
-F7 "1651591" 400 500 60 H I C CNN "Distributor Code"
-F8 "0.137" 500 600 60 H I C CNN "Price €"
+F2 "DIODE:DIODE-SOD123" 0 -400 60 H I C CNN
+F3 "3V3 500mW" 0 -500 60 H I C CNN
+F4 "ON Semiconductor" 0 -200 60 H I C CNN "Manufacturer"
+F5 "MMSZ4684T1G" 0 -300 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -600 60 H I C CNN "Distributor"
+F7 "1651591" 0 -700 60 H I C CNN "Distributor Code"
+F8 "0.137" 0 -800 60 H I C CNN "Price €"
 $FPLIST
  D?
  S*
@@ -410,17 +410,13 @@ ENDDEF
 DEF MMSZ4689T1G DZ 0 40 N N 1 F N
 F0 "DZ" 0 100 50 H V C CNN
 F1 "MMSZ4689T1G" 0 -100 50 H V C CNN
-F2 "SOD-123" 0 -700 60 H I C CNN
+F2 "DIODE:DIODE-SOD123" 0 -700 60 H I C CNN
 F3 "5V1 500mW" 0 200 60 H I C CNN
 F4 "ON Semiconductor" 0 -200 60 H I C CNN "Manufacturer"
 F5 "MMSZ4689T1G" 0 -300 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -400 60 H I C CNN "Distributor"
 F7 "1459121" 0 -500 60 H I C CNN "Distributor Code"
 F8 "0.187" 0 -600 60 H I C CNN "Price €"
-$FPLIST
- D?
- S*
-$ENDFPLIST
 DRAW
 P 2 0 1 0 25 -50 50 -50 N
 P 2 0 1 6 50 50 50 -50 N

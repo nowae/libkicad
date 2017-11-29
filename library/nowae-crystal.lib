@@ -6,15 +6,15 @@ EESchema-LIBRARY Version 2.3
 DEF 32768Hz_CM7V-T1A Y 0 40 N N 1 F N
 F0 "Y" 0 150 50 H V C CNN
 F1 "32768Hz_CM7V-T1A" 0 -150 50 H V C CNN
-F2 "1206" -100 50 50 H I C CNN
-F3 "12.5pF 10ppm" 0 150 50 H I C CNN
-F4 "Micro Crystal AG" 100 250 60 H I C CNN "Manufacturer"
-F5 "CM7V-T1A 32.768kHz 12.5pF +/-10ppm TA QC" 200 350 60 H I C CNN "Part Number"
-F6 "RS Components S.p.a." 300 450 60 H I C CNN "Distributor"
-F7 "729-3265" 400 550 60 H I C CNN "Distributor Code"
-F8 "1.270" 500 650 60 H I C CNN "Price €"
+F2 "CRYSTAL:CRYSTAL-1206" 0 -850 50 H I C CNN
+F3 "12.5pF 10ppm" 0 -250 50 H I C CNN
+F4 "Micro Crystal AG" 0 -350 60 H I C CNN "Manufacturer"
+F5 "CM7V-T1A 32.768kHz 12.5pF +/-10ppm TA QC" 0 -450 60 H I C CNN "Part Number"
+F6 "RS Components S.p.a." 0 -550 60 H I C CNN "Distributor"
+F7 "729-3265" 0 -650 60 H I C CNN "Distributor Code"
+F8 "1.270" 0 -750 60 H I C CNN "Price €"
 $FPLIST
- Crystal_*
+ CRYSTAL:CRYSTAL-1206
 $ENDFPLIST
 DRAW
 S -50 100 50 -100 0 1 12 N
