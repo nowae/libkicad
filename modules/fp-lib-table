@@ -26,6 +26,7 @@
   (lib (name RESISTOR)(type KiCad)(uri ${KINOWAEMOD}/RESISTOR.pretty)(options "")(descr ""))
   (lib (name SC70)(type KiCad)(uri ${KINOWAEMOD}/SC70.pretty)(options "")(descr ""))
   (lib (name SOIC)(type KiCad)(uri ${KINOWAEMOD}/SOIC.pretty)(options "")(descr ""))
+  (lib (name SON)(type KiCad)(uri ${KINOWAEMOD}/SON.pretty)(options "")(descr ""))
   (lib (name SOP)(type KiCad)(uri ${KINOWAEMOD}/SOP.pretty)(options "")(descr ""))
   (lib (name SOT)(type KiCad)(uri ${KINOWAEMOD}/SOT.pretty)(options "")(descr ""))
   (lib (name SWITCH)(type KiCad)(uri ${KINOWAEMOD}/SWITCH.pretty)(options "")(descr ""))
