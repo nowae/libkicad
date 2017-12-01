@@ -1,4 +1,6 @@
 (module HDMI-WURTH-685119134923 (layer F.Cu) (tedit 5A20633C)
+  (descr "HDMI Connector - Wurth Elektronik - 685119134923")
+  (tags "HDMI 685119134923")
   (fp_text reference VAL** (at -0.05 -8.3) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
