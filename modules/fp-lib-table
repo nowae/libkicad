@@ -1,6 +1,7 @@
 (fp_lib_table
   (lib (name BATTERY-HOLDERS)(type KiCad)(uri ${KINOWAEMOD}/BATTERY-HOLDERS.pretty)(options "")(descr ""))
   (lib (name BGA)(type KiCad)(uri ${KINOWAEMOD}/BGA.pretty)(options "")(descr ""))
+  (lib (name BUTTON)(type KiCad)(uri ${KINOWAEMOD}/BUTTON.pretty)(options "")(descr ""))
   (lib (name BUZZER)(type KiCad)(uri ${KINOWAEMOD}/BUZZER.pretty)(options "")(descr ""))
   (lib (name CAPACITOR)(type KiCad)(uri ${KINOWAEMOD}/CAPACITOR.pretty)(options "")(descr ""))
   (lib (name CONNECTOR)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR.pretty)(options "")(descr ""))
