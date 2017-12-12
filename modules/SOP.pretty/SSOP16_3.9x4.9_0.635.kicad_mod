@@ -125,7 +125,7 @@
   (pad 14 smd rect (at 2.6 -0.9525) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 2.6 -1.5875) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 2.6 -2.2225) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KINOWAEMOD}/packages3d/walter/SSOP/ssop-16.wrl
+  (model ${KINOWAEMOD}/packages3d/walter/SOP/ssop-16.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
