@@ -40,6 +40,11 @@ D Kinetis KL15 48 MHz Cortex-M0+ Based Microcontroller
 F http://cache.nxp.com/files/32bit/doc/data_sheet/KL15P80M48SF0.pdf
 $ENDCMP
 #
+$CMP MKL25Z128VFM4
+D Kinetis KL25 48 MHz QFN32 Cortex-M0+ Based Microcontroller
+F https://www.nxp.com/docs/en/data-sheet/KL25P80M48SF0.pdf
+$ENDCMP
+#
 $CMP MKL25Z128VLH4
 D Kinetis KL25 48 MHz Cortex-M0+ Based Microcontroller
 F https://www.nxp.com/docs/en/data-sheet/KL25P80M48SF0.pdf
