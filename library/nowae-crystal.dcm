@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 16MHz_CSTCE16M0V13
+D CM7V-T1A Tuning Fork Crystal 32.768 kHz
+K Quartz, Ceramic, Filter, Resonator
+F http://www.microcrystal.com/images/_PDF/3_Crystal_Ceramic-Package/cm7v-t1a.pdf
+$ENDCMP
+#
 $CMP 32768Hz_CM7V-T1A
 D CM7V-T1A Tuning Fork Crystal 32.768 kHz
 K Quartz, Ceramic, Filter, Resonator
