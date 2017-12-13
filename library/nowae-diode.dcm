@@ -79,6 +79,11 @@ D MMSZ4684 5.1V Low Current Zener Diode Voltage Regulator
 F http://www.onsemi.com/pub_link/Collateral/MMSZ4678T1-D.PDF
 $ENDCMP
 #
+$CMP NSR2030QMUTAG
+D Fast Recovery Surface Mount Bridge Rectifier
+F http://www.onsemi.com/pub/Collateral/NSR2030QMU-D.PDF
+$ENDCMP
+#
 $CMP PESD12VL2BT
 D PESDxL2BT series Low capacitance double bidirectional ESD protection diodes in SOT23
 F http://cache.nxp.com/documents/data_sheet/PESDXL2BT_SER.pdf
