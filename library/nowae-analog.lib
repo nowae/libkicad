@@ -13,7 +13,6 @@ F5 "LTC1966IMS8#PBF" 0 -700 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -800 60 H I C CNN "Distributor"
 F7 "2294881" 0 -900 60 H I C CNN "Distributor Code"
 F8 "7.65" 0 -1000 60 H I C CNN "Price €"
-ALIAS MSOP8_3x3_0.65
 DRAW
 S -250 300 250 -300 0 1 0 N
 X GND 1 450 -200 200 L 50 50 1 1 W
