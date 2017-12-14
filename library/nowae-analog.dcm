@@ -10,6 +10,11 @@ D LTC2602/LTC2612/LTC2622 Dual 16-/14-/12-Bit Rail-to-Rail DACs in 8-Lead MSOP
 F http://cds.linear.com/docs/en/datasheet/2602fa.pdf
 $ENDCMP
 #
+$CMP LTC2983HLX
+D Multi-Sensor High Accuracy Digital Temperature Measurement System
+F http://cds.linear.com/docs/en/datasheet/2983fc.pdf
+$ENDCMP
+#
 $CMP MAX31855
 D MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter
 F https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
