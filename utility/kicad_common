@@ -1,0 +1,10 @@
+WorkingDir=~
+ShowEnvVarWarningDialog=1
+[EnvironmentVariables]
+KICAD_PTEMPLATES=/usr/share/kicad/template/
+KIGITHUB=https://github.com/KiCad
+KINOWAE=~/nowae/libkicad/
+KINOWAELIB=~/nowae/libkicad/library/
+KINOWAEMOD=~/nowae/libkicad/modules/
+KISYS3DMOD=/usr/share/kicad/modules/packages3d/
+KISYSMOD=/usr/share/kicad/modules/
