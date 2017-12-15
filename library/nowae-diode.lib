@@ -141,10 +141,6 @@ F5 "CD0603-S0180R" 200 300 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 300 400 60 H I C CNN "Distributor"
 F7 "2211946" 400 500 60 H I C CNN "Distributor Code"
 F8 "0.086" 500 600 60 H I C CNN "Price €"
-$FPLIST
- D?
- S*
-$ENDFPLIST
 DRAW
 P 2 0 1 6 50 50 50 -50 N
 P 3 0 1 0 -50 50 50 0 -50 -50 F
