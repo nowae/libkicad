@@ -51,4 +51,9 @@
   (pad G2 smd rect (at 5.175 0.3) (size 1.45 1.4) (layers F.Cu F.Paste F.Mask))
   (pad G3 smd rect (at 5.4 1.55) (size 1 0.6) (layers F.Cu F.Paste F.Mask))
   (pad G4 smd rect (at 4.475 2.525) (size 0.95 0.85) (layers F.Cu F.Paste F.Mask))
+  (model ${KINOWAEMOD}/packages3d/3rd-party/molex/473092651.wrl
+    (at (xyz -0.012 -0.016 0.05))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
+  )
 )
