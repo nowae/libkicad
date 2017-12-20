@@ -63,4 +63,9 @@
   (pad 18 thru_hole circle (at 11 -5) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 19 thru_hole circle (at 11 -7) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 20 thru_hole circle (at 11 -9) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+  (model "${KINOWAEMOD}/packages3d/issus/STEP/RF Module/XBee PCB Antenna.wrl"
+    (at (xyz 0 0.017 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
