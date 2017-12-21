@@ -25,6 +25,11 @@ D ISO742x Low-Power Dual-Channel Digital Isolators
 F http://www.ti.com/lit/ds/symlink/iso7421.pdf
 $ENDCMP
 #
+$CMP MID400
+D AC Line Monitor Logic-Out Device
+F http://www.onsemi.com/pub/Collateral/MID400-D.pdf
+$ENDCMP
+#
 $CMP TCLT1600
 D Optocoupler, Phototransistor Output, AC Input, SOP-4L, Long Mini-Flat Package
 F https://www.vishay.com/docs/83517/tclt1600.pdf
