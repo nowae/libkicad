@@ -30,6 +30,11 @@ D AC Line Monitor Logic-Out Device
 F http://www.onsemi.com/pub/Collateral/MID400-D.pdf
 $ENDCMP
 #
+$CMP MID400S
+D SMT AC Line Monitor Logic-Out Device
+F http://www.onsemi.com/pub/Collateral/MID400-D.pdf
+$ENDCMP
+#
 $CMP TCLT1600
 D Optocoupler, Phototransistor Output, AC Input, SOP-4L, Long Mini-Flat Package
 F https://www.vishay.com/docs/83517/tclt1600.pdf
