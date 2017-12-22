@@ -266,7 +266,7 @@ ENDDEF
 DEF MID400 U 0 40 Y Y 1 F N
 F0 "U" 0 350 60 H V C CNN
 F1 "MID400" 0 -350 60 H V C CNN
-F2 "DIP:DIP8-THT" -150 1100 60 H V C CNN
+F2 "DIP:DIP8-THT" 0 -1050 60 H I C CNN
 F3 "AC Line Monitor Logic-Out Device" 0 -450 60 H I C CNN
 F4 "Fairchild Semiconductor" 0 -550 60 H I C CNN "Manufacturer"
 F5 "MID400" 0 -650 60 H I C CNN "Part Number"
