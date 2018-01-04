@@ -50,6 +50,10 @@ D MMB0207 - Professional MELF Resistors
 F http://www.vishay.com/docs/28713/melfprof.pdf
 $ENDCMP
 #
+$CMP N-THERMISTOR
+D NTC THERMISTOR
+$ENDCMP
+#
 $CMP VARISTANCE
 D VARISTANCE
 $ENDCMP
