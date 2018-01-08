@@ -11,7 +11,6 @@ F http://www.nxp.com/docs/en/data-sheet/FXLN83xxQ.pdf
 $ENDCMP
 #
 $CMP FXLS8471Q
-D FXLS8471Q, 3-Axis, Linear AccelerometerFXLS8471Q, 3-Axis, Linear Accelerometer
 F https://cache.nxp.com/docs/en/data-sheet/FXLS8471Q.pdf
 $ENDCMP
 #
@@ -33,6 +32,12 @@ $ENDCMP
 $CMP SFH5711
 D SFH 5711 High accuracy Ambient Light Sensor
 F http://www.osram-os.com/Graphics/XPic6/00039059_0.pdf
+$ENDCMP
+#
+$CMP SPU0410HR5H
+D SPU0410HR5H-PB SiSonic Microphone
+K microphone analog top
+F http://www.knowles.com/eng/content/download/5754/91789/version/3/file/SPU0410HR5H-PB+revH.PDF
 $ENDCMP
 #
 $CMP Si7021-A20
