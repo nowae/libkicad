@@ -15,6 +15,11 @@ D ISO15M Isolated 3.3V Half-Duplex RS-485 Transceivers, -55°C +125°C
 F http://www.ti.com/lit/ds/symlink/iso15.pdf
 $ENDCMP
 #
+$CMP KSZ8081RNA
+D KSZ8081RNA/RND - 10BASE-T/100BASE-TX PHY with RMII Support
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00002199A.pdf
+$ENDCMP
+#
 $CMP KSZ8081RNACA
 D KSZ8081RNA/RND - 10BASE-T/100BASE-TX PHY with RMII Support
 F http://ww1.microchip.com/downloads/en/DeviceDoc/00002199A.pdf
