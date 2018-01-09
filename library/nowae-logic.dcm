@@ -25,9 +25,9 @@ D NC7WZ14 TinyLogic UHS Dual Inverter with Schmitt Trigger Inputs
 F http://www.onsemi.com/pub/Collateral/NC7WZ14-D.pdf
 $ENDCMP
 #
-$CMP NC7WZ17
+$CMP NC7WZ17P6X
 D NC7WZ17 Dual Buffer with Schmitt Trigger Inputs
-F http://www.ti.com/lit/ds/symlink/sn74lv14a.pdf
+F http://www.onsemi.com/pub/Collateral/NC7WZ17-D.PDF
 $ENDCMP
 #
 $CMP NE555D
