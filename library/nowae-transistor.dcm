@@ -23,6 +23,9 @@ K npn transistor
 F https://assets.nexperia.com/documents/data-sheet/MMBT3904.pdf
 $ENDCMP
 #
+$CMP SN74LVC07APWR
+D TPL7407L 40-V 7-Channel Low Side Driver
+F http://www.ti.com/lit/ds/symlink/tpl7407l.pdf
 $CMP SFH3711
 D SFH 3711 - Silicon NPN Phototransistor with Vλ Characteristics
 K npn photo transistor
