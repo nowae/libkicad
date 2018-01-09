@@ -1,4 +1,6 @@
 (module BUTTON-WE-WS_TATU_083 (layer F.Cu) (tedit 5A54BD88)
+  (descr "WS-TATU 6x6mm right angle Tact Switch, THT version, Wurth Elektronik")
+  (tags "button, tact switch")
   (fp_text reference VAL** (at 0 5.3) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
