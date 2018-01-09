@@ -10,4 +10,10 @@ K Buzzer Piezo
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx
 $ENDCMP
 #
+$CMP PKMCS0909E4000-R1
+D Piezoelectric Sound Components Piezoelectric Sounders SMD Type
+K Buzzer Piezo
+F https://www.murata.com/en-us/products/productdata/8799428804638/JGB40-1594-PKMCS0909E4000-R1.pdf
+$ENDCMP
+#
 #End Doc Library
