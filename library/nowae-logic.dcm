@@ -73,9 +73,19 @@ K TTL AND AND3
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g11.pdf
 $ENDCMP
 #
+$CMP SN74LVC1G132DCKR
+D SN74LVC1G132 Single 2-Input NAND Gate With Schmitt-Trigger Inputs
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g132.pdf
+$ENDCMP
+#
 $CMP SN74LVC1G332BVD
 D SN74LVC1G332 - Single 3-Input Positive-OR Gate
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g332.pdf
+$ENDCMP
+#
+$CMP SN74LVC74APW
+D SNx4LVC74A Dual Positive-Edge-Triggered D-Type Flip-Flops With Clear and Preset
+F http://www.ti.com/lit/ds/symlink/sn74lvc74a.pdf
 $ENDCMP
 #
 $CMP STM1816TWX7F
