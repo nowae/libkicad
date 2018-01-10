@@ -5,6 +5,11 @@ D MOSFET Integrated Smart LED Lamp Driver IC with PFC Function
 F https://www.fairchildsemi.com/datasheets/FL/FLS0116.pdf
 $ENDCMP
 #
+$CMP IR2110SPBF
+D IR2110 High And Low Side Driver
+F https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e
+$ENDCMP
+#
 $CMP TPS92511
 D Common Anode Constant Current Buck with 500mA and +65Vin max
 F http://www.ti.com/lit/ds/symlink/tps92511.pdf
