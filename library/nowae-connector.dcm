@@ -5,6 +5,10 @@ D DC Barrel Jack
 K DC power barrel jack connector
 $ENDCMP
 #
+$CMP CONN_10X1
+D Connector 10x1
+$ENDCMP
+#
 $CMP CONN_12X1
 D Connector 12x1
 $ENDCMP
