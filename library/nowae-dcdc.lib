@@ -1,6 +1,29 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# NME0515SC
+#
+DEF NME0515SC U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C CNN
+F1 "NME0515SC" 0 -300 60 H V C CNN
+F2 "" -100 200 60 H I C CNN
+F3 "Isolated 1W Single Output DC-DC Converters" 0 -400 60 H I C CNN
+F4 "Murata" 0 -500 60 H I C CNN "Manufacturer"
+F5 "NME0515SC" 0 -600 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -700 60 H I C CNN "Distributor"
+F7 "1021460" 0 -800 60 H I C CNN "Distributor Code"
+F8 "9.06" 0 -900 60 H I C CNN "Price"
+DRAW
+T 900 0 0 49 0 0 0 ISOLATION Normal 0 C C
+S -50 200 50 -200 0 0 0 N
+X +VIN ~ -550 100 200 R 50 50 1 0 O
+X +VOUT ~ 550 100 200 L 50 50 1 0 O
+X -VIN ~ -550 -100 200 R 50 50 1 0 O
+X -VOUT ~ 550 -100 200 L 50 50 1 0 O
+S -350 200 350 -200 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # TEL3-2411
 #
 DEF TEL3-2411 U 0 40 Y Y 1 F N

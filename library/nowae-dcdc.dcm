@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NME0515SC
+D Isolated 1W Single Output DC-DC Converters
+F https://power.murata.com/data/power/ncl/kdc_nme.pdf
+$ENDCMP
+#
 $CMP TEL3-2411
 D DC/DC Converters TEL 3 Series, 3 Watt, 24V in - 5V out 600mA
 F http://www.tracopower.com/products/tel3.pdf
