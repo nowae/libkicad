@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ACPL-P341-000E
+D 3.0 Amp Output Current IGBT Gate Drive Optocoupler with Rail-to-Rail Output Voltage in Stretched SO6
+F https://docs.broadcom.com/docs/AV02-2929EN
+$ENDCMP
+#
 $CMP ISO7241M
 D ISO724x High-Speed, Quad-Channel Digital Isolators
 F http://www.ti.com/lit/ds/symlink/iso7241c.pdf
