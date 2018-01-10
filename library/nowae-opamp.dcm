@@ -45,6 +45,11 @@ D OPAx132High-SpeedFET-Input Operational Amplifiers
 F http://www.ti.com/lit/ds/symlink/opa2132.pdf
 $ENDCMP
 #
+$CMP OPA2192IDR
+D OPAx192 36-V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Low Input Bias Current, Op Amp with e-trim
+F http://www.ti.com/lit/ds/symlink/opa192.pdf
+$ENDCMP
+#
 $CMP OPA2314
 D OPAx3143-MHz, Low-Power, Low-Noise, RRIO, 1.8-VCMOS Operational Amplifier
 F http://www.ti.com/lit/ds/symlink/opa2314.pdf
