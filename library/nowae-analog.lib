@@ -1,6 +1,33 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# LMV762MAX/NOPB
+#
+DEF LMV762MAX/NOPB U 0 0 Y Y 2 F N
+F0 "U" 200 150 60 H V C CNN
+F1 "LMV762MAX/NOPB" 500 -150 60 H V C CNN
+F2 "SOIC:SOIC8_3.9x4.9_1.27" 100 50 60 H I C CNN
+F3 "LMV76x and LMV762Q-Q1 Low-Voltage, Precision Comparator With Push-Pull Output" 200 200 60 H I C CNN
+F4 "Texas Instruments" 300 300 60 H I C CNN "Manufacturer"
+F5 "LMV762MAX/NOPB" 400 400 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 500 500 60 H I C CNN "Distributor"
+F7 "2769306" 600 600 60 H I C CNN "Distributor Code"
+F8 "1.92" 700 700 60 H I C CNN "Price €"
+DRAW
+T 0 -150 100 79 0 0 0 + Normal 0 C C
+T 0 -150 -100 79 0 0 0 - Normal 0 C C
+P 4 0 1 0 -200 200 -200 -200 150 0 -200 200 N
+X ~ 1 300 0 150 L 50 50 1 1 O
+X - 2 -350 -100 150 R 50 50 1 1 I
+X + 3 -350 100 150 R 50 50 1 1 I
+X V- 4 0 -250 161 U 50 50 1 1 W
+X V+ 8 0 250 161 D 50 50 1 1 W
+X + 5 -350 100 150 R 50 50 2 1 I
+X - 6 -350 -100 150 R 50 50 2 1 I
+X ~ 7 300 0 150 L 50 50 2 1 O
+ENDDRAW
+ENDDEF
+#
 # LTC1966
 #
 DEF LTC1966 U 0 40 Y Y 1 F N

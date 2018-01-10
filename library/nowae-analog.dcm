@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LMV762MAX/NOPB
+D LMV76x and LMV762Q-Q1 Low-Voltage, Precision Comparator With Push-Pull Output
+F http://www.ti.com/lit/ds/symlink/opa2132.pdf
+$ENDCMP
+#
 $CMP LTC1966
 D Precision Micropower RMS-to-DC Converter
 F http://cds.linear.com/docs/en/datasheet/1966fb.pdf
