@@ -80,6 +80,14 @@ $CMP +3.3VS
 D +3.3V Off When Suspended
 $ENDCMP
 #
+$CMP +5VA
+D +5V Analog
+$ENDCMP
+#
+$CMP +5VD
+D +5V Digital
+$ENDCMP
+#
 $CMP +5VISO1
 D +5V Isolated, Nr. 1
 $ENDCMP
@@ -118,6 +126,10 @@ $ENDCMP
 #
 $CMP -3.3V
 D -3.3V
+$ENDCMP
+#
+$CMP -5VA
+D -5V Analog
 $ENDCMP
 #
 $CMP -5VISO
