@@ -1,4 +1,4 @@
-(module STRIP_10x1_2.00-WE-62001011821 (layer F.Cu) (tedit 5A56089F)
+(module SOCKET_10x1_2.00-WE-62001011821 (layer F.Cu) (tedit 5A56089F)
   (descr "WR-PHD 2.00mm THT Straight Single Pin Header, Wurth Elektronik, 62001011121")
   (tags "10x1 2mm THT")
   (fp_text reference VAL** (at 0 -2 180) (layer F.SilkS)
