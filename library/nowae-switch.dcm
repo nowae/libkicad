@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BUTTON-WE:431181015816
+D WS-TASV 5x5mm Tact Switch with ground terminal, SMD version
+K switch button
+F http://katalog.we-online.de/em/datasheet/4311x10158x6.pdf
+$ENDCMP
+#
 $CMP DIPSWITCH-MULTICOMP:MCDHN-04F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 $ENDCMP
