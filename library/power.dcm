@@ -112,6 +112,10 @@ $CMP +VBAT
 D +VBAT
 $ENDCMP
 #
+$CMP +VBOOST
+D +VBOOST
+$ENDCMP
+#
 $CMP +VEXT
 D External power supply without fixed value
 $ENDCMP
