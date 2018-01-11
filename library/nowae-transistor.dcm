@@ -6,6 +6,11 @@ K npn transistor
 F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
 $ENDCMP
 #
+$CMP BSC190N15NS3G
+D N-MOS 150V 0.019R 50A
+F https://www.infineon.com/dgdl/Infineon-BSC190N15NS3-DS-v02_04-en.pdf?fileId=db3a30431d8a6b3c011d8bf2fcf30076
+$ENDCMP
+#
 $CMP FDV304P
 D FDV304P Digital FET, P-Channel
 K pmos p-mos p-mosfet transistor
@@ -30,8 +35,8 @@ F https://media.osram.info/media/resource/hires/osram-dam-2495971/SFH%203711.pdf
 $ENDCMP
 #
 $CMP SN74LVC07APWR
-D TPL7407L 40-V 7-Channel Low Side Driver
-F http://www.ti.com/lit/ds/symlink/tpl7407l.pdf
+D SN74LVC07A Hex Buffer and Driver With Open-Drain Outputs
+F http://www.ti.com/lit/ds/symlink/sn74lvc07a.pdf
 $ENDCMP
 #
 $CMP Si2333DDS
