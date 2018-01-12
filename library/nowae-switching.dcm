@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM2776DBVR
+D LM2776 Switched Capacitor Inverter
+F http://www.ti.com/lit/ds/symlink/lm2776.pdf
+$ENDCMP
+#
 $CMP LMZ34002
 D Switching power module with +4.5V-40V input and -17V output min at 2A
 F http://www.ti.com/lit/ds/symlink/lmz34002.pdf
