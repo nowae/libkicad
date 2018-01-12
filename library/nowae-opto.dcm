@@ -5,6 +5,11 @@ D 3.0 Amp Output Current IGBT Gate Drive Optocoupler with Rail-to-Rail Output Vo
 F https://docs.broadcom.com/docs/AV02-2929EN
 $ENDCMP
 #
+$CMP HCPL-0211-000E
+D Very High CMR, Wide Vcc Logic Gate Optocouplers
+F https://docs.broadcom.com/docs/AV02-0674EN
+$ENDCMP
+#
 $CMP ISO7241M
 D ISO724x High-Speed, Quad-Channel Digital Isolators
 F http://www.ti.com/lit/ds/symlink/iso7241c.pdf
