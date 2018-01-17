@@ -16,6 +16,11 @@ $CMP DIPSWITCH-MULTICOMP:MCDHN-04F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 $ENDCMP
 #
+$CMP DIPSWITCH-MULTICOMP:MCDHN-06F
+D DIL Switch - MCDHN Series, Top Tape Sealed
+F http://www.farnell.com/datasheets/1701867.pdf
+$ENDCMP
+#
 $CMP DIPSWITCH-MULTICOMP:MCDHN-08F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 F http://www.farnell.com/datasheets/1701867.pdf
