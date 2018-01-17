@@ -158,6 +158,28 @@ X GND 3 -450 -100 200 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# REF3330AIDBZT
+#
+DEF REF3330AIDBZT U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C CNN
+F1 "REF3330AIDBZT" 0 -300 60 H V C CNN
+F2 "SOT23-3" 0 -1000 60 H I C CNN
+F3 "Voltage Reference, +1.8 to +5.5Vin, Vout +3V, Iout 5mA, SOT23-3" 0 -400 60 H I C CNN
+F4 "Texas Instruments" 0 -500 60 H I C CNN "Manufacturer"
+F5 "REF3330AIDBZT" 0 -600 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -700 60 H I C CNN "Distributor"
+F7 "1755084" 0 -800 60 H I C CNN "Distributor Code"
+F8 "2.400" 0 -900 60 H I C CNN "Price €"
+F9 "RS Components s.r.l." 0 -1100 60 H I C CNN "Distributor2"
+F10 "814-3758" 0 -1200 60 H I C CNN "Distributor2 Code"
+DRAW
+S -250 200 250 -200 0 1 0 N
+X VIN 1 -450 100 200 R 50 50 1 1 W
+X VOUT 2 450 0 200 L 50 50 1 1 w
+X GND 3 -450 -100 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # SN6505BDBVT
 #
 DEF SN6505BDBVT U 0 40 Y Y 1 F N
