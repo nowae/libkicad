@@ -138,6 +138,11 @@ D SS24FL / SS26FL Surface Mount Schottky Barrier Rectifier
 F http://www.onsemi.com/pub/Collateral/SS26FL-D.pdf
 $ENDCMP
 #
+$CMP STPS30170DJF-TR
+D RS1A - RS1M Fast Rectifiers
+F https://www.fairchildsemi.com/datasheets/RS/RS1M.pdf
+$ENDCMP
+#
 $CMP TS4148-RXG
 D TS4148 RYG 150mA, 75V Switching Diode
 F http://www.taiwansemi.com/products/datasheet/TS4148%20RYG_M1612.pdf
