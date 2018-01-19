@@ -15,6 +15,11 @@ D Switching power module with 7V-50V input and 15V output max at 2.5A
 F http://www.ti.com/lit/ds/symlink/lmz35003.pdf
 $ENDCMP
 #
+$CMP PI3305-00-LGIZ
+D 8V to 36VIN Cool-Power ZVS Buck Regulator Family
+F http://www.vicorpower.com/documents/datasheets/Picor/ds_pi33xx.pdf
+$ENDCMP
+#
 $CMP ST1S14PHR
 D Step down switching regulator, +5.5 to +48Vin, 3 A
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/35/21/f8/1a/9f/41/da/CD00285678.pdf/files/CD00285678.pdf/jcr:content/translations/en.CD00285678.pdf
