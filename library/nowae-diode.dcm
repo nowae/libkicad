@@ -69,6 +69,11 @@ D MMBD7000LT1G Dual Switching Diode
 F http://www.onsemi.com/pub_link/Collateral/MMBD7000LT1-D.PDF
 $ENDCMP
 #
+$CMP MMSZ18ET1G
+D MMSZ18ET1G 18V Low Current Zener Diode Voltage Regulator
+F https://www.onsemi.com/pub/Collateral/MMSZ2V4ET1-D.PDF
+$ENDCMP
+#
 $CMP MMSZ4684T1G
 D MMSZ4684 3.3 V Low Current Zener Diode Voltage Regulator
 F http://www.onsemi.com/pub_link/Collateral/MMSZ4678T1-D.PDF
