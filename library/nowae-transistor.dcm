@@ -11,6 +11,11 @@ D N-MOS 150V 0.019R 50A
 F https://www.infineon.com/dgdl/Infineon-BSC190N15NS3-DS-v02_04-en.pdf?fileId=db3a30431d8a6b3c011d8bf2fcf30076
 $ENDCMP
 #
+$CMP FDT86256
+D N Channel 150V 1.2A 845mOhm
+F http://www.onsemi.com/pub/Collateral/FDT86256-D.pdf
+$ENDCMP
+#
 $CMP FDV304P
 D FDV304P Digital FET, P-Channel
 K pmos p-mos p-mosfet transistor
