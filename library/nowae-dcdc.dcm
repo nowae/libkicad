@@ -60,4 +60,9 @@ D DC/DC Converters TSRN-1SM Series, 1 A Switching Regulator
 F http://assets.tracopower.com/20160418120646/TSRN1SM/documents/tsrn1sm-datasheet.pdf
 $ENDCMP
 #
+$CMP VE-2WB-CV-S
+D DC-DC Converter 18-36Vin 95Vmax 150W
+F http://cdn.vicorpower.com/documents/datasheets/ds_vi-200.pdf
+$ENDCMP
+#
 #End Doc Library
