@@ -10,6 +10,11 @@ D MIC5205 150mA Low-Noise LDO Regulator
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5205.pdf
 $ENDCMP
 #
+$CMP PFM4414VB6M24D0T00
+D Isolated AC-DC Converter with PFC 24V 400W
+F http://www.vicorpower.com/documents/datasheets/ds_PFM4414xB6M24D0yzz.pdf
+$ENDCMP
+#
 $CMP REF1930
 D REF1930 Low-Drift, Low-Power, Dual-Output, VREF and VREF / 2 Voltage References
 F http://www.ti.com/lit/ds/symlink/ref1930.pdf
