@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COMMONMODEFILTER-COILTRONICS:FPT705-230-R
+D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
+F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
+$ENDCMP
+#
 $CMP COMMONMODEFILTER-WURTH:744232090
 D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
 F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
