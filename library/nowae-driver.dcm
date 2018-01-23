@@ -15,4 +15,9 @@ D Common Anode Constant Current Buck with 500mA and +65Vin max
 F http://www.ti.com/lit/ds/symlink/tps92511.pdf
 $ENDCMP
 #
+$CMP UC3845D8G4
+D UCx84x Current-Mode PWM Controllers
+F http://www.ti.com/lit/ds/symlink/uc3845.pdf
+$ENDCMP
+#
 #End Doc Library
