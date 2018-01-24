@@ -84,6 +84,12 @@ D 09 05 148 6921 - DIN-Power E048MS-3,0C1-2
 F https://b2b.harting.com/ebusiness/it/DIN-Power-E048MS-30C1-2/09051486921
 $ENDCMP
 #
+$CMP CONN_MOLEX:0877159206
+D Molex PCI Express Card Edge Connector 1.00mm Pitch 98 Circuits
+K connector pci 49x2
+F http://www.molex.com/pdm_docs/sd/877159206_sd.pdf
+$ENDCMP
+#
 $CMP DB44_MALE_90-TECONN:5749771-1
 D HD-22 Right-Angle Posted Subminiature D Connectors
 K DSUB44 MALE
