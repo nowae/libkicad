@@ -36,6 +36,22 @@ $CMP +14VISO
 D +14V Isolated
 $ENDCMP
 #
+$CMP +24V1
+D +24V Nr. 1
+$ENDCMP
+#
+$CMP +24V2
+D +24V Nr. 2
+$ENDCMP
+#
+$CMP +24V3
+D +24V Nr. 3
+$ENDCMP
+#
+$CMP +24V4
+D +24V Nr. 4
+$ENDCMP
+#
 $CMP +24VISO
 D +24V Isolated
 $ENDCMP
@@ -190,6 +206,22 @@ $ENDCMP
 #
 $CMP GND-EARTH-1
 D GND Earth, Nr. 1
+$ENDCMP
+#
+$CMP GND1
+D GND, Nr. 1
+$ENDCMP
+#
+$CMP GND2
+D GND, Nr. 2
+$ENDCMP
+#
+$CMP GND3
+D GND, Nr. 3
+$ENDCMP
+#
+$CMP GND4
+D GND, Nr. 4
 $ENDCMP
 #
 $CMP GNDISO
