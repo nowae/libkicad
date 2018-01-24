@@ -70,6 +70,10 @@ $CMP CONN_6X1
 D Connector 6x1
 $ENDCMP
 #
+$CMP CONN_7X1
+D Connector 7x1
+$ENDCMP
+#
 $CMP CONN_8X1
 D Connector 8x1
 $ENDCMP
