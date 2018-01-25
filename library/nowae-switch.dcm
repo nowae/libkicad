@@ -17,6 +17,12 @@ K switch button
 F http://katalog.we-online.de/em/datasheet/4341x1xxx8x6.pdf
 $ENDCMP
 #
+$CMP BUTTON-WE:434153017835
+D WS-TASV Tact Switch J-Bend SMD version 3.5x2.9mm
+K switch button
+F http://katalog.we-online.de/em/datasheet/434153017835.pdf
+$ENDCMP
+#
 $CMP DIPSWITCH-MULTICOMP:MCDHN-04F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 $ENDCMP
