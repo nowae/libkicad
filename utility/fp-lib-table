@@ -7,6 +7,7 @@
   (lib (name CONNECTOR)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_DSUB)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_MCV.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_HARTING)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_HARTING.pretty)(options "")(descr ""))
+  (lib (name CONNECTOR_JST)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_JST.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_MCV)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_MCV.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_MKDS)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_MKDS.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_WR-TBL)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_WR-TBL.pretty)(options "")(descr ""))
