@@ -22,6 +22,7 @@
   (lib (name LQFP)(type KiCad)(uri ${KINOWAEMOD}/LQFP.pretty)(options "")(descr ""))
   (lib (name MECHANICAL)(type KiCad)(uri ${KINOWAEMOD}/MECHANICAL.pretty)(options "")(descr ""))
   (lib (name MISC)(type KiCad)(uri ${KINOWAEMOD}/MISC.pretty)(options "")(descr ""))
+  (lib (name MURATAPOWER)(type KiCad)(uri ${KINOWAEMOD}/MURATAPOWER.pretty)(options "")(descr ""))
   (lib (name PAK)(type KiCad)(uri ${KINOWAEMOD}/PAK.pretty)(options "")(descr ""))
   (lib (name QFN)(type KiCad)(uri ${KINOWAEMOD}/QFN.pretty)(options "")(descr ""))
   (lib (name RELAY)(type KiCad)(uri ${KINOWAEMOD}/RELAY.pretty)(options "")(descr ""))
