@@ -64,27 +64,6 @@ X ~ 3 0 -250 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 5k
-#
-DEF 5k R 0 0 N Y 1 F N
-F0 "R" -100 0 50 V V C CNN
-F1 "5k" 0 0 50 V V C CNN
-F2 "" 0 0 50 H V C CNN
-F3 "" 80 -50 50 V V C CNN
-F4 "Bourns" 180 50 60 V I C CNN "Manufacturer"
-F5 "3224J-1-502E" 280 150 60 V I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 380 250 60 V I C CNN "Distributor"
-F7 "514822" 480 350 60 V I C CNN "Distributor Code"
-F8 "3.72" 580 450 60 V I C CNN "Price €"
-DRAW
-S -40 150 40 -150 0 1 12 N
-P 4 0 1 0 50 0 70 20 70 -20 50 0 F
-X ~ 1 0 250 100 D 50 50 1 1 P
-X ~ 2 150 0 100 L 50 50 1 1 P
-X ~ 3 0 -250 100 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # CAT16-102J4LF
 #
 DEF CAT16-102J4LF RP 0 20 Y N 1 F N
@@ -283,6 +262,15 @@ F0 "TR" 0 175 47 H V C CNN
 F1 "N-THERMISTOR" 0 100 47 H V C CNN
 F2 "" 0 -70 30 H I C CNN
 F3 "" 0 0 30 V I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  RESISTOR-*
 $ENDFPLIST
@@ -302,6 +290,15 @@ F0 "R" 80 0 50 V V C CNN
 F1 "RESISTOR" 0 0 50 V V C CNN
 F2 "" -70 0 30 V I C CNN
 F3 "" 0 0 30 H I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  RESISTOR-*
 $ENDFPLIST
@@ -319,6 +316,15 @@ F0 "VR" 100 0 47 V V C CNN
 F1 "VARISTANCE" -125 0 47 V V C CNN
 F2 "" -70 0 30 V I C CNN
 F3 "" 0 0 30 H I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  RESISTOR-*
 $ENDFPLIST

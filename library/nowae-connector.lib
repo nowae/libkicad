@@ -8,6 +8,15 @@ F0 "P" 0 200 50 H V C CNN
 F1 "BARREL_JACK" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 A -300 99 49 -900 1788 0 1 0 N -300 50 -350 100
 A -300 101 49 900 -1788 0 1 0 N -300 150 -350 100
@@ -29,6 +38,15 @@ F0 "P" 0 600 60 H V C CNN
 F1 "CONN_10X1" 0 -650 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 500 50 -550 0 1 0 N
 X ~ 1 -250 450 200 R 50 50 1 1 U
@@ -51,6 +69,15 @@ F0 "P" 0 650 60 H V C CNN
 F1 "CONN_12X1" 0 -650 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 600 50 -600 0 1 0 N
 X ~ 1 -250 550 200 R 50 50 1 1 U
@@ -75,6 +102,15 @@ F0 "P" 0 650 60 H V C CNN
 F1 "CONN_12X2" 0 -650 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 600 50 -600 0 1 0 N
 X ~ 1 -250 550 200 R 50 50 1 1 U
@@ -111,6 +147,15 @@ F0 "P" 0 750 60 H V C CNN
 F1 "CONN_14X1" 0 -750 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 700 50 -700 0 1 0 N
 X ~ 1 -250 650 200 R 50 50 1 1 U
@@ -137,6 +182,15 @@ F0 "P" 0 800 60 H V C CNN
 F1 "CONN_15X2" 0 -800 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 750 50 -750 0 1 0 N
 X ~ 1 -250 700 200 R 50 50 1 1 U
@@ -179,6 +233,15 @@ F0 "P" 0 100 60 H V C CNN
 F1 "CONN_1X1" 0 -100 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 50 50 -50 0 1 0 N
 X ~ 1 -250 0 200 R 50 50 1 1 U
@@ -192,6 +255,15 @@ F0 "P" 0 1150 60 H V C CNN
 F1 "CONN_20X2" 0 -950 60 H V C CNN
 F2 "" 375 450 60 H V C CNN
 F3 "" 375 450 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 1100 50 -900 0 1 0 N
 X ~ 1 -250 1050 200 R 50 50 1 1 U
@@ -244,6 +316,15 @@ F0 "P" 0 150 60 H V C CNN
 F1 "CONN_2X1" 0 -200 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 100 50 -100 0 1 0 N
 X ~ 1 -250 50 200 R 50 50 1 1 U
@@ -258,6 +339,15 @@ F0 "P" 0 1550 60 H V C CNN
 F1 "CONN_30X1" 0 -1550 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 1500 50 -1500 0 1 0 N
 X ~ 1 -250 1450 200 R 50 50 1 1 U
@@ -300,6 +390,15 @@ F0 "P" 0 200 60 H V C CNN
 F1 "CONN_3X1" 0 -200 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 150 50 -150 0 1 0 N
 X ~ 1 -250 100 200 R 50 50 1 1 U
@@ -311,16 +410,19 @@ ENDDEF
 # CONN_40X2
 #
 DEF CONN_40X2 J 0 1 Y N 1 F N
-F0 "J" 0 2050 50 H V C CNN
+F0 "P" 0 2050 50 H V C CNN
 F1 "CONN_40X2" 0 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-$FPLIST
- Pin_Header_Straight_2X*
- Pin_Header_Angled_2X*
- Socket_Strip_Straight_2X*
- Socket_Strip_Angled_2X*
-$ENDFPLIST
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 2000 50 -2000 0 1 0 N
 X P1 1 -200 1950 150 R 50 50 1 1 P
@@ -413,6 +515,15 @@ F0 "P" 0 250 60 H V C CNN
 F1 "CONN_4X1" 0 -250 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 200 50 -200 0 1 0 N
 X ~ 1 -250 150 200 R 50 50 1 1 U
@@ -429,13 +540,15 @@ F0 "P" 0 250 50 H V C CNN
 F1 "CONN_4X2" 0 -250 50 H V C CNN
 F2 "" 0 -1200 50 H I C CNN
 F3 "" 0 -1200 50 H I C CNN
-$FPLIST
- Pin_Header_Straight_2X*
- Pin_Header_Angled_2X*
- Socket_Strip_Straight_2X*
- Socket_Strip_Angled_2X*
- IDC_Header_Straight_*
-$ENDFPLIST
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 200 50 -200 0 1 0 N
 X P1 1 -200 150 150 R 50 50 1 1 P
@@ -456,6 +569,15 @@ F0 "P" 0 300 60 H V C CNN
 F1 "CONN_5X1" 0 -300 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 250 50 -250 0 1 0 N
 X ~ 1 -250 200 200 R 50 50 1 1 U
@@ -473,6 +595,15 @@ F0 "P" 0 300 60 H V C CNN
 F1 "CONN_5X2" 0 -300 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 250 50 -250 0 1 0 N
 X ~ 1 -250 200 200 R 50 50 1 1 U
@@ -495,6 +626,15 @@ F0 "P" 0 350 60 H V C CNN
 F1 "CONN_6X1" 0 -350 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 300 50 -300 0 1 0 N
 X ~ 1 -250 250 200 R 50 50 1 1 U
@@ -513,6 +653,15 @@ F0 "P" 0 400 60 H V C CNN
 F1 "CONN_7X1" 0 -400 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 350 50 -350 0 1 0 N
 X ~ 1 -250 300 200 R 50 50 1 1 U
@@ -532,6 +681,15 @@ F0 "P" 0 450 60 H V C CNN
 F1 "CONN_8X1" 0 -450 60 H V C CNN
 F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 DRAW
 S -50 400 50 -400 0 1 0 N
 X ~ 1 -250 350 200 R 50 50 1 1 U

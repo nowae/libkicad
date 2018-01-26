@@ -104,6 +104,15 @@ F0 "DL" 0 100 50 H V C CNN
 F1 "BLUE" 0 -100 50 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "Blue" 0 0 60 H I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  LED-*
 $ENDFPLIST
@@ -171,6 +180,15 @@ F0 "DL" 0 100 50 H V C CNN
 F1 "GREEN" 0 -100 50 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "Green" 0 0 60 H I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  LED-*
 $ENDFPLIST
@@ -191,6 +209,15 @@ F0 "DL" 0 100 50 H V C CNN
 F1 "RED" 0 -100 50 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "Red" 0 0 60 H I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  LED-*
 $ENDFPLIST
@@ -211,6 +238,15 @@ F0 "DL" 0 100 50 H V C CNN
 F1 "YELLOW" 0 -100 50 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "Yellow" 0 0 60 H I C CNN
+F4 "-" 0 -350 60 H I C CNN "Manufacturer"
+F5 "-" 0 -450 60 H I C CNN "Part Number"
+F6 "-" 0 -550 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  LED-*
 $ENDFPLIST
