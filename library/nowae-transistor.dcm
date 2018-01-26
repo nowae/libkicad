@@ -6,6 +6,12 @@ K npn transistor
 F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
 $ENDCMP
 #
+$CMP BCW68GLT1G
+D BCW66GLT1G General Purpose Transistor NPN Silicon
+K npn transistor
+F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
+$ENDCMP
+#
 $CMP BSC190N15NS3G
 D N-MOS 150V 0.019R 50A
 F https://www.infineon.com/dgdl/Infineon-BSC190N15NS3-DS-v02_04-en.pdf?fileId=db3a30431d8a6b3c011d8bf2fcf30076
@@ -58,6 +64,11 @@ $ENDCMP
 $CMP TPL7407LPW
 D TPL7407L 40-V 7-Channel Low Side Driver
 F http://www.ti.com/lit/ds/symlink/tpl7407l.pdf
+$ENDCMP
+#
+$CMP ULN2003LVDR
+D ULN2003LV 7-Channel Relay and Inductive Load Sink Driver
+F http://www.ti.com/lit/ds/symlink/uln2003lv.pdf
 $ENDCMP
 #
 $CMP ULN2803ADW
