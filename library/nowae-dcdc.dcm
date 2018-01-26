@@ -5,6 +5,11 @@ D Isolated 1W Single Output DC-DC Converters
 F https://power.murata.com/data/power/ncl/kdc_nme.pdf
 $ENDCMP
 #
+$CMP OKI-78SR-5/1.5-W36-C
+D OKI-78SR Series Fixed Output 1.5 Amp SIP DC/DC Converters
+F https://power.murata.com/en/oki-78sr-5-1-5-w36-c.html
+$ENDCMP
+#
 $CMP TEL3-2411
 D DC/DC Converters TEL 3 Series, 3 Watt, 24V in - 5V out 600mA
 F http://www.tracopower.com/products/tel3.pdf
