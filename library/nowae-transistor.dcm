@@ -7,9 +7,9 @@ F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
 $ENDCMP
 #
 $CMP BCW68GLT1G
-D BCW66GLT1G General Purpose Transistor NPN Silicon
+D BCW68GLT1G General Purpose Transistor PNP Silicon
 K npn transistor
-F http://www.onsemi.com/pub_link/Collateral/BCW66GLT1-D.PDF
+F http://www.onsemi.com/pub/Collateral/BCW68GLT1-D.PDF
 $ENDCMP
 #
 $CMP BSC190N15NS3G
