@@ -1,4 +1,4 @@
-(module JST_B5B-PH-SM4-TB (layer F.Cu) (tedit 5A6A179D)
+(module JST_B5B-PH-SM4-TB (layer F.Cu) (tedit 5A6E0D63)
   (descr "B5B-PH-SM4-TB JST PH connector 2.0mm 5x1")
   (fp_text reference VAL** (at 0 -5.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -83,8 +83,8 @@
   (pad 3 smd rect (at 0 0) (size 1 5.5) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 2 0) (size 1 5.5) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 4 0) (size 1 5.5) (layers F.Cu F.Paste F.Mask))
-  (pad 6 smd rect (at -6.4 -2.25) (size 1.6 3) (layers F.Cu F.Paste F.Mask))
-  (pad 7 smd rect (at 6.4 -2.25) (size 1.6 3) (layers F.Cu F.Paste F.Mask))
+  (pad "" smd rect (at -6.4 -2.25) (size 1.6 3) (layers F.Cu F.Paste F.Mask))
+  (pad "" smd rect (at 6.4 -2.25) (size 1.6 3) (layers F.Cu F.Paste F.Mask))
   (model ${KINOWAEMOD}/packages3d/3rd-party/jst/B5B-PH-SM4.wrl
     (at (xyz -0.275 0.265 0))
     (scale (xyz 1 1 1))
