@@ -619,7 +619,7 @@ F4 "Taiwan Semiconductor" 0 -500 60 H I C CNN "Manufacturer"
 F5 "RMB4S" 0 -600 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -700 60 H I C CNN "Distributor"
 F7 "2677272" 0 -800 60 H I C CNN "Distributor Code"
-F8 "0.689" 0 -900 60 H I C CNN "Price"
+F8 "0.689" 0 -900 60 H I C CNN "Price €"
 $FPLIST
  DIODE-TO269AA
 $ENDFPLIST

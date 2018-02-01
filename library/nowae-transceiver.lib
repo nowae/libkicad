@@ -310,7 +310,7 @@ F4 "Infomart India Pvt. Ltd" 0 -900 60 H I C CNN "Manufacturer"
 F5 "PEM3012" 0 -1000 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -1100 60 H I C CNN "Distributor"
 F7 "1902527" 0 -1200 60 H I C CNN "Distributor Code"
-F8 "28.190" 0 -1300 60 H I C CNN "Price"
+F8 "28.190" 0 -1300 60 H I C CNN "Price €"
 DRAW
 S -400 700 400 -700 0 1 0 N
 X EMI 1 -600 -400 200 R 50 50 1 1 P
