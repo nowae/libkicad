@@ -45,15 +45,15 @@ ENDDEF
 DEF COMMONMODEFILTER-WURTH:744232090 L 0 40 Y N 1 F N
 F0 "L" 0 200 50 H V C CNN
 F1 "COMMONMODEFILTER-WURTH:744232090" 0 -250 50 H V C CNN
-F2 "" 0 450 50 H I C CNN
-F3 "370 mA,  Rdc 0.3ohm, Zmax 90ohm" 0 -1050 50 H I C CNN
-F4 "Wurth Elektronik GmbH" 0 -350 60 H I C CNN "Manufacturer"
-F5 "744232090" 0 -450 60 H I C CNN "Part Number"
-F6 "Wurth Elektronik s.r.l." 0 -550 60 H I C CNN "Distributor"
-F7 "744232090" 0 -650 60 H I C CNN "Distributor Code"
-F8 "1.65" 0 -750 60 H I C CNN "Price €"
-F9 "Farnell Italia S.r.l." 0 -950 60 H I C CNN "Distributor2"
-F10 "1636474" 0 -850 60 H I C CNN "Distributor2 Code"
+F2 "INDUCTOR:INDUCTOR-WURTH-CNSW-1206" 0 -1150 50 H I C CNN
+F3 "370 mA,  Rdc 0.3ohm, Zmax 90ohm" 0 -350 50 H I C CNN
+F4 "Wurth Elektronik GmbH" 0 -450 60 H I C CNN "Manufacturer"
+F5 "744232090" 0 -550 60 H I C CNN "Part Number"
+F6 "Wurth Elektronik s.r.l." 0 -650 60 H I C CNN "Distributor"
+F7 "744232090" 0 -750 60 H I C CNN "Distributor Code"
+F8 "1.65" 0 -1050 60 H I C CNN "Price €"
+F9 "Farnell Italia S.r.l." 0 -850 60 H I C CNN "Distributor2"
+F10 "1636474" 0 -950 60 H I C CNN "Distributor2 Code"
 $FPLIST
  INDUCTOR-WURTH-1206
 $ENDFPLIST
