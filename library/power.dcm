@@ -132,6 +132,10 @@ $CMP +VBOOST
 D +VBOOST
 $ENDCMP
 #
+$CMP +VE
+D Electronics Power Supply
+$ENDCMP
+#
 $CMP +VEXT
 D External power supply without fixed value
 $ENDCMP
