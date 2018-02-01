@@ -70,4 +70,14 @@ D DC-DC Converter 18-36Vin 95Vmax 150W
 F http://cdn.vicorpower.com/documents/datasheets/ds_vi-200.pdf
 $ENDCMP
 #
+$CMP WPMDH1100331S
+D MagI3C Power Module FDSM – Fixed Step Down Regulator Module 3.3V
+F http://katalog.we-online.com/pm/datasheet/173010342.pdf
+$ENDCMP
+#
+$CMP WPMDH1100501S
+D MagI3C Power Module FDSM – Fixed Step Down Regulator Module 5V 1A
+F http://katalog.we-online.com/pm/datasheet/173010342.pdf
+$ENDCMP
+#
 #End Doc Library
