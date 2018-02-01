@@ -168,4 +168,9 @@ D US1A-US1M UltraFast Rectifiers
 F https://www.diodes.com/assets/Datasheets/ds16008.pdf
 $ENDCMP
 #
+$CMP WE-TVS-82400102
+D WE-TVS TVS Diode High Speed Series USB 1.0 2.0 SOT23-6
+F http://katalog.we-online.com/pbs/datasheet/82400102.pdf
+$ENDCMP
+#
 #End Doc Library
