@@ -2021,9 +2021,11 @@ F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
 F4 "Wurth Elektronik GmbH" 0 -600 60 H I C CNN "Manufacturer"
 F5 "693071010811" 0 -700 60 H I C CNN "Part Number"
-F6 "Farnell Italia S.r.l." 0 -800 60 H I C CNN "Distributor"
-F7 "2081363" 0 -900 60 H I C CNN "Distributor Code"
+F6 "Wurth Elektronik s.r.l." 0 -800 60 H I C CNN "Distributor"
+F7 "693071010811" 0 -900 60 H I C CNN "Distributor Code"
 F8 "1.770" 0 -1000 60 H I C CNN "Price €"
+F9 "Farnell Italia s.r.l." 0 -1100 60 H I C CNN "Distributor2"
+F10 "2081363" 0 -1200 60 H I C CNN "Distributor2 Code"
 DRAW
 S -200 400 200 -400 0 1 0 N
 X DAT2 1 -400 350 200 R 50 50 1 1 B
@@ -2079,9 +2081,11 @@ F2 "" 375 0 60 H V C CNN
 F3 "" 375 0 60 H V C CNN
 F4 "Wurth Elektronik GmbH" 0 -700 60 H I C CNN "Manufacturer"
 F5 "692141030100" 0 -800 60 H I C CNN "Part Number"
-F6 "Wurth Elektronic s.r.l." 0 -900 60 H I C CNN "Distributor"
+F6 "Wurth Elektronik s.r.l." 0 -900 60 H I C CNN "Distributor"
 F7 "692141030100" 0 -1000 60 H I C CNN "Distributor Code"
-F8 "1.420" 0 -1100 60 H I C CNN "Price €"
+F8 "5.320" 0 -1100 60 H I C CNN "Price €"
+F9 "Farnell Italia s.r.l." 0 -1200 60 H I C CNN "Distributor2"
+F10 "2828050" 0 -1300 60 H I C CNN "Distributor2 Code"
 $FPLIST
  USB-3.0-A-WURTH-692141030100
 $ENDFPLIST
