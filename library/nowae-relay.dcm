@@ -10,4 +10,10 @@ D IM Relay - AXICOM Signal Relay 2A, 60W
 K RELAY 
 $ENDCMP
 #
+$CMP IM23TS
+D IM Relay - AXICOM Signal Relay 2A, 60W
+K RELAY 
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf%7F3-1462039-0
+$ENDCMP
+#
 #End Doc Library
