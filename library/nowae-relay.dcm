@@ -16,4 +16,10 @@ K RELAY
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf%7F3-1462039-0
 $ENDCMP
 #
+$CMP JS1a-24V-F
+D JS RELAYS Cubic type 1a/1c 10A power relays
+K  
+F https://www3.panasonic.biz/ac/ae/control/relay/power/js/index.jsp
+$ENDCMP
+#
 #End Doc Library
