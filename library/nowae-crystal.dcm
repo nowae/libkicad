@@ -12,6 +12,12 @@ K Quartz, Ceramic, Filter, Resonator
 F http://www.microcrystal.com/images/_PDF/3_Crystal_Ceramic-Package/cm7v-t1a.pdf
 $ENDCMP
 #
+$CMP ABM10-25.000MHZ-D30-T3
+D ABM10 Ceramic SMD Ultra Miniatur Quartz Crystal 10pF 30ppm
+K Quartz, Ceramic, Filter, Resonator
+F http://www.abracon.com/Resonators/ABM10.pdf
+$ENDCMP
+#
 $CMP ABM7-12.000MHZ
 D ABM7 Ceramic SMD micro miniature microprocessor crystal
 K Quartz, Ceramic, Filter, Resonator
@@ -28,6 +34,12 @@ $CMP ABM7-25.000MHZ
 D ABM7 Ceramic SMD micro miniature microprocessor crystal
 K Quartz, Ceramic, Filter, Resonator
 F http://www.abracon.com/Resonators/abm7.pdf
+$ENDCMP
+#
+$CMP X1E0000210132-25MHZ
+D Crystal TSX-3225 Miniature Size Low Profile SMD 25MHz 9pF
+K Quartz, Ceramic, Filter, Resonator
+F https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=TSX-3225
 $ENDCMP
 #
 #End Doc Library
