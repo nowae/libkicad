@@ -55,6 +55,11 @@ D SPX3819 500mA Low-Noise LDO Voltage Regulator
 F https://www.exar.com/product/power-management/power-conversion/ldos-and-regulators/linear-ldos/spx3819s-l
 $ENDCMP
 #
+$CMP TLV1117-50CDCY
+D TLV1117 Fixed Low-Dropout Voltage Regulator 5V 0.8A
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
 $CMP TLV70233DBV
 D TLV702 300-mA, Low-IQ, Low-Dropout Regulator
 F http://www.ti.com/lit/ds/symlink/tlv702.pdf
