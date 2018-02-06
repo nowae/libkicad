@@ -744,6 +744,36 @@ X ~ 8 -250 -350 200 R 50 50 1 1 U
 ENDDRAW
 ENDDEF
 #
+# CONN_9X1
+#
+DEF CONN_9X1 P 0 40 Y Y 1 F N
+F0 "P" 0 500 60 H V C CNN
+F1 "CONN_9X1" 0 -500 60 H V C CNN
+F2 "" 375 0 60 H V C CNN
+F3 "" 375 0 60 H V C CNN
+F4 "-" 0 -300 60 H I C CNN "Manufacturer"
+F5 "-" 0 -400 60 H I C CNN "Part Number"
+F6 "-" 0 -500 60 H I C CNN "Distributor"
+F7 "-" 0 -650 60 H I C CNN "Distributor Code"
+F8 "-" 0 -750 60 H I C CNN "Price €"
+F9 "-" 0 -850 60 H I C CNN "Distributor2"
+F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
+DRAW
+S -50 450 50 -450 0 1 0 N
+X ~ 1 -250 400 200 R 50 50 1 1 U
+X ~ 2 -250 300 200 R 50 50 1 1 U
+X ~ 3 -250 200 200 R 50 50 1 1 U
+X ~ 4 -250 100 200 R 50 50 1 1 U
+X ~ 5 -250 0 200 R 50 50 1 1 U
+X ~ 6 -250 -100 200 R 50 50 1 1 U
+X ~ 7 -250 -200 200 R 50 50 1 1 U
+X ~ 8 -250 -300 200 R 50 50 1 1 U
+X ~ 9 -250 -400 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # CONN_HARTING:09031646921
 #
 DEF CONN_HARTING:09031646921 P 0 40 Y Y 1 F N

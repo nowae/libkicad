@@ -82,6 +82,10 @@ $CMP CONN_8X1
 D Connector 8x1
 $ENDCMP
 #
+$CMP CONN_9X1
+D Connector 9x1
+$ENDCMP
+#
 $CMP CONN_HARTING:09031646921
 D 09 03 164 6921 - DIN-Signal C064MS-3,0C1-2
 F https://b2b.harting.com/ebusiness/it/DIN-Signal-C064MS-30C1-2/09031646921
