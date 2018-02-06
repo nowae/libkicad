@@ -30,9 +30,19 @@ D BZG03C-Series Zener Diodes
 F http://www.vishay.com/docs/85593/bzg03c.pdf
 $ENDCMP
 #
+$CMP BZT52C3V3-7-F
+D BZT52C3V3 Surface Mount Zener Diode
+F https://www.diodes.com/assets/Datasheets/ds18004.pdf
+$ENDCMP
+#
 $CMP CD0603-S0180R
 D Switching Chip Diode Series - 0603/1005
 F https://www.bourns.com/pdfs/CD0603_1005.pdf
+$ENDCMP
+#
+$CMP CDSOD323-T05C
+D CDSOD323-TxxC - TVS Diode Array Series
+F http://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxC.PDF
 $ENDCMP
 #
 $CMP CDSOT23-SM712
