@@ -11,6 +11,12 @@ K switch button
 F http://katalog.we-online.de/em/datasheet/4311x10158x6.pdf
 $ENDCMP
 #
+$CMP BUTTON-WE:431256083716
+D WS-TATU 6x6mm right angle Tact Switch, THT version
+K switch button
+F http://katalog.we-online.de/em/datasheet/4312x6xxx7x6.pdf
+$ENDCMP
+#
 $CMP BUTTON-WE:434121043816
 D WS-TASV 6,0x3,5mm Tact Switch_SMD version
 K switch button
