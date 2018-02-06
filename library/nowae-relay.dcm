@@ -28,4 +28,9 @@ K
 F https://www3.panasonic.biz/ac/ae/search_num/index.jsp?c=detail&part_no=AJT3525
 $ENDCMP
 #
+$CMP RTD14024
+D Power PCB Relay RT1 - SPDT, 24V, 16A, 1 form C (CO)
+F http://www.te.com/usa-en/product-6-1393238-8.html
+$ENDCMP
+#
 #End Doc Library
