@@ -22,4 +22,10 @@ K
 F https://www3.panasonic.biz/ac/ae/control/relay/power/js/index.jsp
 $ENDCMP
 #
+$CMP JTN1ASPAF24
+D High switching capacity 1a/1c 30A power relays
+K  
+F https://www3.panasonic.biz/ac/ae/search_num/index.jsp?c=detail&part_no=AJT3525
+$ENDCMP
+#
 #End Doc Library
