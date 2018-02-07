@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AM26C32IPW
+D AM26C32 Quadruple Differential Line Receiver
+F http://www.ti.com/lit/ds/symlink/am26c32.pdf
+$ENDCMP
+#
 $CMP FT230XQ
 D USB to RS232/RS422/RS485
 F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
