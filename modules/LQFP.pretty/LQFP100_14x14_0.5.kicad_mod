@@ -1,4 +1,4 @@
-(module LQFP100_14x14_0.5 (layer F.Cu) (tedit 5985B7DD)
+(module LQFP100_14x14_0.5 (layer F.Cu) (tedit 5A7E1D3D)
   (descr "144 LEAD LQFP 20x20mm")
   (tags "LQFP QFP 0.5")
   (attr smd)
@@ -6,6 +6,9 @@
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value LQFP100_14x14_0.5 (at 0 9.4) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 6.3 7.2) (end 6.6 7.2) (layer F.SilkS) (width 0.15))
@@ -731,9 +734,9 @@
   (pad 98 smd rect (at -5 -7.7 90) (size 1.2 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 99 smd rect (at -5.5 -7.7 90) (size 1.2 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 100 smd rect (at -6 -7.7 90) (size 1.2 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KINOWAEMOD}/packages3d/walter/LQFP/lqfp-100.wrl
+  (model "${KINOWAEMOD}/packages3d/issus/STEP/Generic/NXP LQFP-100 SOT407-1.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz -90 0 0))
   )
 )
