@@ -164,6 +164,11 @@ D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
 F http://katalog.we-online.de/em/datasheet/629105150521.pdf
 $ENDCMP
 #
+$CMP TERMINAL-KEYSTONE:8191-4
+D PC Terminal w/ Screw-Unassembled, White P/N 8191-4
+F http://www.keyelco.com/product.cfm/product_id/1520
+$ENDCMP
+#
 $CMP USB-3.0-A-WURTH:692141030100
 D USB 3.0 Type A Horizontal Double WR-COM
 F http://katalog.we-online.de/em/datasheet/692141030100.pdf

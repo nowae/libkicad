@@ -45,6 +45,11 @@ K R pack array
 F http://www.bourns.com/docs/Product-MDS/cat16-j4.pdf
 $ENDCMP
 #
+$CMP CRA2512-FZ-R100ELF
+D CRA2512 - High Power Current Sense Chip Resistor
+F http://www.bourns.com/PDFs/CRA.pdf
+$ENDCMP
+#
 $CMP MMA0204-1K2
 D MMA0204 - Professional MELF Resistors
 F http://www.vishay.com/docs/28713/melfprof.pdf
