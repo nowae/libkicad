@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ24040DSQT
+D bq2404x 1A, Single-Input, Single Cell Li-Ion and Li-Pol Battery Charger With Auto Start
+F http://www.ti.com/lit/ds/symlink/bq24040.pdf
+$ENDCMP
+#
 $CMP BQ24072
 D bq2407x 1.5-A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC
 F http://www.ti.com/lit/ds/symlink/bq24072.pdf
