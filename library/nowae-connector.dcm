@@ -96,6 +96,11 @@ D 09 05 148 6921 - DIN-Power E048MS-3,0C1-2
 F https://b2b.harting.com/ebusiness/it/DIN-Power-E048MS-30C1-2/09051486921
 $ENDCMP
 #
+$CMP CONN_HARTING:09061486901
+D 0906 148 6901 - DIN-Power F048MS-3,0C1-2
+F https://b2b.harting.com/ebusiness/it/DIN-Power-F048MS-30C1-2/09061486901
+$ENDCMP
+#
 $CMP CONN_MOLEX:0877159206
 D Molex PCI Express Card Edge Connector 1.00mm Pitch 98 Circuits
 K connector pci 49x2
