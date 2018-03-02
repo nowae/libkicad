@@ -5,7 +5,7 @@ D INA12x Precision, Low Power Instrumentation Amplifiers
 F http://www.ti.com/lit/ds/symlink/ina128.pdf
 $ENDCMP
 #
-$CMP INA188
+$CMP INA188IDR
 D INA828 50uV Offset, Low Power, Precision Instrumentation Amplifiers
 F http://www.ti.com/lit/ds/symlink/ina828.pdf
 $ENDCMP

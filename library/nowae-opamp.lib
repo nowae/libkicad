@@ -31,11 +31,11 @@ X ~ 8 100 -150 118 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# INA188
+# INA188IDR
 #
-DEF INA188 U 0 0 Y Y 1 F N
+DEF INA188IDR U 0 0 Y Y 1 F N
 F0 "U" 250 150 60 H V C CNN
-F1 "INA188" 350 -150 60 H V C CNN
+F1 "INA188IDR" 400 -150 60 H V C CNN
 F2 "SOIC8_3.9x4.9_1.27" 0 -950 60 H I C CNN
 F3 "INA188 Precision, Zero-Drift, Rail-to-Rail Out, High-Voltage Instrumentation Amplifier" 0 -350 60 H I C CNN
 F4 "Texas Instruments" 0 -450 60 H I C CNN "Manufacturer"
