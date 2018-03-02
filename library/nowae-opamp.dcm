@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP INA128
+$CMP INA128UAE4
 D INA12x Precision, Low Power Instrumentation Amplifiers
 F http://www.ti.com/lit/ds/symlink/ina128.pdf
 $ENDCMP

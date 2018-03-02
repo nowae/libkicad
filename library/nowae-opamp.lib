@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# INA128
+# INA128UAE4
 #
-DEF INA128 U 0 0 Y Y 1 F N
+DEF INA128UAE4 U 0 0 Y Y 1 F N
 F0 "U" 250 150 60 H V C CNN
-F1 "INA128" 350 -150 60 H V C CNN
+F1 "INA128UAE4" 450 -150 60 H V C CNN
 F2 "SOIC8_3.9x4.9_1.27" 0 -950 60 H I C CNN
 F3 "INA12x Precision, Low Power Instrumentation Amplifiers" 0 -350 60 H I C CNN
 F4 "Texas Instruments" 0 -450 60 H I C CNN "Manufacturer"
