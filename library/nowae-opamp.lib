@@ -91,11 +91,11 @@ X ~ 8 100 -150 118 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# INA828
+# INA828IDR
 #
-DEF INA828 U 0 0 Y Y 1 F N
+DEF INA828IDR U 0 0 Y Y 1 F N
 F0 "U" 250 150 60 H V C CNN
-F1 "INA828" 350 -150 60 H V C CNN
+F1 "INA828IDR" 450 -150 60 H V C CNN
 F2 "SOIC8_3.9x4.9_1.27" 0 -950 60 H I C CNN
 F3 "INA828 50uV Offset, Low Power, Precision Instrumentation Amplifiers" 0 -350 60 H I C CNN
 F4 "Texas Instruments" 0 -450 60 H I C CNN "Manufacturer"
