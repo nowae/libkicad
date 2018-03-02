@@ -29,6 +29,10 @@ $CMP CONN_15X2
 D Connector 15x2
 $ENDCMP
 #
+$CMP CONN_16X1
+D Connector 16x1
+$ENDCMP
+#
 $CMP CONN_1X1
 D Connector 1x1
 $ENDCMP
