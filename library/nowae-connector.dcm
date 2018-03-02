@@ -107,6 +107,12 @@ K connector pci 49x2
 F http://www.molex.com/pdm_docs/sd/877159206_sd.pdf
 $ENDCMP
 #
+$CMP DB15_MALE
+D DSUB Male Connector 15-way with Hex Screw
+K DB15 MALE VERTICAL
+F http://katalog.we-online.com/em/datasheet/6180xx29221.pdf
+$ENDCMP
+#
 $CMP DB44_MALE_90-TECONN:5749771-1
 D HD-22 Right-Angle Posted Subminiature D Connectors
 K DSUB44 MALE
