@@ -61,11 +61,11 @@ X ~ 8 100 -150 118 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# INA333
+# INA333AIDGKR
 #
-DEF INA333 U 0 0 Y Y 1 F N
+DEF INA333AIDGKR U 0 0 Y Y 1 F N
 F0 "U" 250 150 60 H V C CNN
-F1 "INA333" 350 -150 60 H V C CNN
+F1 "INA333AIDGKR" 500 -150 60 H V C CNN
 F2 "VSSOP8_3x3_0.65" 0 -950 60 H I C CNN
 F3 "INA333 Micro-Power (50μA), Zerø-Drift, Rail-to-Rail Out Instrumentation Amplifier" 0 -350 60 H I C CNN
 F4 "Texas Instruments" 0 -450 60 H I C CNN "Manufacturer"

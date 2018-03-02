@@ -10,7 +10,7 @@ D INA828 50uV Offset, Low Power, Precision Instrumentation Amplifiers
 F http://www.ti.com/lit/ds/symlink/ina828.pdf
 $ENDCMP
 #
-$CMP INA333
+$CMP INA333AIDGKR
 D INA333 Micro-Power (50μA), Zerø-Drift, Rail-to-Rail Out Instrumentation Amplifier
 F http://www.ti.com/lit/ds/symlink/ina333.pdf
 $ENDCMP
