@@ -28,6 +28,18 @@ K
 F https://www3.panasonic.biz/ac/ae/search_num/index.jsp?c=detail&part_no=AJT3525
 $ENDCMP
 #
+$CMP KT24-1A-40L-SMD
+D SPST Reed Relay SMD
+K  
+F https://standexelectronics.com/viewer/pdfjs/web/viewer.php?file=https%3A%2F%2Fstandexelectronics.com%2Fwp-content%2Fuploads%2F2015%2F03%2FKT_V03.pdf
+$ENDCMP
+#
+$CMP KT24-1A-40L-THT
+D SPST Reed Relay THT
+K  
+F https://standexelectronics.com/viewer/pdfjs/web/viewer.php?file=https%3A%2F%2Fstandexelectronics.com%2Fwp-content%2Fuploads%2F2015%2F03%2FKT_V03.pdf
+$ENDCMP
+#
 $CMP RTD14024
 D Power PCB Relay RT1 - SPDT, 24V, 16A, 1 form C (CO)
 F http://www.te.com/usa-en/product-6-1393238-8.html
