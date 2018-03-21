@@ -474,10 +474,12 @@ F1 "REL-SR-24DC/2X21/FG" 0 -500 60 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "DPDT, 24V, 6A, SR Series" 0 -600 50 H I C CNN
 F4 "Phoenix Contact" 0 -700 60 H I C CNN "Manufacturer"
-F5 "rel-sr-24dc/2x21/fg" 0 -800 60 H I C CNN "Part Number"
-F6 "Phoenix contact" 0 -900 60 H I C CNN "Distributor"
+F5 "REL-SR-24DC/2X21/FG" 0 -800 60 H I C CNN "Part Number"
+F6 "Phoenix Contact" 0 -900 60 H I C CNN "Distributor"
 F7 "2908777" 0 -1000 60 H I C CNN "Distributor Code"
-F8 "2.650" 0 -1100 60 H I C CNN "Price €"
+F8 "19.510" 0 -1100 60 H I C CNN "Price €"
+F9 "Mouser Electronics Inc" 0 -1200 100 H I C CNN "Distributor2"
+F10 "651-2908777" 0 -1350 100 H I C CNN "Distributor2 Code"
 DRAW
 P 2 0 1 0 -100 -350 -90 -350 N
 P 2 0 1 0 -100 -250 -50 -250 N

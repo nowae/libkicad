@@ -41,7 +41,7 @@ F https://standexelectronics.com/viewer/pdfjs/web/viewer.php?file=https%3A%2F%2F
 $ENDCMP
 #
 $CMP REL-SR-24DC/2X21/FG
-D IM Relay - AXICOM Signal Relay 2A, 60W
+D Safety Module Relay
 K RELAY 
 $ENDCMP
 #
