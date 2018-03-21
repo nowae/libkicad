@@ -40,6 +40,11 @@ K
 F https://standexelectronics.com/viewer/pdfjs/web/viewer.php?file=https%3A%2F%2Fstandexelectronics.com%2Fwp-content%2Fuploads%2F2015%2F03%2FKT_V03.pdf
 $ENDCMP
 #
+$CMP REL-SR-24DC/2X21/FG
+D IM Relay - AXICOM Signal Relay 2A, 60W
+K RELAY 
+$ENDCMP
+#
 $CMP RTD14024
 D Power PCB Relay RT1 - SPDT, 24V, 16A, 1 form C (CO)
 F http://www.te.com/usa-en/product-6-1393238-8.html
