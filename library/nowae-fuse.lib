@@ -22,6 +22,29 @@ X ~ 2 150 0 50 L 40 40 1 1 I
 ENDDRAW
 ENDDEF
 #
+# 0154004.DRT
+#
+DEF 0154004.DRT F 0 10 Y Y 1 F N
+F0 "F" 0 100 60 H V C CNN
+F1 "0154004.DRT" 0 -100 60 H V C CNN
+F2 "FUSE:FUSE-LITTELFUSE-SMT" 0 -800 60 H I C CNN
+F3 "4A time delay" 0 -200 60 H I C CNN
+F4 "Littlefuse Inc." 0 -300 60 H I C CNN "Manufacturer"
+F5 "0154004.DRT" 0 -400 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -500 60 H I C CNN "Distributor"
+F7 "9943765" 0 -600 60 H I C CNN "Distributor Code"
+F8 "1.730" 0 -700 60 H I C CNN "Price €"
+F9 "RS Components S.p.a." 0 -900 60 H I C CNN "Distributor2"
+F10 "219-6254" 0 -1000 60 H I C CNN "Distributor2 Code"
+DRAW
+A -50 -37 62 365 1435 0 1 0 N 0 0 -100 0
+A 50 37 62 -1435 -365 0 1 0 N 0 0 100 0
+S -100 50 100 -50 0 1 0 N
+X ~ 1 -150 0 50 R 40 40 1 1 I
+X ~ 2 150 0 50 L 40 40 1 1 I
+ENDDRAW
+ENDDEF
+#
 # 0154375.DRT
 #
 DEF 0154375.DRT F 0 10 Y Y 1 F N
