@@ -1,6 +1,7 @@
 (module MAPBGA121_8.0x8.0_0.65 (layer F.Cu) (tedit 5890C693)
   (descr "MAPBGA 121 Designed by Freescale, Do. N. 98ASA00595D rev. A")
   (tags "MAPBGA, BGA")
+  (attr smd)
   (fp_text reference VAL** (at 0 -4.8) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
