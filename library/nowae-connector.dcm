@@ -33,6 +33,10 @@ $CMP CONN_16X1
 D Connector 16x1
 $ENDCMP
 #
+$CMP CONN_17X2
+D Connector 17x2
+$ENDCMP
+#
 $CMP CONN_1X1
 D Connector 1x1
 $ENDCMP
@@ -53,12 +57,22 @@ $CMP CONN_30X1
 D Connector 30x1
 $ENDCMP
 #
+$CMP CONN_32X2
+D Connector 32x2
+K connector
+$ENDCMP
+#
 $CMP CONN_34X1
 D Connector 34x1
 $ENDCMP
 #
 $CMP CONN_3X1
 D Connector 3x1
+$ENDCMP
+#
+$CMP CONN_40X1
+D Connector 40x1
+K connector
 $ENDCMP
 #
 $CMP CONN_40X2
@@ -92,6 +106,10 @@ $ENDCMP
 #
 $CMP CONN_8X1
 D Connector 8x1
+$ENDCMP
+#
+$CMP CONN_8X2
+D Connector 8x2
 $ENDCMP
 #
 $CMP CONN_9X1
