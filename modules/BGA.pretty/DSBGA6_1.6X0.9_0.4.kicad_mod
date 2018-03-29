@@ -1,4 +1,5 @@
 (module DSBGA6_1.6X0.9_0.4 (layer F.Cu) (tedit 58B1EDDD)
+  (attr smd)
   (fp_text reference VAL** (at 0 -1.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
