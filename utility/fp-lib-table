@@ -15,6 +15,7 @@
   (lib (name CONNECTOR_MKDS)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_MKDS.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_MOLEX)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_MOLEX.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_MTYPE)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_MTYPE.pretty)(options "")(descr ""))
+  (lib (name CONNECTOR_PTSA)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_PTSA.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_SPTAF)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_SPTAF.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_WR-TBL)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_WR-TBL.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_ZIF)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_ZIF.pretty)(options "")(descr ""))
