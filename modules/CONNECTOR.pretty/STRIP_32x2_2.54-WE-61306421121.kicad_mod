@@ -421,7 +421,7 @@
   (pad 63 thru_hole circle (at 39.37 1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 64 thru_hole circle (at 39.37 -1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/61306421121.wrl
-    (at (xyz 0 -0.05 0))
+    (at (xyz 0 -0.05 0.05))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
