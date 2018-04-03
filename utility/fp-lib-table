@@ -6,7 +6,7 @@
   (lib (name BUZZER)(type KiCad)(uri ${KINOWAEMOD}/BUZZER.pretty)(options "")(descr ""))
   (lib (name CAPACITOR)(type KiCad)(uri ${KINOWAEMOD}/CAPACITOR.pretty)(options "")(descr ""))
   (lib (name CONNECTOR)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR.pretty)(options "")(descr ""))
-  (lib (name CONNECTOR_DSUB)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_MCV.pretty)(options "")(descr ""))
+  (lib (name CONNECTOR_DSUB)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_DSUB.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_HARTING)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_HARTING.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_IDC)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_IDC.pretty)(options "")(descr ""))
   (lib (name CONNECTOR_JST)(type KiCad)(uri ${KINOWAEMOD}/CONNECTOR_JST.pretty)(options "")(descr ""))
