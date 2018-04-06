@@ -19,4 +19,9 @@ $CMP FUSE
 D Fuse, generic
 $ENDCMP
 #
+$CMP nanoSMDC020F
+D nanoSMDC020F - Polyswitch resettable Devices SMD
+F http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_nanosmd_catalog_datasheet.pdf.pdf
+$ENDCMP
+#
 #End Doc Library
