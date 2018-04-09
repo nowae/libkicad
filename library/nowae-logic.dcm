@@ -15,6 +15,11 @@ D ADG706 CMOS +1.8 V to +5.5 V, 2.5Ohm Low-Voltage, 8-/16-Channel Multiplexers
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG706_707.pdf
 $ENDCMP
 #
+$CMP CD74HC4067SM96
+D CD74HC4067 High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer
+F http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf
+$ENDCMP
+#
 $CMP DRV8804DW
 D DRV8804 Quad Serial Interface Low-Side Driver IC
 F http://www.ti.com/lit/ds/symlink/drv8804.pdf
