@@ -1,4 +1,7 @@
 (module SSOP24_5.3x8.2_0.65 (layer F.Cu) (tedit 5ACB33FB)
+  (descr "Plastic Small Outline SSOP24 - DB series by Texas Instruments")
+  (tags SSOP24)
+  (attr smd)
   (fp_text reference VAL** (at 0 5.1) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
