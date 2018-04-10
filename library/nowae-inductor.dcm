@@ -5,6 +5,26 @@ D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
 F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
 $ENDCMP
 #
+$CMP COMMONMODEFILTER-MURATA:50105C
+D 5000 Series Surface Mount Common Mode Chokes
+F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
+$ENDCMP
+#
+$CMP COMMONMODEFILTER-MURATA:50225C
+D 5000 Series Surface Mount Common Mode Chokes
+F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
+$ENDCMP
+#
+$CMP COMMONMODEFILTER-MURATA:50474C
+D 5000 Series Surface Mount Common Mode Chokes
+F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
+$ENDCMP
+#
+$CMP COMMONMODEFILTER-MURATA:50475C
+D 5000 Series Surface Mount Common Mode Chokes
+F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
+$ENDCMP
+#
 $CMP COMMONMODEFILTER-WURTH:744232090
 D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
 F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
