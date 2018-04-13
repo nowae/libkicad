@@ -160,9 +160,15 @@ D DSub connector, 9-way, male
 K DB9 MALE VERTICAL
 $ENDCMP
 #
+<<<<<<< Updated upstream
 $CMP ETH-TE:100616-2
 D Single Port Modular Jacks, Without Leds, Shielded, Cat. 3
 F http://www.te.com/usa-en/product-100616-2.html
+=======
+$CMP DB9_MALE_DOUBLE
+D DSub connector, 9-way, male
+K DB9 MALE VERTICAL DOUBLE
+>>>>>>> Stashed changes
 $ENDCMP
 #
 $CMP ETH-WIZNET:RB1-125BAG1A
