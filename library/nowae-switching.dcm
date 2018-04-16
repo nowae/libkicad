@@ -5,6 +5,11 @@ D LM2776 Switched Capacitor Inverter
 F http://www.ti.com/lit/ds/symlink/lm2776.pdf
 $ENDCMP
 #
+$CMP LM5009AMM
+D LM5009A 100-V, 150-mA Constant ON-Time Buck Switching Regulator
+F http://www.ti.com/lit/ds/symlink/lm5009a.pdf
+$ENDCMP
+#
 $CMP LMZ34002
 D Switching power module with +4.5V-40V input and -17V output min at 2A
 F http://www.ti.com/lit/ds/symlink/lmz34002.pdf
