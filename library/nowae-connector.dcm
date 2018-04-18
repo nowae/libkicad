@@ -160,94 +160,9 @@ D DSub connector, 9-way, male
 K DB9 MALE VERTICAL
 $ENDCMP
 #
-<<<<<<< Updated upstream
-$CMP ETH-TE:100616-2
-D Single Port Modular Jacks, Without Leds, Shielded, Cat. 3
-F http://www.te.com/usa-en/product-100616-2.html
-=======
-$CMP DB9_MALE_DOUBLE
-D DSub connector, 9-way, male
-K DB9 MALE VERTICAL DOUBLE
->>>>>>> Stashed changes
-$ENDCMP
-#
-$CMP ETH-WIZNET:RB1-125BAG1A
-D RB1-125BAG1A - RJ45 1X1 Tab Down Through Hole 10/100Base-T
-$ENDCMP
-#
-$CMP ETH-WURTH:74990101210
-D LAN-Transformer WE-RJ45LAN 10/100BaseT
-F http://katalog.we-online.de/pbs/datasheet/74990101210.pdf
-$ENDCMP
-#
-$CMP ETH-WURTH:7499511440
-D LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT PoE+
-F http://katalog.we-online.de/pbs/datasheet/7499511440.pdf
-$ENDCMP
-#
-$CMP HDMI-WURTH:685119134923
-D HDMI SMT Horizontal WR-COM
-K HDMI
-F http://katalog.we-online.de/em/datasheet/685119134923.pdf
-$ENDCMP
-#
-$CMP M.2_2230
-D M.2 2230
-K connector
-$ENDCMP
-#
-$CMP M.2_2242
-D M.2 2240
-K connector
-$ENDCMP
-#
-$CMP MICROSD-MOLEX:473092651
-D 1.10mm Pitch microSD Card Header with Detect Switch
-F http://www.molex.com/pdm_docs/sd/473092651_sd.pdf
-$ENDCMP
-#
-$CMP MICROSD-WURTH:693071010811
-D Micro SD Card Connector Push & Push - with card detection - 8 pins WR-CRD
-F http://katalog.we-online.de/em/datasheet/693071010811.pdf
-$ENDCMP
-#
-$CMP MICROUSB-629105150521
-D Micro USB 2.0 SMT Type B Horizontal 5 Contacts WR-COM
-F http://katalog.we-online.de/em/datasheet/629105150521.pdf
-$ENDCMP
-#
-$CMP TERMINAL-KEYSTONE:8191-4
-D PC Terminal w/ Screw-Unassembled, White P/N 8191-4
-F http://www.keyelco.com/product.cfm/product_id/1520
-$ENDCMP
-#
-$CMP USB-3.0-A-WURTH:692141030100
-D USB 3.0 Type A Horizontal Double WR-COM
-F http://katalog.we-online.de/em/datasheet/692141030100.pdf
-$ENDCMP
-#
-$CMP USB_A-180-WURTH:614004135023
-D USB 2.0 Type A Vertical WR-COM
-F http://katalog.we-online.de/em/datasheet/614004135023.pdf
-$ENDCMP
-#
-$CMP USB_A_90
-D USB 4P Horizontal Type A Plug Connector
-F http://www.molex.com/webdocs/datasheets/pdf/en-us//0480372200_IO_CONNECTORS.pdf
-$ENDCMP
-#
-$CMP USB_B_180-5787834-1
-D USB 4P Vertical Type B Receptacle Connector
-F http://www.te.com/usa-en/product-5787834-1.html
-$ENDCMP
-#
-$CMP USB_B_90-WURTH:61400416121
-D USB 2.0 Type B Horizontal WR-COM
-F http://katalog.we-online.de/em/datasheet/61400416121.pdf
-$ENDCMP
-#
-$CMP XBEE-SOCKET
-D XBee socket for DIGI device
+$CMP USB-A-90-WURTH-629004113921
+D USB 2.0 Type A SMT With Clip
+F http://katalog.we-online.de/em/datasheet/629004113921.pdf
 $ENDCMP
 #
 #End Doc Library
