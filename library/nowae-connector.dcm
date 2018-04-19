@@ -160,9 +160,14 @@ D DSub connector, 9-way, male
 K DB9 MALE VERTICAL
 $ENDCMP
 #
-$CMP USB-A-90-WURTH-629004113921
+$CMP USB-A-90-WURTH-61400416021
 D USB 2.0 Type A SMT With Clip
 F http://katalog.we-online.de/em/datasheet/629004113921.pdf
+$ENDCMP
+#
+$CMP USB-A-90-WURTH-629004113921
+D USB 2.0 Type A Horizontal WR-COM
+F http://katalog.we-online.de/em/datasheet/61400416021.pdf
 $ENDCMP
 #
 #End Doc Library
