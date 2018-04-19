@@ -67,4 +67,29 @@ X ~ 2 -150 -50 72 R 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# SMA-21-S
+#
+DEF SMA-21-S BZ 0 10 N N 1 F N
+F0 "BZ" 100 50 50 H V L CNN
+F1 "SMA-21-S" 100 -50 50 H V L CNN
+F2 "BUZZER:BUZZER-SONITRON-SMA(T)-21-S" 0 -1000 60 H I C CNN
+F3 "SMD, 85dB, 3.3kHz" 0 -200 60 H I C CNN
+F4 "Sonitron NV" 0 -300 60 H I C CNN "Manufacturer"
+F5 "SMA-21-S" 0 -400 60 H I C CNN "Part Number"
+F6 "RS Components S.p.a." 0 -500 60 H I C CNN "Distributor"
+F7 "245-6455" 0 -600 60 H I C CNN "Distributor Code"
+F8 "6.150" 0 -700 60 H I C CNN "Price €"
+F9 "-" 0 -800 60 H I C CNN "Distributor2"
+F10 "-" 0 -900 60 H I C CNN "Distributor2 Code"
+DRAW
+T 0 0 50 60 0 0 0 + Normal 0 C C
+A 75 0 150 901 -901 0 1 10 N 75 150 75 -150
+P 2 0 1 0 -80 -50 -70 -50 N
+P 2 0 1 0 -80 50 -70 50 N
+P 2 0 1 10 75 150 75 -150 N
+X ~ 1 -150 50 72 R 40 40 1 1 P
+X ~ 2 -150 -50 72 R 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library

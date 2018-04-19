@@ -16,4 +16,10 @@ K Buzzer Piezo
 F https://www.murata.com/en-us/products/productdata/8799428804638/JGB40-1594-PKMCS0909E4000-R1.pdf
 $ENDCMP
 #
+$CMP SMA-21-S
+D Buzzers & Transducers - SMA Series - SMD Type
+K Buzzer Piezo
+F http://www.sonitron.be/site/epag.php?primid=&hid=&subid=&eid=4
+$ENDCMP
+#
 #End Doc Library
