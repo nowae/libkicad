@@ -23,6 +23,11 @@ $CMP GREEN
 D Green Led
 $ENDCMP
 #
+$CMP KW-DMLN31.SG
+D KW DMLN31.SG - compact LED device is part of the SYNIOS P2720 family
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2494659/KW%20DMLN31.SG_EN.pdf
+$ENDCMP
+#
 $CMP RED
 D Red Led
 $ENDCMP

@@ -202,6 +202,35 @@ X K 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# KW-DMLN31.SG
+#
+DEF KW-DMLN31.SG DL 0 40 N N 1 F N
+F0 "DL" 0 100 50 H V C CNN
+F1 "KW-DMLN31.SG" 0 -100 50 H V C CNN
+F2 "LEDs:LED-OSRAM-KW_DMLN31.SG" 0 -1250 60 H I C CNN
+F3 "200mA 3V 60lm" 0 -200 60 H I C CNN
+F4 "OSRAM Opto Semiconductors" 0 -350 60 H I C CNN "Manufacturer"
+F5 "Q65111A6228" 0 -450 60 H I C CNN "Part Number"
+F6 "RS Components S.p.a." 0 -550 60 H I C CNN "Distributor"
+F7 "914-8552" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.954" 0 -750 60 H I C CNN "Price €"
+F9 "Mouser Electronics Inc" 0 -850 60 H I C CNN "Distributor2"
+F10 "720-DMLN31SGA6228" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "-" 0 -1050 60 H I C CNN "Distributor3"
+F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
+$FPLIST
+ LED-*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 50 50 50 -50 N
+P 3 0 1 0 -50 50 50 0 -50 -50 F
+P 5 0 1 0 75 -15 115 -60 110 -35 90 -55 115 -60 F
+P 5 0 1 0 115 -15 160 -60 155 -35 135 -55 160 -60 F
+X A 1 -200 0 150 R 40 40 1 1 P
+X K 2 200 0 150 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # RED
 #
 DEF RED DL 0 40 N N 1 F N
