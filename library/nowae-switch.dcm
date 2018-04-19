@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BUTTON-PANASONIC:ESB33536
+D ESB33 Push Switches - Low profile Wide available range for reflow soldering
+K switch button
+F https://www3.panasonic.biz/ac/e/control/switch/push/esb33/index.jsp
+$ENDCMP
+#
 $CMP BUTTON-TOUCH-1P
 D Touch button 1-pole
 K switch button touch
