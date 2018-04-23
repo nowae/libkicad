@@ -331,6 +331,32 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# S1621-46R
+#
+DEF S1621-46R JL 0 0 N Y 1 F N
+F0 "JL" 80 0 50 V V C CNN
+F1 "S1621-46R" 150 0 50 V V C CNN
+F2 "RESISTOR:JUMPERLINK-HARWIN-S1621-46" -70 0 30 V I C CNN
+F3 "12.3mm" 80 0 30 V I C CNN
+F4 "Harwin Plc" 0 -350 60 H I C CNN "Manufacturer"
+F5 "S1621-46R" 0 -450 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -550 60 H I C CNN "Distributor"
+F7 "2751488" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.112" 0 -750 60 H I C CNN "Price €"
+F9 "RS Components S.p.a." 0 -850 60 H I C CNN "Distributor2"
+F10 "788-4818" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "Mouser Electronics Inc" 0 -1050 60 H I C CNN "Distributor3"
+F12 "855-S1621-46R" 0 -1150 60 H I C CNN "Distributor3 Code"
+$FPLIST
+ RESISTOR-*
+$ENDFPLIST
+DRAW
+P 2 0 1 12 0 150 0 -150 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
 # VARISTANCE
 #
 DEF VARISTANCE VR 0 0 N Y 1 F N
