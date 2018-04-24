@@ -88,8 +88,13 @@ K TTL AND AND3
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g11.pdf
 $ENDCMP
 #
-$CMP SN74LVC1G132DCKR
+$CMP SN74LVC1G132DBVT
 D SN74LVC1G132 Single 2-Input NAND Gate With Schmitt-Trigger Inputs
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g132.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G132DCKR
+D SN74LVC1G132 Single 2-Input NAND Gate With Schmitt-Trigger Inputs SOT23-5
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g132.pdf
 $ENDCMP
 #
