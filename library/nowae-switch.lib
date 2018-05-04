@@ -406,13 +406,17 @@ ENDDEF
 DEF DIPSWITCH-WURTH:416131160808 SW 0 40 N Y 1 F N
 F0 "SW" 0 500 60 H V C CNN
 F1 "DIPSWITCH-WURTH:416131160808" 0 -500 60 H V C CNN
-F2 "" 0 150 60 H I C CNN
+F2 "SWITCH:DIPSWITCH-8P-WURTH-416131160808" 0 -1500 60 H I C CNN
 F3 "" 0 150 60 H I C CNN
 F4 "Wurth Elektronik GmbH" 0 -600 60 H I C CNN "Manufacturer"
 F5 "416131160808" 0 -700 60 H I C CNN "Part Number"
 F6 "Wurth Elektronik S.r.l." 0 -800 60 H I C CNN "Distributor"
 F7 "416131160808" 0 -900 60 H I C CNN "Distributor Code"
 F8 "7,200" 0 -1000 60 H I C CNN "Price €"
+F9 "RS Components s.p.a." 0 -1100 60 H I C CNN "Distributor2"
+F10 "785-6119" 0 -1200 60 H I C CNN "Distributor2 Code"
+F11 "Digi-key Electronics Inc" 0 -1300 60 H I C CNN "Distributor3"
+F12 "732-3857-1-ND" 0 -1400 60 H I C CNN "Distributor3 Code"
 DRAW
 T 0 75 420 31 0 0 0 ON Normal 0 C C
 S -150 450 150 -450 0 1 0 N
