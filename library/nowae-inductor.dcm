@@ -25,6 +25,16 @@ D 5000 Series Surface Mount Common Mode Chokes
 F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
 $ENDCMP
 #
+$CMP COMMONMODEFILTER-TDK:ACM7060-701-2PL
+D ACM Series - Common Mode Filters for power line
+F https://product.tdk.com/info/en/catalog/datasheets/cmf_commercial_power_acm7060_en.pdf
+$ENDCMP
+#
+$CMP COMMONMODEFILTER-TDK:ACM70V-701-2PL
+D ACM Series - Common Mode Filters for power line
+F https://product.tdk.com/info/en/catalog/datasheets/cmf_automotive_power_acm70v_en.pdf
+$ENDCMP
+#
 $CMP COMMONMODEFILTER-WURTH:744232090
 D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
 F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
