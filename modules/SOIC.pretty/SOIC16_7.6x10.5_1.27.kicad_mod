@@ -5,6 +5,9 @@
   (fp_text value SOIC16_7.6x10.5_1.27 (at 0 0) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
+  (fp_line (start -5.2 -5.5) (end -4.8 -5.1) (layer F.SilkS) (width 0.15))
+  (fp_line (start -4.4 -5.5) (end -5.2 -5.5) (layer F.SilkS) (width 0.15))
+  (fp_line (start -4.8 -5.1) (end -4.4 -5.5) (layer F.SilkS) (width 0.15))
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
