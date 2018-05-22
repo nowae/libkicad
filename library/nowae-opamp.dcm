@@ -65,6 +65,11 @@ D Si8920 Isolated Amplifier for Current Shunt Measurement
 F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si8920.pdf
 $ENDCMP
 #
+$CMP SI8920BD-IS
+D Si8920 Isolated Amplifier for Current Shunt Measurement
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si8920.pdf
+$ENDCMP
+#
 $CMP TLV2172IDR
 D TLVx172 36-V, Single-Supply, Low-Power Operational Amplifiers for Cost-Sensitive Systems
 F http://www.ti.com/lit/ds/symlink/tlv172.pdf
