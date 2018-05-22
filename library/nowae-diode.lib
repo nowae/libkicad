@@ -1000,9 +1000,13 @@ F2 "SOT:SOT23-6" 0 -1000 60 H I C CNN
 F3 "WE-TVS TVS Diode High Speed Series USB 1.0 2.0" 0 -400 60 H I C CNN
 F4 "Wurth Elektronik GmbH" 0 -500 60 H I C CNN "Manufacturer"
 F5 "82400102" 0 -600 60 H I C CNN "Part Number"
-F6 "Wurth Elektronik GmbH" 0 -700 60 H I C CNN "Distributor"
+F6 "Wurth Elektronik S.r.l." 0 -700 60 H I C CNN "Distributor"
 F7 "82400102" 0 -800 60 H I C CNN "Distributor Code"
-F8 "-" 0 -900 60 H I C CNN "Price €"
+F8 "0.782" 0 -900 60 H I C CNN "Price €"
+F9 "Farnell Italia S.r.l." 0 -1100 59 H I C CNN "Distributor2"
+F10 "1825875" 0 -1200 59 H I C CNN "Distributor2 Code"
+F11 "RS Components S.p.a." 0 -1300 59 H I C CNN "Distributor3"
+F12 "754-6200" 0 -1400 59 H I C CNN "Distributor3 Code"
 DRAW
 X IO1 1 -400 100 200 R 50 50 0 0 B
 X GND 2 -400 0 200 R 50 50 0 0 W
