@@ -1,10 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 1N5819
-D 1.0A SURFACE MOUNT SCHOTTKY BARR
-F https://www.diodes.com/assets/Datasheets/ds30217.pdf
-$ENDCMP
-#
 $CMP 1N5819HW-7-F
 D 1.0A SURFACE MOUNT SCHOTTKY BARR
 F https://www.diodes.com/assets/Datasheets/ds30217.pdf
