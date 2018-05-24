@@ -66,6 +66,11 @@ D TPL7407L 40-V 7-Channel Low Side Driver
 F http://www.ti.com/lit/ds/symlink/tpl7407l.pdf
 $ENDCMP
 #
+$CMP ULN2003APWR
+D ULN2003LV 7-Channel Relay and Inductive Load Sink Driver
+F http://www.ti.com/lit/ds/symlink/uln2003lv.pdf
+$ENDCMP
+#
 $CMP ULN2003LVDR
 D ULN2003LV 7-Channel Relay and Inductive Load Sink Driver
 F http://www.ti.com/lit/ds/symlink/uln2003lv.pdf
