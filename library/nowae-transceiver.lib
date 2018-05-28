@@ -236,7 +236,7 @@ F3 "" 50 -850 60 H I C CNN
 F4 "Microchip Technology Inc." 0 -900 60 H I C CNN "Manufacturer"
 F5 "KSZ8081RNACA-TR" 0 -1000 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -1100 60 H I C CNN "Distributor"
-F7 "2081324" 0 -1200 60 H I C CNN "Distributor Code"
+F7 "2509802" 0 -1200 60 H I C CNN "Distributor Code"
 F8 "0.940" 0 -1300 60 H I C CNN "Price €"
 DRAW
 S -650 650 650 -650 0 1 0 N
@@ -278,7 +278,7 @@ F3 "" 50 -850 60 H I C CNN
 F4 "Microchip Technology Inc." 0 -1000 60 H I C CNN "Manufacturer"
 F5 "KSZ8081RNACA-TR" 0 -1100 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -1200 60 H I C CNN "Distributor"
-F7 "2081324" 0 -1300 60 H I C CNN "Distributor Code"
+F7 "2509802" 0 -1300 60 H I C CNN "Distributor Code"
 F8 "0.940" 0 -1400 60 H I C CNN "Price €"
 $FPLIST
  QFN16_4x4_0.65_16+1
