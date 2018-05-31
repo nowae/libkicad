@@ -10,6 +10,11 @@ D WL-SFCW SMD Full-color Chip LED Waterclear
 F http://katalog.we-online.de/led/datasheet/150121M173000.pdf
 $ENDCMP
 #
+$CMP ASMB-MTB1-0A3A2
+D PLCC-4 Tricolor Black Surface LED
+F https://docs.broadcom.com/docs/AV02-4194EN
+$ENDCMP
+#
 $CMP BLUE
 D Blue Led
 $ENDCMP
