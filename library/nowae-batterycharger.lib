@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BQ24040DSQT U 0 40 Y Y 1 F N
 F0 "U" 0 400 60 H V C CNN
 F1 "BQ24040DSQT" 0 -500 60 H V C CNN
-F2 "SON:WSON10_3.0x3.0_0.5_10+1" 0 -1200 60 H I C CNN
+F2 "SON:WSON10_2.0x2.0_0.4_10+1" 0 -1200 60 H I C CNN
 F3 "bq2404x 1A, Single-Input, Single Cell Li-Ion and Li-Pol Battery Charger With Auto Start" 0 -600 60 H I C CNN
 F4 "Texas Instruments" 0 -700 60 H I C CNN "Manufacturer"
 F5 "BQ24040DSQT" 0 -800 60 H I C CNN "Part Number"
