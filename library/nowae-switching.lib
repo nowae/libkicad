@@ -357,10 +357,10 @@ F1 "TPS54541DPRT" 0 -600 60 H V C CNN
 F2 "SON:WSON10_4.0x4.0_0.8_10+1" 0 -1300 60 H I C CNN
 F3 "Step Down, +4.5 to +42Vin, +Adj Vout, 5A" 0 -700 60 H I C CNN
 F4 "Texas Instruments" 0 -800 60 H I C CNN "Manufacturer"
-F5 "TPS54160ADGQ" 0 -900 60 H I C CNN "Part Number"
+F5 "TPS54541DPRT" 0 -900 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -1000 60 H I C CNN "Distributor"
 F7 "2392481" 0 -1100 60 H I C CNN "Distributor Code"
-F8 "5.76" 0 -1200 60 H I C CNN "Price €"
+F8 "4.94" 0 -1200 60 H I C CNN "Price €"
 $FPLIST
  WSON10_4.0x4.0_0.8_10+1
 $ENDFPLIST
