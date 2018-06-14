@@ -19,6 +19,11 @@ D FXOS8700CQ 6-axis sensor with integrated linear accelerometer and magnetometer
 F http://cache.nxp.com/files/sensors/doc/data_sheet/FXOS8700CQ.pdf
 $ENDCMP
 #
+$CMP LIS2DW12TR
+D MEMS digital output motion sensor high-performance ultra-low-power 3-axis "femto" accelerometer
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/30/3a/4e/6b/68/16/4a/35/DM00323179/files/DM00323179.pdf/jcr:content/translations/en.DM00323179.pdf
+$ENDCMP
+#
 $CMP MMA8451Q
 D MMA8451Q, 3-axis, 14-bit/8-bit digital accelerometer
 F http://cache.nxp.com/files/sensors/doc/data_sheet/MMA8451Q.pdf
@@ -43,6 +48,21 @@ $ENDCMP
 $CMP Si7021-A20
 D Si7021-A20 I2C humidity and temperature sensor
 F https://www.silabs.com/Support%20Documents%2FTechnicalDocs%2FSi7021-A20.pdf
+$ENDCMP
+#
+$CMP TMP102AIDRLT
+D TMP102 Low-Power Digital Temperature Sensor With SMBus and Two-Wire Serial Interface in SOT563
+F http://www.ti.com/lit/ds/symlink/tmp102.pdf
+$ENDCMP
+#
+$CMP TMP103AYFFT
+D TMP103 Low-Power, Digital Temperature Sensor With Two-Wire Interface in WCSP
+F http://www.ti.com/lit/ds/symlink/tmp103.pdf
+$ENDCMP
+#
+$CMP VCNL3020-GS08
+D Fully Integrated Proximity Sensor With Infrared Emitter, I2C Interface, and Interrupt Function
+F http://www.vishay.com/docs/84150/vcnl3020.pdf
 $ENDCMP
 #
 #End Doc Library
