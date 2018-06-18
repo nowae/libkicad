@@ -39,6 +39,11 @@ K npn transistor
 F https://assets.nexperia.com/documents/data-sheet/MMBT3904.pdf
 $ENDCMP
 #
+$CMP PMN30UNE
+D N Channel 150V 1.2A 845mOhm
+F https://assets.nexperia.com/documents/data-sheet/PMN30UNE.pdf
+$ENDCMP
+#
 $CMP SFH3711
 D SFH 3711 - Silicon NPN Phototransistor with Vλ Characteristics
 K npn photo transistor
