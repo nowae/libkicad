@@ -50,6 +50,11 @@ D SMT AC Line Monitor Logic-Out Device
 F http://www.onsemi.com/pub/Collateral/MID400-D.pdf
 $ENDCMP
 #
+$CMP OPI1280-026
+D OPI1280 Series - Fiber Optic Isolator - Phototransistor sensor
+F http://www.ttelectronics.com/sites/default/files/download-files/OPI1280_0.pdf
+$ENDCMP
+#
 $CMP PS2911-1
 D PS2911-1 - High CTR, 4-Pin Ultra small package flat-lead Photocoupler
 F https://www.renesas.com/en-eu/doc/YOUSYS/document/003/r08ds0110ej0400_ps_family.pdf
