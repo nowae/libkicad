@@ -56,6 +56,11 @@ D PCA9306 Dual bidirectional I2C-bus and SMBus voltage-level translator
 F https://cache.nxp.com/docs/en/data-sheet/PCA9306.pdf
 $ENDCMP
 #
+$CMP PCA9535PW
+D PCA9535PW 16 bit low power I/O bus I2C with interrupt
+F https://www.nxp.com/docs/en/data-sheet/PCA9535_PCA9535C.pdf
+$ENDCMP
+#
 $CMP SN65HVS882
 D SN65HVS882 8 input 10-34V digital-input serializer for industrial digital inputs
 F http://www.ti.com/lit/ds/symlink/sn65hvs882.pdf
