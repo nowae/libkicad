@@ -41,4 +41,9 @@
   (pad 2 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at -2 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
+  (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/62000311121.wrl
+    (at (xyz 0 0 0.04))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
