@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ACPL-M21L-000E
+D Low Power, 5 MBd Digital CMOS Optocoupler
+F https://docs.broadcom.com/docs/AV02-3462EN
+$ENDCMP
+#
 $CMP ACPL-P341-000E
 D 3.0 Amp Output Current IGBT Gate Drive Optocoupler with Rail-to-Rail Output Voltage in Stretched SO6
 F https://docs.broadcom.com/docs/AV02-2929EN
