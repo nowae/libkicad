@@ -1,4 +1,4 @@
-(module DSUB9-M-V-WURTH-61800929221 (layer F.Cu) (tedit 5B4463C0)
+(module DSUB9-M-V-WURTH-61800929221 (layer F.Cu) (tedit 5B4464AA)
   (fp_text reference VAL** (at 0 -7.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -49,8 +49,8 @@
   (pad 7 thru_hole circle (at -1.385 1.42) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 1.385 1.42) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 4.155 1.42) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -12.5 0) (size 4.3 4.3) (drill 3.2) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 12.5 0) (size 4.3 4.3) (drill 3.2) (layers *.Cu *.Mask))
+  (pad 10 thru_hole circle (at -12.5 0) (size 4.3 4.3) (drill 3.2) (layers *.Cu *.Mask))
+  (pad 11 thru_hole circle (at 12.5 0) (size 4.3 4.3) (drill 3.2) (layers *.Cu *.Mask))
   (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/61800929221.wrl
     (at (xyz 0 0 0.065))
     (scale (xyz 1 1 1))
