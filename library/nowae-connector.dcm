@@ -169,6 +169,11 @@ D RJ45 Single Port Jacks Horizontal connector w/ shield
 F http://www.te.com/usa-en/product-1-406541-5.html
 $ENDCMP
 #
+$CMP SMA-180-WURTH-60312002114503
+D SMA PCB THT 50R Jack Straight WR-SMA
+F http://katalog.we-online.de/em/datasheet/60312002114503.pdf
+$ENDCMP
+#
 $CMP USB-A-90-WURTH-61400416021
 D USB 2.0 Type A SMT With Clip
 F http://katalog.we-online.de/em/datasheet/629004113921.pdf
