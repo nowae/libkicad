@@ -70,6 +70,11 @@ D 120 MHz LQFP64 ARM Cortex-M4 Based Microcontroller with FPU
 F https://www.nxp.com/docs/en/data-sheet/KV31P100M120SF7.pdf
 $ENDCMP
 #
+$CMP PIC18F2431-I/SP
+D 28/40/44-Pin Enhanced Flash Microcontrollers with nanoWatt Technology, High-Performance PWM and A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf
+$ENDCMP
+#
 $CMP XMC4500-F100x1024
 D XMC4500 Microcontroller Series ARM® Cortex®-M4 32-bit processor core
 $ENDCMP
