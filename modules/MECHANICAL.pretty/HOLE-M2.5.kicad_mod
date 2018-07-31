@@ -1,0 +1,18 @@
+(module HOLE-M2.5 (layer F.Cu) (tedit 5B60540D)
+  (fp_text reference REF** (at 0 -2) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value HOLE-M2.5 (at 0 2) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_line (start -1.4 -1.4) (end -1.4 1.4) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -1.4 1.4) (end 1.4 1.4) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 1.4 1.4) (end 1.4 -1.4) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 1.4 -1.4) (end -1.4 -1.4) (layer F.CrtYd) (width 0.05))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask))
+  (model ${KINOWAEMOD}packages3d/walter/misc/hole.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
