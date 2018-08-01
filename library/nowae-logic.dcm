@@ -35,6 +35,11 @@ D DS3231 Extremely Accurate I2C-Integrated RTC/TCXO/Crystal
 F https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
 $ENDCMP
 #
+$CMP MAX3095CEE+
+D ±15kV ESD-Protected, 10Mbps, 3V/5V, Quad RS-422/RS-485 Receivers
+F https://datasheets.maximintegrated.com/en/ds/MAX3095-MAX3096.pdf
+$ENDCMP
+#
 $CMP NC7WZ14EP6X
 D NC7WZ14 TinyLogic UHS Dual Inverter with Schmitt Trigger Inputs
 F http://www.onsemi.com/pub/Collateral/NC7WZ14-D.pdf
