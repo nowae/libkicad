@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP LMV762MAX/NOPB
+$CMP LMV762MAX_NOPB
 D LMV76x and LMV762Q-Q1 Low-Voltage, Precision Comparator With Push-Pull Output
 F http://www.ti.com/lit/ds/symlink/opa2132.pdf
 $ENDCMP

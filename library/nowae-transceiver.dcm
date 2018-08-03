@@ -75,7 +75,7 @@ D ST485B Low power RS-485/RS-422 transceiver
 F www.st.com/resource/en/datasheet/st485c.pdf
 $ENDCMP
 #
-$CMP TJF1051T/3
+$CMP TJF1051T_3
 D TJF1051 High-speed CAN transceiver
 F http://cache.nxp.com/documents/data_sheet/TJF1051.pdf
 $ENDCMP

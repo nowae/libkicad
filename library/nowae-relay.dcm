@@ -40,7 +40,7 @@ K
 F https://standexelectronics.com/viewer/pdfjs/web/viewer.php?file=https%3A%2F%2Fstandexelectronics.com%2Fwp-content%2Fuploads%2F2015%2F03%2FKT_V03.pdf
 $ENDCMP
 #
-$CMP REL-SR-24DC/2X21/FG
+$CMP REL-SR-24DC_2X21_FG
 D Safety Module Relay
 K RELAY 
 $ENDCMP
