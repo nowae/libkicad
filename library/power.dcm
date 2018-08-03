@@ -36,6 +36,10 @@ $CMP +14VISO
 D +14V Isolated
 $ENDCMP
 #
+$CMP +15VISO
+D +15V Isolated
+$ENDCMP
+#
 $CMP +24V1
 D +24V Nr. 1
 $ENDCMP
@@ -138,6 +142,10 @@ $ENDCMP
 #
 $CMP +VEXT
 D External power supply without fixed value
+$ENDCMP
+#
+$CMP +VUSB
+D +14V Isolated
 $ENDCMP
 #
 $CMP -12VISO
