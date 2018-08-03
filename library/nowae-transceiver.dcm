@@ -60,6 +60,11 @@ D PEM3000 SERIES - 30W Power Over Ethernet Plus (POE+) PD Module
 F http://www.poweredethernet.com/download/PEM3000_Rev15E_R1-4.pdf
 $ENDCMP
 #
+$CMP PN5321A3HN_C106
+D Near Field Communication (NFC) controller
+F https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
+$ENDCMP
+#
 $CMP PTN3363BS
 D PTN3363 Low power HDMI/DVI level shifter with active DDC buffer, supporting 3.4 Gbit/s operation
 F https://cache.nxp.com/docs/en/data-sheet/PTN3363.pdf
