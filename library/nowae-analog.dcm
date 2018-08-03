@@ -25,6 +25,11 @@ D MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter
 F https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
 $ENDCMP
 #
+$CMP MAX31855KASA+T
+D MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter
+F https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
 $CMP MAX31865
 D RTD to Digital Converter
 F https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf
