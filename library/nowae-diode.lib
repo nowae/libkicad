@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # 1N5819HW-7-F
@@ -485,6 +485,28 @@ F5 "MMSZ4689T1G" 0 -300 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -400 60 H I C CNN "Distributor"
 F7 "1459121" 0 -500 60 H I C CNN "Distributor Code"
 F8 "0.187" 0 -600 60 H I C CNN "Price €"
+DRAW
+P 2 0 1 0 25 -50 50 -50 N
+P 2 0 1 6 50 50 50 -50 N
+P 2 0 1 0 50 50 75 50 N
+P 3 0 1 0 -50 50 50 0 -50 -50 F
+X A 1 -200 0 150 R 40 40 1 1 P
+X K 2 200 0 150 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MMSZ4691T1G
+#
+DEF MMSZ4691T1G DZ 0 40 N N 1 F N
+F0 "DZ" 0 100 50 H V C CNN
+F1 "MMSZ4691T1G" 0 -100 50 H V C CNN
+F2 "DIODE:DIODE-SOD123" 0 -800 60 H I C CNN
+F3 "6V2 500mW" 0 -200 60 H I C CNN
+F4 "ON Semiconductor" 0 -300 60 H I C CNN "Manufacturer"
+F5 "MMSZ4691T1G" 0 -400 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -500 60 H I C CNN "Distributor"
+F7 "2441457" 0 -600 60 H I C CNN "Distributor Code"
+F8 "0.0219" 0 -700 60 H I C CNN "Price €"
 DRAW
 P 2 0 1 0 25 -50 50 -50 N
 P 2 0 1 6 50 50 50 -50 N
@@ -983,13 +1005,13 @@ F10 "1825875" 0 -1200 59 H I C CNN "Distributor2 Code"
 F11 "RS Components S.p.a." 0 -1300 59 H I C CNN "Distributor3"
 F12 "754-6200" 0 -1400 59 H I C CNN "Distributor3 Code"
 DRAW
+S -200 200 200 -200 0 1 0 N
 X IO1 1 -400 100 200 R 50 50 0 0 B
 X GND 2 -400 0 200 R 50 50 0 0 W
 X IO2 3 -400 -100 200 R 50 50 0 0 B
 X IO2 4 400 -100 200 L 50 50 0 0 B
 X VDD 5 400 0 200 L 50 50 0 0 W
 X IO1 6 400 100 200 L 50 50 0 0 B
-S -200 200 200 -200 0 1 0 N
 ENDDRAW
 ENDDEF
 #
