@@ -145,7 +145,7 @@ D External power supply without fixed value
 $ENDCMP
 #
 $CMP +VUSB
-D +14V Isolated
+D +VUSB
 $ENDCMP
 #
 $CMP -12VISO
