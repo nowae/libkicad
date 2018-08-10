@@ -152,7 +152,7 @@ K DB15 MALE VERTICAL
 F http://katalog.we-online.com/em/datasheet/6180xx29221.pdf
 $ENDCMP
 #
-$CMP DB44_MALE_90-TECONN:5749771-1
+$CMP DB44_MALE_90-TECONN-5749771-1
 D HD-22 Right-Angle Posted Subminiature D Connectors
 K DSUB44 MALE
 F http://www.te.com/usa-en/product-5749771-1.html
