@@ -12,6 +12,12 @@ K Quartz, Ceramic, Filter, Resonator
 F http://www.microcrystal.com/images/_PDF/3_Crystal_Ceramic-Package/cm7v-t1a.pdf
 $ENDCMP
 #
+$CMP 9C-4.9152MAAJ-T
+D 4.9152MHz Quartz Crystal SMD HC-49S
+K Quartz, Ceramic, Filter, Resonator
+F http://www.farnell.com/datasheets/1041898.pdf?_ga=2.138494576.276360890.1533749237-1864771172.1526328693
+$ENDCMP
+#
 $CMP ABM10-25.000MHZ-D30-T3
 D ABM10 Ceramic SMD Ultra Miniatur Quartz Crystal 10pF 30ppm
 K Quartz, Ceramic, Filter, Resonator
