@@ -35,7 +35,7 @@ D ACM Series - Common Mode Filters for power line
 F https://product.tdk.com/info/en/catalog/datasheets/cmf_automotive_power_acm70v_en.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-WURTH:744232090
+$CMP COMMONMODEFILTER-WURTH-744232090
 D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
 F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
 $ENDCMP
@@ -46,7 +46,7 @@ F http://katalog.we-online.de/pbs/datasheet/744233670.pdf
 $ENDCMP
 #
 $CMP COMMONMODEFILTER-WURTH:744282100
-D WE-SSC SMD Common Mode Line Filter 1260 
+D WE-SSC SMD Common Mode Line Filter 1260
 F http://katalog.we-online.de/pbs/datasheet/744282100.pdf
 $ENDCMP
 #
