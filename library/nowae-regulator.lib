@@ -143,7 +143,7 @@ DEF REF3320AIDB U 0 40 Y Y 1 F N
 F0 "U" 0 300 60 H V C CNN
 F1 "REF3320AIDB" 0 -300 60 H V C CNN
 F2 "SOT23-3" 0 -1000 60 H I C CNN
-F3 "Voltage Reference, +1.8 to +5.5Vin, Vout +2.028V, Iout 5mA, SOT23-3" 0 -400 60 H I C CNN
+F3 "Voltage Reference, +1.8 to +5.5Vin, Vout +2.048V, Iout 5mA, SOT23-3" 0 -400 60 H I C CNN
 F4 "Texas Instruments" 0 -500 60 H I C CNN "Manufacturer"
 F5 "REF3320AIDBZT" 0 -600 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -700 60 H I C CNN "Distributor"
