@@ -186,7 +186,7 @@ $ENDCMP
 #
 $CMP USB-A-90-WURTH-614104190121
 D USB 2.0 Type A Horizontal THT Short Type WR-COM
-F hhttp://katalog.we-online.de/em/datasheet/614104190121.pdf
+F http://katalog.we-online.de/em/datasheet/614104190121.pdf
 $ENDCMP
 #
 $CMP USB-A-90-WURTH-629004113921
