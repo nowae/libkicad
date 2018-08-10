@@ -45,6 +45,11 @@ D TPS54541 4.5V to 42VInput, 5-A Step-Down DC-DC Converter With Soft-Start and E
 F http://www.ti.com/lit/ds/symlink/tps54541.pdf
 $ENDCMP
 #
+$CMP TPS54561DPRT
+D TPS54561 4.5V to 60VInput, 5-A Step-Down DC-DC Converter With Soft-Start and Eco-mode
+F http://www.ti.com/lit/ds/symlink/tps54561.pdf
+$ENDCMP
+#
 $CMP TPS61041DBVR
 D TPS6104x Low-Power DC-DC Boost Converter in SOT-23 and WSON Packages
 F http://www.ti.com/lit/ds/symlink/tps61041.pdf
