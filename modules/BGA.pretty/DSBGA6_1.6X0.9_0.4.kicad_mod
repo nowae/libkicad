@@ -3,7 +3,7 @@
   (fp_text reference VAL** (at 0 -1.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DSBGA_1.6X0.9_0.4 (at 0 1.7) (layer F.Fab) hide
+  (fp_text value DSBGA6_1.6X0.9_0.4 (at 0 1.7) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.7 -1) (end 0.7 -1) (layer F.CrtYd) (width 0.05))
