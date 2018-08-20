@@ -184,6 +184,11 @@ D SMA PCB THT 50R Jack Straight WR-SMA
 F http://katalog.we-online.de/em/datasheet/60312002114503.pdf
 $ENDCMP
 #
+$CMP UFL-HIROSE-U.FL-R-SMT
+D Connector UFL 50R
+F https://www.hirose.com/product/en/download_file/key_name/U.FL-R-SMT-1%2810%29/category/Specification%20Sheet/doc_file_id/37628/?file_category_id=9&item_id=03310472210&is_series=
+$ENDCMP
+#
 $CMP USB-A-90-WURTH-61400416021
 D USB 2.0 Type A SMT With Clip
 F http://katalog.we-online.de/em/datasheet/629004113921.pdf
