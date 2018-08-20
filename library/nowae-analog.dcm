@@ -40,6 +40,11 @@ D RTD to Digital Converter
 F https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf
 $ENDCMP
 #
+$CMP TFA9882UK
+D 3.4W I2S input mono class-D audio amplifier
+F https://www.nxp.com/docs/en/data-sheet/TFA9882.pdf
+$ENDCMP
+#
 $CMP XTR111AIDGQT
 D Precision Voltage-to-Current Converter/Transmitter
 F http://www.ti.com/lit/ds/symlink/xtr111.pdf
