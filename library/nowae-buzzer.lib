@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # BUZZER
@@ -15,6 +15,31 @@ P 2 0 1 0 -80 50 -70 50 N
 P 2 0 1 10 75 150 75 -150 N
 X ~ 1 -150 50 72 R 40 40 1 1 P
 X ~ 2 -150 -50 72 R 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CUI-CSS-0575A-SMT
+#
+DEF CUI-CSS-0575A-SMT BZ 0 10 N N 1 F N
+F0 "BZ" 100 50 50 H V L CNN
+F1 "CUI-CSS-0575A-SMT" 100 -50 50 H V L CNN
+F2 "BUZZER:BUZZER-CUI-CSS-0575A-SMT" 0 -1000 60 H I C CNN
+F3 "https://www.cui.com/product/resource/css-0575a-smt.pdf" 0 -200 60 H I C CNN
+F4 "CUI Inc." 0 -300 60 H I C CNN "Manufacturer"
+F5 "CSS-0575A-SMT" 0 -400 60 H I C CNN "Part Number"
+F6 "Digi-key Electronics" 0 -500 60 H I C CNN "Distributor"
+F7 "102-2201-1-ND" 0 -600 60 H I C CNN "Distributor Code"
+F8 "2.980" 0 -700 60 H I C CNN "Price €"
+F9 "Mouser Electronics" 0 -800 60 H I C CNN "Distributor2"
+F10 "490-CSS-0575A-SMT-TR" 0 -900 60 H I C CNN "Distributor2 Code"
+DRAW
+A 75 0 150 901 -901 0 1 10 N 75 150 75 -150
+P 2 0 1 0 -80 -50 -70 -50 N
+P 2 0 1 0 -80 50 -70 50 N
+P 2 0 1 10 75 150 75 -150 N
+X ~ 1 -150 50 72 R 40 40 1 1 P
+X ~ 2 -150 -50 72 R 40 40 1 1 P
+X ~ 3 -150 0 72 R 40 40 1 1 N
 ENDDRAW
 ENDDEF
 #
@@ -82,8 +107,8 @@ F8 "6.150" 0 -700 60 H I C CNN "Price €"
 F9 "-" 0 -800 60 H I C CNN "Distributor2"
 F10 "-" 0 -900 60 H I C CNN "Distributor2 Code"
 DRAW
-T 0 0 50 60 0 0 0 + Normal 0 C C
 A 75 0 150 901 -901 0 1 10 N 75 150 75 -150
+T 0 0 50 60 0 0 0 + Normal 0 C C
 P 2 0 1 0 -80 -50 -70 -50 N
 P 2 0 1 0 -80 50 -70 50 N
 P 2 0 1 10 75 150 75 -150 N

@@ -4,6 +4,11 @@ $CMP BUZZER
 D Generic Buzzer
 $ENDCMP
 #
+$CMP CUI-CSS-0575A-SMT
+D CUI Magnetic Buzzer Transducer
+F https://www.cui.com/product/resource/css-0575a-smt.pdf
+$ENDCMP
+#
 $CMP PKLCS1212E4001-R1
 D Piezoelectric Sound Components Piezoelectric Sounders SMD Type
 K Buzzer Piezo
