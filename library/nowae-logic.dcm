@@ -73,7 +73,7 @@ $ENDCMP
 #
 $CMP SN74AVC2T245RSWR
 D 74AVCH2T45 Dual-bit Dual-supply voltage level translator/transceiver 3-state
-F https://assets.nexperia.com/documents/data-sheet/74AVCH2T45.pdf
+F http://www.ti.com/lit/ds/symlink/sn74avc2t245.pdf
 $ENDCMP
 #
 $CMP SN74LV14A
