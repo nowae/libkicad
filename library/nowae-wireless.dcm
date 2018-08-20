@@ -5,11 +5,6 @@ D BGM111 Blue Gecko Bluetooth (R) Module
 F https://www.silabs.com/documents/login/data-sheets/BGM111_datasheet.pdf
 $ENDCMP
 #
-$CMP MAX-M8C
-D MAX-M8 U-Blox M8 concurrent GNSS modules
-F https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf
-$ENDCMP
-#
 $CMP ORG1410-PM04
 D HORNET ORG1410 GPS MODULE WITH INTEGRATED ANTENNA
 F https://www.origingps.com/wp-content/uploads/2017/07/Hornet-ORG1410-Datasheet-rev-3.5.pdf
