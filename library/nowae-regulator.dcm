@@ -60,6 +60,11 @@ D TLV1117 Fixed Low-Dropout Voltage Regulator 5V 0.8A
 F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
 $ENDCMP
 #
+$CMP TLV70218DBV
+D TLV702 300-mA, Low-IQ, Low-Dropout Regulator
+F http://www.ti.com/lit/ds/symlink/tlv702.pdf
+$ENDCMP
+#
 $CMP TLV70233DBV
 D TLV702 300-mA, Low-IQ, Low-Dropout Regulator
 F http://www.ti.com/lit/ds/symlink/tlv702.pdf
