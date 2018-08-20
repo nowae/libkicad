@@ -71,6 +71,11 @@ D SN65HVS882 8 input 10-34V digital-input serializer for industrial digital inpu
 F http://www.ti.com/lit/ds/symlink/sn65hvs882.pdf
 $ENDCMP
 #
+$CMP SN74AVC2T245RSWR
+D 74AVCH2T45 Dual-bit Dual-supply voltage level translator/transceiver 3-state
+F https://assets.nexperia.com/documents/data-sheet/74AVCH2T45.pdf
+$ENDCMP
+#
 $CMP SN74LV14A
 D SNx4LV14A Hex Schmitt-Trigger Inverters
 F http://www.ti.com/lit/ds/symlink/sn74lv14a.pdf
