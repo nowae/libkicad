@@ -141,6 +141,11 @@ K connector pci 49x2
 F http://www.molex.com/pdm_docs/sd/877159206_sd.pdf
 $ENDCMP
 #
+$CMP CONN_SBRIO-9607
+D SEAM / SEAF .050” (1,27 mm) SEARAYTM High Density, High Speed Open Pin Field Array
+F http://suddendocs.samtec.com/productspecs/seam-seaf.pdf
+$ENDCMP
+#
 $CMP CONN_SBRIO-9651
 D 1.27mm Pitch, SEARAY Plug, 320 Circuits, 2.00mm Unmated Height, 8 Rows, with Pegs
 F https://www.molex.com/webdocs/datasheets/pdf/en-us/0459704185_PCB_HEADERS.pdf
