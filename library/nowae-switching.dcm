@@ -10,6 +10,11 @@ D LM5009A 100-V, 150-mA Constant ON-Time Buck Switching Regulator
 F http://www.ti.com/lit/ds/symlink/lm5009a.pdf
 $ENDCMP
 #
+$CMP LMZ23605TZE_NOPB
+D LMZ23605 5-A SIMPLE SWITCHER Power Module With 36-V Maximum Input Voltage
+F http://www.ti.com/lit/ds/symlink/lmz23605.pdf
+$ENDCMP
+#
 $CMP LMZ34002
 D Switching power module with +4.5V-40V input and -17V output min at 2A
 F http://www.ti.com/lit/ds/symlink/lmz34002.pdf
