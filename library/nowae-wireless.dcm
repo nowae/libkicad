@@ -19,6 +19,11 @@ $CMP RN4870
 D Mudole BLE 4.2, 2.4GHz, With Antenna
 $ENDCMP
 #
+$CMP RS9113-NBZ-D1x
+D RS9113 Module Family
+F http://www.redpinesignals.com/pdfs/RS9113_Module_Family_Datasheet_nonNDA.pdf
+$ENDCMP
+#
 $CMP SARA-G350
 D RF TXRX CELLULAR 2G GPRS/GSM
 F https://www.u-blox.com/sites/default/files/SARA-G3_DataSheet_%28UBX-13000993%29.pdf
