@@ -127,6 +127,11 @@ $CMP STM1816TWX7F
 D STM1816 Low power reset circuit
 $ENDCMP
 #
+$CMP TXB0108RGYR
+D TXB0108 8-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and ±15-kV ESD Protection
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
 $CMP VN330SP-E
 D VN330SP-E Quad high-side smart power solid-state relay
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/02/a4/4a/ac/bc/a8/4f/cd/CD00061239.pdf/files/CD00061239.pdf/jcr:content/translations/en.CD00061239.pdf
