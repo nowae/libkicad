@@ -64,6 +64,11 @@ D 1.27mm small compact SMD flat actuator with top tape WS-DISV
 F http://katalog.we-online.de/em/datasheet/4161311608xx.pdf
 $ENDCMP
 #
+$CMP DIPSWITCH-WURTH_418121270810
+D 2.54mm small compact SMD flat actuator with top tape WS-DISV
+F https://katalog.we-online.com/em/datasheet/4181212708xx.pdf
+$ENDCMP
+#
 $CMP EVQPE104K
 D 6.0mm X 3.5mm SMD Light Touch Switches
 K switch button
