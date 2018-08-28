@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # 16MHz_CSTCE16M0V13
@@ -97,6 +97,30 @@ X ~ 1 -150 0 50 R 40 40 1 1 P
 X ~ 2 -50 -150 50 U 50 50 1 1 I
 X ~ 3 150 0 50 L 40 40 1 1 P
 X ~ 4 50 -150 50 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# ABM11-142-27.120MHZ-T3
+#
+DEF ABM11-142-27.120MHZ-T3 Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "ABM11-142-27.120MHZ-T3" 0 -150 50 H V C CNN
+F2 "" -100 50 50 H I C CNN
+F3 "https://abracon.com/Resonators/ABM11.pdf" 0 -250 50 H I C CNN
+F4 "Abracom Corporation" 0 -350 60 H I C CNN "Manufacturer"
+F5 "ABM11-142-27.120MHZ-T3" 0 -450 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -550 60 H I C CNN "Distributor"
+F7 "2849410" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.594" 0 -750 60 H I C CNN "Price €"
+$FPLIST
+ Crystal_*
+$ENDFPLIST
+DRAW
+S -50 100 50 -100 0 1 12 N
+P 2 0 1 12 -100 -50 -100 50 N
+P 2 0 1 12 100 -50 100 50 N
+X 1 1 -150 0 50 R 40 40 1 1 P
+X 2 2 150 0 50 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #

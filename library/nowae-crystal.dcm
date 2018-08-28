@@ -24,6 +24,12 @@ K Quartz, Ceramic, Filter, Resonator
 F http://www.abracon.com/Resonators/ABM10.pdf
 $ENDCMP
 #
+$CMP ABM11-142-27.120MHZ-T3
+D ABM11 Ceramic SMD Ultra Miniature Quartz Crystal
+K Quartz, Ceramic, Filter, Resonator
+F https://abracon.com/Resonators/ABM11.pdf
+$ENDCMP
+#
 $CMP ABM7-12.000MHZ
 D ABM7 Ceramic SMD micro miniature microprocessor crystal
 K Quartz, Ceramic, Filter, Resonator
