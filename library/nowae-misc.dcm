@@ -20,11 +20,11 @@ D 2.45GHz Impedance Matched Balun + Band Pass Filter
 F https://www.johansontechnology.com/datasheets/baluns/2450BM14E0003.pdf
 $ENDCMP
 #
-$CMP SMALL_JUMPER
+$CMP JUMPER-2
 D Solder jumper
 $ENDCMP
 #
-$CMP SMALL_JUMPER_3
+$CMP JUMPER-3
 D Solder jumper
 $ENDCMP
 #
