@@ -127,6 +127,11 @@ $CMP STM1816TWX7F
 D STM1816 Low power reset circuit
 $ENDCMP
 #
+$CMP TXB0104RGYR
+D TXB0104 4-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and ±15-kV ESD Protection
+F http://www.ti.com/lit/ds/symlink/txb0104.pdf
+$ENDCMP
+#
 $CMP TXB0108RGYR
 D TXB0108 8-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and ±15-kV ESD Protection
 F http://www.ti.com/lit/ds/symlink/txb0108.pdf
