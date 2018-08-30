@@ -678,9 +678,9 @@
   (pad 318 smd circle (at 24.765 -1.905) (size 0.64 0.64) (layers F.Cu F.Paste F.Mask))
   (pad 319 smd circle (at 24.765 -3.175) (size 0.64 0.64) (layers F.Cu F.Paste F.Mask))
   (pad 320 smd circle (at 24.765 -4.445) (size 0.64 0.64) (layers F.Cu F.Paste F.Mask))
-  (model D:/nowae/libkicad/modules/packages3d/3rd-party/molex/459704185.wrl
-    (offset (xyz 19 0 0.75))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -90))
-  )
+  #(model D:/nowae/libkicad/modules/packages3d/3rd-party/molex/459704185.wrl
+    #(offset (xyz 19 0 0.75))
+    #(scale (xyz 1 1 1))
+    #(rotate (xyz -90 0 -90))
+  #)
 )
