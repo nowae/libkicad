@@ -690,34 +690,34 @@
   (pad "" np_thru_hole circle (at -34.925 38.735) (size 7.4 7.4) (drill 4.4) (layers *.Mask F.Cu))
   (pad "" np_thru_hole circle (at 34.925 38.735) (size 7.4 7.4) (drill 4.4) (layers *.Mask F.Cu))
   (pad "" np_thru_hole circle (at 34.925 -5.715) (size 7.4 7.4) (drill 4.4) (layers *.Mask F.Cu))
-  #(model ${KINOWAEMOD}/packages3d/3rd-party/molex/459704185.wrl
-    #(offset (xyz 19 0 0.75))
-    #(scale (xyz 1 1 1))
-    #(rotate (xyz -90 0 -90))
-  #)
-  #(model ${KINOWAEMOD}/packages3d/3rd-party/ni/sbrio-9651.wrl
-    #(offset (xyz 0 -16 10))
-    #(scale (xyz 1 1 1))
-    #(rotate (xyz 90 0 -90))
-  #)
-  #(model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
-    #(offset (xyz 34.925 6.225 10))
-    #(scale (xyz 1 1 1))
-    #(rotate (xyz 90 0 0))
-  #)
-  #(model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
-    #(offset (xyz 34.925 -38.225 10))
-    #(scale (xyz 1 1 1))
-    #(rotate (xyz 90 0 0))
-  #)
-  #(model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
-    #(offset (xyz -34.925 6.225 10))
-    #(scale (xyz 1 1 1))
-    #(rotate (xyz 90 0 0))
-  #)
-  #(model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
-    #(offset (xyz -34.925 -38.225 10))
-    #(scale (xyz 1 1 1))
-    #(rotate (xyz 90 0 0))
-  #)
+  (model ${KINOWAEMOD}/packages3d/3rd-party/molex/459704185.wrl
+    (at (xyz 0.75 0 0.03))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -90))
+  )
+  (model ${KINOWAEMOD}/packages3d/3rd-party/ni/sbrio-9651.wrl
+    (at (xyz 0 -0.65 0.375))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 -90))
+  )
+  (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
+    (at (xyz -1.375 0.225 0.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
+    (at (xyz -1.375 -1.524 0.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
+    (at (xyz 1.375 -1.524 0.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/9774100360.wrl
+    (at (xyz 1.375 0.225 0.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )
