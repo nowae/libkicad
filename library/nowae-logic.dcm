@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SN74AVC4T774RGY
+D SN74AVC4T774 4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level Shifting and 3-State Outputs With Independent Direction Control Inputs
+F http://www.ti.com/lit/ds/symlink/sn74avc4t774.pdf
+$ENDCMP
+#
 #End Doc Library
