@@ -34,7 +34,7 @@ D RF TXRX CELLULAR 2G GPRS/GSM
 F https://www.u-blox.com/sites/default/files/SARA-G3_DataSheet_%28UBX-13000993%29.pdf
 $ENDCMP
 #
-$CMP SARA-U2
+$CMP SARA-U201
 D HSPA modules with 2G fallback
 F https://www.u-blox.com/sites/default/files/SARA-U2_DataSheet_%28UBX-13005287%29.pdf
 $ENDCMP
