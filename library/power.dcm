@@ -77,27 +77,27 @@ D +3.3V Always On
 $ENDCMP
 #
 $CMP +3.3VISO
-D +3.3V Isoltated
+D +3.3V Isolated
 $ENDCMP
 #
 $CMP +3.3VISO1
-D +3.3V Isoltated, Nr. 1
+D +3.3V Isolated, Nr. 1
 $ENDCMP
 #
 $CMP +3.3VISO2
-D +3.3V Isoltated, Nr. 2
+D +3.3V Isolated, Nr. 2
 $ENDCMP
 #
 $CMP +3.3VISO3
-D +3.3V Isoltated, Nr. 3
+D +3.3V Isolated, Nr. 3
 $ENDCMP
 #
 $CMP +3.3VISO4
-D +3.3V Isoltated, Nr. 4
+D +3.3V Isolated, Nr. 4
 $ENDCMP
 #
 $CMP +3.3VISO5
-D +3.3V Isoltated, Nr. 5
+D +3.3V Isolated, Nr. 5
 $ENDCMP
 #
 $CMP +3.3VS
