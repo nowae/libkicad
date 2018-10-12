@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESIM-THINGSMOBILE
+D Embedded SIM MFF2
+F https://www.thingsmobile.com
+$ENDCMP
+#
 #End Doc Library
