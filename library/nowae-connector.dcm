@@ -5,4 +5,10 @@ D Embedded SIM MFF2
 F https://www.thingsmobile.com
 $ENDCMP
 #
+$CMP UFL-HIROSE-U.FL-R-SMT-1
+D U.FL Series - Ultra Small Surface Mount Coaxial Connectors
+K U.FL
+F https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2801%29/
+$ENDCMP
+#
 #End Doc Library

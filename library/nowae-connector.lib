@@ -3653,6 +3653,31 @@ X Ext 2 0 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# UFL-HIROSE-U.FL-R-SMT-1
+#
+DEF UFL-HIROSE-U.FL-R-SMT-1 P 0 40 Y N 1 F N
+F0 "P" 0 250 50 H V C CNN
+F1 "UFL-HIROSE-U.FL-R-SMT-1" 0 150 50 H V C CNN
+F2 "CONNECTOR_RADIO:UFL-HIROSE-U_FL-R-SMT-1" 0 -300 50 H I C CNN
+F3 "https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/" 0 -900 50 H I C CNN
+F4 "Hirose" 0 -400 60 H I C CNN "Manufacturer"
+F5 "U.FL-R-SMT-1(10)" 0 -500 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -600 60 H I C CNN "Distributor"
+F7 "1688077" 0 -700 60 H I C CNN "Distributor Code"
+F8 "0.638" 0 -800 60 H I C CNN "Price €"
+F9 "RS Components S.p.a." 0 -1000 50 H I C CNN "Distributor2"
+F10 "557-981" 0 -1100 50 H I C CNN "Distributor2 Code"
+DRAW
+A -2 0 71 1636 0 0 1 10 N -70 20 70 0
+A -1 0 71 0 -1638 0 1 10 N 70 0 -70 -20
+C 0 0 20 0 1 8 N
+P 2 0 1 0 -100 0 -20 0 N
+P 2 0 1 0 0 -100 0 -70 N
+X In 1 -200 0 100 R 50 50 1 1 P
+X Ext 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # USB-3.0-A-WURTH-692141030100
 #
 DEF USB-3.0-A-WURTH-692141030100 P 0 40 Y Y 2 F N
