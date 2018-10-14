@@ -6,8 +6,8 @@ EESchema-LIBRARY Version 2.4
 DEF MAX-M8C U 0 40 Y Y 1 F N
 F0 "U" 0 700 60 H V C CNN
 F1 "MAX-M8C" 0 600 60 H V C CNN
-F2 "" 0 150 60 H I C CNN
-F3 "RF Receiver BeiDou, Galileo, GLONASS, GNSS, GPS 1.575GHz -167dBm " 0 -650 60 H I C CNN
+F2 "GPS:GPS-MAX-M8C" 0 -1250 60 H I C CNN
+F3 "https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf" 0 -650 60 H I C CNN
 F4 "U-Blox America Inc." 0 -750 60 H I C CNN "Manufacturer"
 F5 "MAX-M8C-0-10 " 0 -850 60 H I C CNN "Part Number"
 F6 "Digi-Key Electronics" 0 -950 60 H I C CNN "Distributor"
