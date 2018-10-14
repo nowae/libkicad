@@ -75,6 +75,11 @@ D TLV743P 300-mA, Low-Dropout Regulator
 F http://www.ti.com/lit/ds/symlink/tlv743p.pdf
 $ENDCMP
 #
+$CMP TLV75533PDBVR
+D Regolatori di tensione LDO 500-mA, Low IQ, Small Size, Low Dropout Regulator
+F http://www.ti.com/lit/ds/symlink/tlv755p.pdf
+$ENDCMP
+#
 $CMP TLV75533PDQNR
 D Regolatori di tensione LDO 500-mA, Low IQ, Small Size, Low Dropout Regulator 4-X2SON
 F http://www.ti.com/lit/ds/symlink/tlv755p.pdf
