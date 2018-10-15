@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OLED-RAYSTAR-REX004864AWPP3N
+D REX004864A - Graphic Small OLED Display, 48x64 OLED Small Display 0.71"
+F https://www.raystar-optronics.com/oled-graphic-display-module/small-oled-display.html
+$ENDCMP
+#
+$CMP OLED-RAYSTAR-REX006432AYPP3N
+D REX006432A - 0.49" Micro OLED Display, 64x32 Graphic OLED Micro Display
+F https://www.raystar-optronics.com/oled-graphic-display-module/micro-oled-display.html
+$ENDCMP
+#
+$CMP OLED-RAYSTAR-REX009616AWPP3N
+D REX009616A - 96x16 OLED Display I2C, I2C OLED Display 0.84"
+F https://www.raystar-optronics.com/oled-graphic-display-module/oled-i2c-display.html
+$ENDCMP
+#
+#End Doc Library
