@@ -148,6 +148,11 @@ $CMP +VEXT
 D External power supply without fixed value
 $ENDCMP
 #
+$CMP +VIN
+D Input power supply without fixed value
+K VIN
+$ENDCMP
+#
 $CMP +VUSB
 D +VUSB
 $ENDCMP
