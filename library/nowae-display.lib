@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF OLED-RAYSTAR-REX004864AWPP3N P 0 40 Y Y 1 F N
 F0 "P" -100 750 60 H V C CNN
 F1 "OLED-RAYSTAR-REX004864AWPP3N" 0 -800 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
+F2 "DISPLAY:DISPLAY-RAYSTAR-REX004864A" 0 -1950 60 H I C CNN
 F3 "https://www.raystar-optronics.com/oled-graphic-display-module/small-oled-display.html" 0 -1825 60 H I C CNN
 F4 "Raystar Optronics Inc" 0 -900 60 H I C CNN "Manufacturer"
 F5 "REX004864AWPP3N00000" 0 -1000 60 H I C CNN "Part Number"
