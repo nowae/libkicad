@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # 0154003.DRT
@@ -85,6 +85,28 @@ A -50 -37 62 365 1435 0 1 0 N 0 0 -100 0
 A 50 37 62 -1435 -365 0 1 0 N 0 0 100 0
 X ~ 1 -150 0 50 R 40 40 1 1 I
 X ~ 2 150 0 50 L 40 40 1 1 I
+ENDDRAW
+ENDDEF
+#
+# 0467.500NR
+#
+DEF 0467.500NR F 0 10 Y Y 1 F N
+F0 "F" 0 100 60 H V C CNN
+F1 "0467.500NR" 0 -100 60 H V C CNN
+F2 "-" 0 -1000 60 H I C CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_467_datasheet.pdf.pdf" 0 -400 60 H I C CNN
+F4 "Littlefuse Inc." 0 -200 61 H I C CNN "Manufacturer"
+F5 "0467.500NR" 0 -300 61 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -500 61 H I C CNN "Distributor"
+F7 "2786400" 0 -600 61 H I C CNN "Distributor Code"
+F8 "0.913" 0 -900 61 H I C CNN "Price €"
+F9 "Mouser Electronics Inc" 0 -700 61 H I C CNN "Distributor2"
+F10 "576-0467.500NR" 0 -800 61 H I C CNN "Distributor2 Code"
+DRAW
+A -50 -37 62 365 1435 0 1 0 N 0 0 -100 0
+A 50 37 62 -1435 -365 0 1 0 N 0 0 100 0
+X ~ 1 -150 0 50 R 40 40 1 1 P
+X ~ 2 150 0 50 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
