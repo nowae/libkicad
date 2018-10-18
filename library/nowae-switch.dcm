@@ -35,6 +35,12 @@ K switch button
 F http://katalog.we-online.de/em/datasheet/434153017835.pdf
 $ENDCMP
 #
+$CMP BUTTON-WE_434351045816
+D WS-TASU SMT Tact Switch 4.7 x 3.5 mm side push
+K switch button
+F https://katalog.we-online.de/em/datasheet/4343x10458xx.pdf
+$ENDCMP
+#
 $CMP DIPSWITCH-MULTICOMP:MCDHN-04F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 $ENDCMP
