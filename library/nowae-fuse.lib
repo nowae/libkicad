@@ -91,9 +91,9 @@ ENDDEF
 # 0467.500NR
 #
 DEF 0467.500NR F 0 10 Y Y 1 F N
-F0 "F" 0 100 60 H V C CNN
-F1 "0467.500NR" 0 -100 60 H V C CNN
-F2 "-" 0 -1000 60 H I C CNN
+F0 "F" 0 100 50 H V C CNN
+F1 "0467.500NR" 0 -100 50 H V C CNN
+F2 "RESISTOR:RESISTOR-0603" 0 -1000 60 H I C CNN
 F3 "http://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_467_datasheet.pdf.pdf" 0 -400 60 H I C CNN
 F4 "Littlefuse Inc." 0 -200 61 H I C CNN "Manufacturer"
 F5 "0467.500NR" 0 -300 61 H I C CNN "Part Number"
