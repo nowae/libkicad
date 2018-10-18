@@ -15,4 +15,14 @@ D SN74AVC4T774 4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level
 F http://www.ti.com/lit/ds/symlink/sn74avc4t774.pdf
 $ENDCMP
 #
+$CMP TXB0106RGYR
+D TXB0106 6-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and ±15-kV ESD Protection
+F http://www.ti.com/lit/ds/symlink/txb0106.pdf
+$ENDCMP
+#
+$CMP TXB0108DQSR
+D TXB0108 8-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and ±15-kV ESD Protection
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
 #End Doc Library

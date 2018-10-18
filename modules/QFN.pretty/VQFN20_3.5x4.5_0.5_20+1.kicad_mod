@@ -1,4 +1,5 @@
-(module VQFN20_3.5x4.5_0.5_20+1 (layer F.Cu) (tedit 5B8D000F)
+(module VQFN20_3.5x4.5_0.5_20+1 (layer F.Cu) (tedit 5BC87EE9)
+  (attr smd)
   (fp_text reference VAL** (at 0 -3.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -110,6 +111,7 @@
   (pad 18 smd rect (at 1.7 -1.25) (size 0.8 0.23) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 1.7 -1.75) (size 0.8 0.23) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 0.75 -2.25 90) (size 0.8 0.23) (layers F.Cu F.Paste F.Mask))
+  (pad 21 smd rect (at 0 0) (size 2.05 3.05) (layers F.Cu F.Paste F.Mask))
   (model ${KINOWAEMOD}/packages3d/3rd-party/texas/VQFN20-RGY.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
