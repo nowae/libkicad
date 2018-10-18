@@ -36,8 +36,8 @@ ENDDEF
 DEF CONN_10X1 P 0 40 Y Y 1 F N
 F0 "P" 0 600 60 H V C CNN
 F1 "CONN_10X1" 0 -650 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -67,8 +67,8 @@ ENDDEF
 DEF CONN_10X2 P 0 40 Y Y 1 F N
 F0 "P" 0 550 60 H V C CNN
 F1 "CONN_10X2" 0 -550 60 H V C CNN
-F2 "" 375 -100 60 H V C CNN
-F3 "" 375 -100 60 H V C CNN
+F2 "" 375 -100 60 H I C CNN
+F3 "" 375 -100 60 H I C CNN
 F4 "-" 0 -450 60 H I C CNN "Manufacturer"
 F5 "-" 0 -500 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -108,8 +108,8 @@ ENDDEF
 DEF CONN_12X1 P 0 40 Y Y 1 F N
 F0 "P" 0 650 60 H V C CNN
 F1 "CONN_12X1" 0 -650 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -141,8 +141,8 @@ ENDDEF
 DEF CONN_12X2 P 0 40 Y Y 1 F N
 F0 "P" 0 650 60 H V C CNN
 F1 "CONN_12X2" 0 -650 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -186,8 +186,8 @@ ENDDEF
 DEF CONN_14X1 P 0 40 Y Y 1 F N
 F0 "P" 0 750 60 H V C CNN
 F1 "CONN_14X1" 0 -750 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -221,8 +221,8 @@ ENDDEF
 DEF CONN_15X2 P 0 40 Y Y 1 F N
 F0 "P" 0 800 60 H V C CNN
 F1 "CONN_15X2" 0 -800 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -272,8 +272,8 @@ ENDDEF
 DEF CONN_16X1 P 0 40 Y Y 1 F N
 F0 "P" 25 900 60 H V C CNN
 F1 "CONN_16X1" 25 -925 60 H V C CNN
-F2 "" 0 75 60 H V C CNN
-F3 "" 0 75 60 H V C CNN
+F2 "" 0 75 60 H I C CNN
+F3 "" 0 75 60 H I C CNN
 F4 "-" 0 -250 60 H I C CNN "Manufacturer"
 F5 "-" 0 -350 60 H I C CNN "Part Number"
 F6 "-" 0 -450 60 H I C CNN "Distributor"
@@ -311,8 +311,8 @@ ENDDEF
 DEF CONN_17X2 P 0 40 Y Y 1 F N
 F0 "P" 0 900 60 H V C CNN
 F1 "CONN_17X2" 0 0 50 V V C CNN
-F2 "" 375 250 60 H V C CNN
-F3 "" 375 250 60 H V C CNN
+F2 "" 375 250 60 H I C CNN
+F3 "" 375 250 60 H I C CNN
 F4 "-" 0 -900 60 H I C CNN "Manufacturer"
 F5 "-" 0 -1000 60 H I C CNN "Part Number"
 F6 "-" 0 -1100 60 H I C CNN "Distributor"
@@ -366,8 +366,8 @@ ENDDEF
 DEF CONN_18X1 P 0 40 Y Y 1 F N
 F0 "P" 25 900 60 H V C CNN
 F1 "CONN_18X1" 0 -1125 60 H V C CNN
-F2 "" 0 75 60 H V C CNN
-F3 "" 0 75 60 H V C CNN
+F2 "" 0 75 60 H I C CNN
+F3 "" 0 75 60 H I C CNN
 F4 "-" 0 -250 60 H I C CNN "Manufacturer"
 F5 "-" 0 -350 60 H I C CNN "Part Number"
 F6 "-" 0 -450 60 H I C CNN "Distributor"
@@ -406,8 +406,8 @@ ENDDEF
 DEF CONN_1X1 P 0 40 Y Y 1 F N
 F0 "P" 0 100 60 H V C CNN
 F1 "CONN_1X1" 0 -100 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -428,8 +428,8 @@ ENDDEF
 DEF CONN_20X1 P 0 40 Y Y 1 F N
 F0 "P" 0 1000 60 H V C CNN
 F1 "CONN_20X1" 0 -1100 60 H V C CNN
-F2 "" -25 225 60 H V C CNN
-F3 "" -25 225 60 H V C CNN
+F2 "" -25 225 60 H I C CNN
+F3 "" -25 225 60 H I C CNN
 F4 "-" -25 -100 60 H I C CNN "Manufacturer"
 F5 "-" -25 -200 60 H I C CNN "Part Number"
 F6 "-" -25 -300 60 H I C CNN "Distributor"
@@ -471,8 +471,8 @@ ENDDEF
 DEF CONN_20X2 P 0 40 Y Y 1 F N
 F0 "P" 0 1150 60 H V C CNN
 F1 "CONN_20X2" 0 -950 60 H V C CNN
-F2 "" 375 450 60 H V C CNN
-F3 "" 375 450 60 H V C CNN
+F2 "" 375 450 60 H I C CNN
+F3 "" 375 450 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -532,8 +532,8 @@ ENDDEF
 DEF CONN_2X1 P 0 40 Y Y 1 F N
 F0 "P" 0 150 60 H V C CNN
 F1 "CONN_2X1" 0 -200 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -555,8 +555,8 @@ ENDDEF
 DEF CONN_30X1 P 0 40 Y Y 1 F N
 F0 "P" 0 1550 60 H V C CNN
 F1 "CONN_30X1" 0 -1550 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -691,8 +691,8 @@ ENDDEF
 DEF CONN_34X1 P 0 40 Y Y 1 F N
 F0 "P" 0 1550 60 H V C CNN
 F1 "CONN_34X1" -25 -1950 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -747,8 +747,8 @@ ENDDEF
 DEF CONN_3X1 P 0 40 Y Y 1 F N
 F0 "P" 0 200 60 H V C CNN
 F1 "CONN_3X1" 0 -200 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -771,8 +771,8 @@ ENDDEF
 DEF CONN_40X1 P 0 1 Y N 1 F N
 F0 "P" 0 2050 50 H V C CNN
 F1 "CONN_40X1" 0 0 50 V V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F2 "" -100 1950 50 H I C CNN
+F3 "" 0 2050 50 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -973,8 +973,8 @@ ENDDEF
 DEF CONN_4X1 P 0 40 Y Y 1 F N
 F0 "P" 0 250 60 H V C CNN
 F1 "CONN_4X1" 0 -250 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -1027,8 +1027,8 @@ ENDDEF
 DEF CONN_5X1 P 0 40 Y Y 1 F N
 F0 "P" 0 300 60 H V C CNN
 F1 "CONN_5X1" 0 -300 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -1053,8 +1053,8 @@ ENDDEF
 DEF CONN_5X2 P 0 40 Y Y 1 F N
 F0 "P" 0 300 60 H V C CNN
 F1 "CONN_5X2" 0 -300 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -1084,8 +1084,8 @@ ENDDEF
 DEF CONN_6X1 P 0 40 Y Y 1 F N
 F0 "P" 0 350 60 H V C CNN
 F1 "CONN_6X1" 0 -350 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -1111,8 +1111,8 @@ ENDDEF
 DEF CONN_7X1 P 0 40 Y Y 1 F N
 F0 "P" 0 400 60 H V C CNN
 F1 "CONN_7X1" 0 -400 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -1139,8 +1139,8 @@ ENDDEF
 DEF CONN_8X1 P 0 40 Y Y 1 F N
 F0 "P" 0 450 60 H V C CNN
 F1 "CONN_8X1" 0 -450 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -1168,8 +1168,8 @@ ENDDEF
 DEF CONN_8X2 P 0 40 Y Y 1 F N
 F0 "P" 0 450 60 H V C CNN
 F1 "CONN_8X2" 0 -450 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
@@ -1205,8 +1205,8 @@ ENDDEF
 DEF CONN_9X1 P 0 40 Y Y 1 F N
 F0 "P" 0 500 60 H V C CNN
 F1 "CONN_9X1" 0 -500 60 H V C CNN
-F2 "" 375 0 60 H V C CNN
-F3 "" 375 0 60 H V C CNN
+F2 "" 375 0 60 H I C CNN
+F3 "" 375 0 60 H I C CNN
 F4 "-" 0 -300 60 H I C CNN "Manufacturer"
 F5 "-" 0 -400 60 H I C CNN "Part Number"
 F6 "-" 0 -500 60 H I C CNN "Distributor"
@@ -3031,11 +3031,11 @@ X VDD 8 -350 200 200 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# ETH-TE:1-406541-5
+# ETH-TE_1-406541-5
 #
-DEF ETH-TE:1-406541-5 P 0 40 Y Y 1 F N
+DEF ETH-TE_1-406541-5 P 0 40 Y Y 1 F N
 F0 "P" 0 600 60 H V C CNN
-F1 "ETH-TE:1-406541-5" 0 500 60 H V C CNN
+F1 "ETH-TE_1-406541-5" 0 500 60 H V C CNN
 F2 "CONNECTOR:ETHERNET-TE-1-406541-5" 0 -1200 60 H I C CNN
 F3 "" 0 800 60 H I C CNN
 F4 "TE  Connectivity" 0 -500 60 H I C CNN "Manufacturer"
@@ -3061,11 +3061,11 @@ X ~ SH2 -550 -50 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# ETH-TE:100616-2
+# ETH-TE_100616-2
 #
-DEF ETH-TE:100616-2 P 0 40 Y Y 1 F N
+DEF ETH-TE_100616-2 P 0 40 Y Y 1 F N
 F0 "P" 0 600 60 H V C CNN
-F1 "ETH-TE:100616-2" 0 500 60 H V C CNN
+F1 "ETH-TE_100616-2" 0 500 60 H V C CNN
 F2 "CONNECTOR:ETHERNET-TE-100616-2" 0 -1200 60 H I C CNN
 F3 "" 0 800 60 H I C CNN
 F4 "TE  Connectivity" 0 -500 60 H I C CNN "Manufacturer"
