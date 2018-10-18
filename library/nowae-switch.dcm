@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP BUTTON-PANASONIC:ESB33536
+$CMP BUTTON-PANASONIC_ESB33536
 D ESB33 Push Switches - Low profile Wide available range for reflow soldering
 K switch button
 F https://www3.panasonic.biz/ac/e/control/switch/push/esb33/index.jsp
@@ -11,25 +11,25 @@ D Touch button 1-pole
 K switch button touch
 $ENDCMP
 #
-$CMP BUTTON-WE:431181015816
+$CMP BUTTON-WE_431181015816
 D WS-TASV 5x5mm Tact Switch with ground terminal, SMD version
 K switch button
 F http://katalog.we-online.de/em/datasheet/4311x10158x6.pdf
 $ENDCMP
 #
-$CMP BUTTON-WE:431256083716
+$CMP BUTTON-WE_431256083716
 D WS-TATU 6x6mm right angle Tact Switch, THT version
 K switch button
 F http://katalog.we-online.de/em/datasheet/4312x6xxx7x6.pdf
 $ENDCMP
 #
-$CMP BUTTON-WE:434121043816
+$CMP BUTTON-WE_434121043816
 D WS-TASV 6,0x3,5mm Tact Switch_SMD version
 K switch button
 F http://katalog.we-online.de/em/datasheet/4341x1xxx8x6.pdf
 $ENDCMP
 #
-$CMP BUTTON-WE:434153017835
+$CMP BUTTON-WE_434153017835
 D WS-TASV Tact Switch J-Bend SMD version 3.5x2.9mm
 K switch button
 F http://katalog.we-online.de/em/datasheet/434153017835.pdf
@@ -41,31 +41,37 @@ K switch button
 F https://katalog.we-online.de/em/datasheet/4343x10458xx.pdf
 $ENDCMP
 #
-$CMP DIPSWITCH-MULTICOMP:MCDHN-04F
+$CMP BUTTON-WE_436353045816
+D S-TASU J-Bend SMT Tact Switch with boss design 4.7 x 3.5 mm side push
+K switch button
+F https://katalog.we-online.de/em/datasheet/4363x30458xx.pdf
+$ENDCMP
+#
+$CMP DIPSWITCH-MULTICOMP_MCDHN-04F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 $ENDCMP
 #
-$CMP DIPSWITCH-MULTICOMP:MCDHN-06F
+$CMP DIPSWITCH-MULTICOMP_MCDHN-06F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 F http://www.farnell.com/datasheets/1701867.pdf
 $ENDCMP
 #
-$CMP DIPSWITCH-MULTICOMP:MCDHN-08F
+$CMP DIPSWITCH-MULTICOMP_MCDHN-08F
 D DIL Switch - MCDHN Series, Top Tape Sealed
 F http://www.farnell.com/datasheets/1701867.pdf
 $ENDCMP
 #
-$CMP DIPSWITCH-WURTH:416131160802
+$CMP DIPSWITCH-WURTH_416131160802
 D 1.27mm small compact SMD flat actuator with top tape WS-DISV
 F http://katalog.we-online.de/em/datasheet/4161311608xx.pdf
 $ENDCMP
 #
-$CMP DIPSWITCH-WURTH:416131160804
+$CMP DIPSWITCH-WURTH_416131160804
 D 1.27mm small compact SMD flat actuator with top tape WS-DISV
 F http://katalog.we-online.de/em/datasheet/4161311608xx.pdf
 $ENDCMP
 #
-$CMP DIPSWITCH-WURTH:416131160808
+$CMP DIPSWITCH-WURTH_416131160808
 D 1.27mm small compact SMD flat actuator with top tape WS-DISV
 F http://katalog.we-online.de/em/datasheet/4161311608xx.pdf
 $ENDCMP
