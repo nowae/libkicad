@@ -235,15 +235,15 @@ ENDDEF
 DEF BUTTON-WE_436353045816 SW 0 40 N N 1 F N
 F0 "SW" 0 175 50 H V C CNN
 F1 "BUTTON-WE_436353045816" 0 -200 50 H V C CNN
-F2 "BUTTON:BUTTON-WE-436353045816" 0 -950 50 H I C CNN
-F3 "https://katalog.we-online.de/em/datasheet/4363x30458xx.pdf" 150 110 50 H V C CNN
-F4 "Wurth Elektronik GmbH" 0 -275 60 H I C CNN "Manufacturer"
-F5 "436353045816" 0 -375 60 H I C CNN "Part Number"
-F6 "Wurth Elektronik S.r.l." 0 -475 60 H I C CNN "Distributor"
-F7 "436353045816" 0 -575 60 H I C CNN "Distributor Code"
-F8 "1.21" 0 -675 60 H I C CNN "Price €"
-F9 "Farnell Italia S.r.l." 0 -750 60 H I C CNN "Distributor2"
-F10 "1868021" 0 -850 60 H I C CNN "Distributor2 Code"
+F2 "BUTTON:BUTTON-WE-436353045816" 0 -1100 50 H I C CNN
+F3 "https://katalog.we-online.de/em/datasheet/4363x30458xx.pdf" 0 -300 50 H I C CNN
+F4 "Wurth Elektronik GmbH" 0 -400 60 H I C CNN "Manufacturer"
+F5 "436353045816" 0 -500 60 H I C CNN "Part Number"
+F6 "Wurth Elektronik S.r.l." 0 -600 60 H I C CNN "Distributor"
+F7 "436353045816" 0 -700 60 H I C CNN "Distributor Code"
+F8 "1.21" 0 -800 60 H I C CNN "Price €"
+F9 "Farnell Italia S.r.l." 0 -900 60 H I C CNN "Distributor2"
+F10 "1868021" 0 -1000 60 H I C CNN "Distributor2 Code"
 $FPLIST
  BUTTON:BUTTON-WE-434351045816
 $ENDFPLIST
