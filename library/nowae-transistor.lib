@@ -281,8 +281,8 @@ ENDDEF
 # PTDC114EU
 #
 DEF PTDC114EU Q 0 0 Y N 1 F N
-F0 "Q" 225 50 60 H V L CNN
-F1 "PTDC114EU" 225 -50 60 H V L CNN
+F0 "Q" 225 50 50 H V L CNN
+F1 "PTDC114EU" 225 -50 50 H V L CNN
 F2 "SOT:SOT323-3" 0 -1025 50 H I C CNN
 F3 "https://assets.nexperia.com/documents/data-sheet/PDTC114E_SER.pdf" 0 -425 50 H I C CNN
 F4 "Nexperia Semiconductor" 0 -525 60 H I C CNN "Manufacturer"
