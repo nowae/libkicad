@@ -104,6 +104,10 @@ $CMP +3.3VS
 D +3.3V Off When Suspended
 $ENDCMP
 #
+$CMP +3.8V
+D +3.8V Voltage - GSM applications
+$ENDCMP
+#
 $CMP +5VA
 D +5V Analog
 $ENDCMP
@@ -138,6 +142,11 @@ $ENDCMP
 #
 $CMP +VBOOST
 D +VBOOST
+$ENDCMP
+#
+$CMP +VDIO
+D Input power supply without fixed value for digital input/output
+K VDIO VDDIO
 $ENDCMP
 #
 $CMP +VE
