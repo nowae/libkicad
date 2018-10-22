@@ -90,6 +90,11 @@ D TPS6040x Unregulated 60-mA Charge Pump Voltage Inverter
 F http://www.ti.com/lit/ds/symlink/tps60400.pdf
 $ENDCMP
 #
+$CMP TPS73501DRV
+D TPS735 500-mA, Low Quiescent Current, Low Noise, High PSRR, Low-Dropout Linear Regulator
+F http://www.ti.com/lit/ds/symlink/tps735.pdf
+$ENDCMP
+#
 $CMP TPS79718DCK
 D TPS797xx Ultra-Low IQ, 50-mA Low-Dropout Linear Regulators With Power Good Output in SC70 Package
 F http://www.ti.com/lit/ds/symlink/tps797.pdf
