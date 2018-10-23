@@ -1,2 +1,3 @@
 # libkicad
-Kicad 4.x Library
+KiCad 4.0.x Library
+KiCad 5.0.x Library
