@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CL12327
+D D Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)
+K audio jack receptacle stereo headphones connector
+F ~
+$ENDCMP
+#
 $CMP ESIM-THINGSMOBILE
 D Embedded SIM MFF2
 F https://www.thingsmobile.com
