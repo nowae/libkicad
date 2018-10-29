@@ -1,36 +1,36 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP COMMONMODEFILTER-COILTRONICS:FPT705-230-R
+$CMP COMMONMODEFILTER-COILTRONICS_FPT705-230-R
 D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
 F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-MURATA:50105C
+$CMP COMMONMODEFILTER-MURATA_50105C
 D 5000 Series Surface Mount Common Mode Chokes
 F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-MURATA:50225C
+$CMP COMMONMODEFILTER-MURATA_50225C
 D 5000 Series Surface Mount Common Mode Chokes
 F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-MURATA:50474C
+$CMP COMMONMODEFILTER-MURATA_50474C
 D 5000 Series Surface Mount Common Mode Chokes
 F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-MURATA:50475C
+$CMP COMMONMODEFILTER-MURATA_50475C
 D 5000 Series Surface Mount Common Mode Chokes
 F https://www.murata-ps.com/datasheet?/data/magnetics/kmp_5000c.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-TDK:ACM7060-701-2PL
+$CMP COMMONMODEFILTER-TDK_ACM7060-701-2PL
 D ACM Series - Common Mode Filters for power line
 F https://product.tdk.com/info/en/catalog/datasheets/cmf_commercial_power_acm7060_en.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-TDK:ACM70V-701-2PL
+$CMP COMMONMODEFILTER-TDK_ACM70V-701-2PL
 D ACM Series - Common Mode Filters for power line
 F https://product.tdk.com/info/en/catalog/datasheets/cmf_automotive_power_acm70v_en.pdf
 $ENDCMP
@@ -40,17 +40,17 @@ D WE-CNSW SMD Common Mode Line Filter USB 2.0 1206
 F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-WURTH:744233670
+$CMP COMMONMODEFILTER-WURTH_744233670
 D WE-CNSW-HF SMD Common Mode Line Filter USB 3.0 0805
 F http://katalog.we-online.de/pbs/datasheet/744233670.pdf
 $ENDCMP
 #
-$CMP COMMONMODEFILTER-WURTH:744282100
+$CMP COMMONMODEFILTER-WURTH_744282100
 D WE-SSC SMD Common Mode Line Filter 1260
 F http://katalog.we-online.de/pbs/datasheet/744282100.pdf
 $ENDCMP
 #
-$CMP CURRENTTRANSFORMER-TALEMA:AC1200
+$CMP CURRENTTRANSFORMER-TALEMA_AC1200
 D AC Series Current Transformer - Low Cost 50/60Hz Current Transformers
 F http://www.nuvotem.com/products/datasheets/AC-1200.pdf
 $ENDCMP
@@ -63,7 +63,7 @@ $CMP INDUCTOR
 D Inductor
 $ENDCMP
 #
-$CMP INDUCTOR-MURATA:BLM41PG102SN1
+$CMP INDUCTOR-MURATA_BLM41PG102SN1
 D EMIFIL Chip Ferrite Bead - BLM41P Series
 F https://www.murata.com/en-eu/products/productdetail?partno=BLM41PG600SN1%23
 $ENDCMP
@@ -74,7 +74,7 @@ K inductor choke
 F http://www.tracopower.com/products/tck044.pdf
 $ENDCMP
 #
-$CMP TRANSFORMER-WURTH:750315371
+$CMP TRANSFORMER-WURTH_750315371
 D MID-PPTI Push-Pull Transformers for Texas Instruments
 F http://katalog.we-online.de/ctm/datasheet/750315371.pdf
 $ENDCMP
