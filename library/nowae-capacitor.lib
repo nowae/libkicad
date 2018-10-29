@@ -33,8 +33,8 @@ ENDDEF
 DEF CAPACITOR_POL C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "CAPACITOR_POL" 25 -100 50 H V L CNN
-F2 "" 0 0 50 H V C CNN
-F3 "" 0 0 50 H V C CNN
+F2 "" -75 0 50 H I C CNN
+F3 "" 25 100 50 H I C CNN
 F4 "-" 0 -350 60 H I C CNN "Manufacturer"
 F5 "-" 0 -450 60 H I C CNN "Part Number"
 F6 "-" 0 -550 60 H I C CNN "Distributor"
