@@ -412,6 +412,30 @@ X CP 5 200 550 300 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# TPS70933DBV
+#
+DEF TPS70933DBV U 0 40 Y Y 1 F N
+F0 "U" 0 400 50 H V C CNN
+F1 "TPS70933DBV" 0 300 50 H V C CNN
+F2 "SOT:SOT23-5" 0 -1000 60 H I C CNN
+F3 "http://www.ti.com/lit/ds/symlink/tps709.pdf" 0 -400 60 H I C CNN
+F4 "Texas Instruments" 0 -500 60 H I C CNN "Manufacturer"
+F5 "TPS70933DBV" 0 -600 60 H I C CNN "Part Number"
+F6 "RS Components S.p.a" 0 -700 60 H I C CNN "Distributor"
+F7 "825-7033" 0 -800 60 H I C CNN "Distributor Code"
+F8 "1.122" 0 -900 60 H I C CNN "Price €"
+F9 "Farnell Italia S.r.l." 0 -1100 50 H I C CNN "Distributor2"
+F10 "2382995" 0 -1200 50 H I C CNN "Distributor2 Code"
+DRAW
+S -250 200 250 -200 0 1 0 N
+X IN 1 -350 100 100 R 50 50 1 1 W
+X GND 2 350 -100 100 L 50 50 1 1 W
+X EN 3 -350 -100 100 R 50 50 1 1 I
+X NC 4 250 0 0 L 50 50 1 1 N N
+X OUT 5 350 100 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
 # TPS73501DRV
 #
 DEF TPS73501DRV U 0 40 Y Y 1 F N
