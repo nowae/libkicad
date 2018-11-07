@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # 150080M173000
@@ -94,6 +94,35 @@ X RK 1 250 150 150 L 40 40 1 1 P
 X GK 2 250 0 150 L 40 40 1 1 P
 X BK 3 250 -150 150 L 40 40 1 1 P
 X A 4 -250 0 150 R 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# AMBER-WE-150141AS73100
+#
+DEF AMBER-WE-150141AS73100 DL 0 40 N N 1 F N
+F0 "DL" 0 100 50 H V C CNN
+F1 "AMBER-WE-150141AS73100" 0 -100 50 H V C CNN
+F2 "LEDs:LED-WURTH-WL_SMTW_3528" 0 -1250 60 H I C CNN
+F3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" 0 -200 60 H I C CNN
+F4 "Wurth Elektronik GmbH" 0 -350 60 H I C CNN "Manufacturer"
+F5 "150141AS73100" 0 -450 60 H I C CNN "Part Number"
+F6 "Wurth Elektronik S.r.l." 0 -550 60 H I C CNN "Distributor"
+F7 "150141AS73100" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.170" 0 -750 60 H I C CNN "Price €"
+F9 "Farnell Italia S.r.l." 0 -850 60 H I C CNN "Distributor2"
+F10 "2322104" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "Mouser Electronic Inc" 0 -1050 60 H I C CNN "Distributor3"
+F12 "710-150141AS73100" 0 -1150 60 H I C CNN "Distributor3 Code"
+$FPLIST
+ LED-*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 50 50 50 -50 N
+P 3 0 1 0 -50 50 50 0 -50 -50 F
+P 5 0 1 0 75 -15 115 -60 110 -35 90 -55 115 -60 F
+P 5 0 1 0 115 -15 160 -60 155 -35 135 -55 160 -60 F
+X A 1 -200 0 150 R 40 40 1 1 P
+X K 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -303,6 +332,35 @@ X K 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# RED-WE-150141RS73100
+#
+DEF RED-WE-150141RS73100 DL 0 40 N N 1 F N
+F0 "DL" 0 100 50 H V C CNN
+F1 "RED-WE-150141RS73100" 0 -100 50 H V C CNN
+F2 "LEDs:LED-WURTH-WL_SMTW_3528" 0 -1250 60 H I C CNN
+F3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" 0 -200 60 H I C CNN
+F4 "Wurth Elektronik GmbH" 0 -350 60 H I C CNN "Manufacturer"
+F5 "150141RS73100" 0 -450 60 H I C CNN "Part Number"
+F6 "Wurth Elektronik S.r.l." 0 -550 60 H I C CNN "Distributor"
+F7 "150141RS73100" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.180" 0 -750 60 H I C CNN "Price €"
+F9 "Farnell Italia S.r.l." 0 -850 60 H I C CNN "Distributor2"
+F10 "2322107" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "Mouser Electronic Inc" 0 -1050 60 H I C CNN "Distributor3"
+F12 "710-150141RS73100" 0 -1150 60 H I C CNN "Distributor3 Code"
+$FPLIST
+ LED-*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 50 50 50 -50 N
+P 3 0 1 0 -50 50 50 0 -50 -50 F
+P 5 0 1 0 75 -15 115 -60 110 -35 90 -55 115 -60 F
+P 5 0 1 0 115 -15 160 -60 155 -35 135 -55 160 -60 F
+X A 1 -200 0 150 R 40 40 1 1 P
+X K 2 200 0 150 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # YELLOW
 #
 DEF YELLOW DL 0 40 N N 1 F N
@@ -319,6 +377,35 @@ F9 "-" 0 -850 60 H I C CNN "Distributor2"
 F10 "-" 0 -950 60 H I C CNN "Distributor2 Code"
 F11 "-" 0 -1050 60 H I C CNN "Distributor3"
 F12 "-" 0 -1150 60 H I C CNN "Distributor3 Code"
+$FPLIST
+ LED-*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 50 50 50 -50 N
+P 3 0 1 0 -50 50 50 0 -50 -50 F
+P 5 0 1 0 75 -15 115 -60 110 -35 90 -55 115 -60 F
+P 5 0 1 0 115 -15 160 -60 155 -35 135 -55 160 -60 F
+X A 1 -200 0 150 R 40 40 1 1 P
+X K 2 200 0 150 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# YELLOW-WE-150141YS73100
+#
+DEF YELLOW-WE-150141YS73100 DL 0 40 N N 1 F N
+F0 "DL" 0 100 50 H V C CNN
+F1 "YELLOW-WE-150141YS73100" 0 -100 50 H V C CNN
+F2 "LEDs:LED-WURTH-WL_SMTW_3528" 0 -1250 60 H I C CNN
+F3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" 0 -200 60 H I C CNN
+F4 "Wurth Elektronik GmbH" 0 -350 60 H I C CNN "Manufacturer"
+F5 "150141YS73100" 0 -450 60 H I C CNN "Part Number"
+F6 "Wurth Elektronik S.r.l." 0 -550 60 H I C CNN "Distributor"
+F7 "150141YS73100" 0 -650 60 H I C CNN "Distributor Code"
+F8 "0.180" 0 -750 60 H I C CNN "Price €"
+F9 "Farnell Italia S.r.l." 0 -850 60 H I C CNN "Distributor2"
+F10 "2322111" 0 -950 60 H I C CNN "Distributor2 Code"
+F11 "Mouser Electronic Inc" 0 -1050 60 H I C CNN "Distributor3"
+F12 "710-150141YS73100" 0 -1150 60 H I C CNN "Distributor3 Code"
 $FPLIST
  LED-*
 $ENDFPLIST

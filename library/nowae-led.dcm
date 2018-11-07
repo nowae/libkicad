@@ -10,6 +10,12 @@ D WL-SFCW SMD Full-color Chip LED Waterclear
 F http://katalog.we-online.de/led/datasheet/150121M173000.pdf
 $ENDCMP
 #
+$CMP AMBER-WE-150141AS73100
+D WL-SMTW SMD TOP LED mono-color waterclear - AMBER
+K LED AMBER
+F https://katalog.we-online.com/led/datasheet/150141RS73100.pdf
+$ENDCMP
+#
 $CMP ASMB-MTB1-0A3A2
 D PLCC-4 Tricolor Black Surface LED
 F https://docs.broadcom.com/docs/AV02-4194EN
@@ -20,7 +26,7 @@ D Blue Led
 $ENDCMP
 #
 $CMP CLV1A-FKB
-D CLV1A-FKB Cree(R) PLCC4 3-in-1 SMD LED 
+D CLV1A-FKB Cree(R) PLCC4 3-in-1 SMD LED
 F http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLV1AFKB(874).pdf?la=en
 $ENDCMP
 #
@@ -37,8 +43,20 @@ $CMP RED
 D Red Led
 $ENDCMP
 #
+$CMP RED-WE-150141RS73100
+D WL-SMTW SMD TOP LED mono-color waterclear - RED
+K LED RED
+F https://katalog.we-online.com/led/datasheet/150141RS73100.pdf
+$ENDCMP
+#
 $CMP YELLOW
 D Yellow Led
+$ENDCMP
+#
+$CMP YELLOW-WE-150141YS73100
+D WL-SMTW SMD TOP LED mono-color waterclear - YELLOW
+K LED YELLOW
+F https://katalog.we-online.com/led/datasheet/150141RS73100.pdf
 $ENDCMP
 #
 #End Doc Library
