@@ -39,15 +39,21 @@ K npn transistor
 F https://assets.nexperia.com/documents/data-sheet/MMBT3904.pdf
 $ENDCMP
 #
-$CMP PMN30UNE
-D N Channel 150V 1.2A 845mOhm
-F https://assets.nexperia.com/documents/data-sheet/PMN30UNE.pdf
-$ENDCMP
-#
-$CMP PTDC114EU
+$CMP PDTC114EU
 D PDTC114E series - NPN resistor-equipped transistors; R1 = 10k R2 = 10k
 K npn transistor
 F https://assets.nexperia.com/documents/data-sheet/PDTC114E_SER.pdf
+$ENDCMP
+#
+$CMP PDTC123EU
+D PDTC123E series - NPN resistor-equipped transistors; R1 = 2.2k R2 = 2.2k
+K npn transistor
+F https://assets.nexperia.com/documents/data-sheet/PDTC123E_SERIES.pdf
+$ENDCMP
+#
+$CMP PMN30UNE
+D N Channel 150V 1.2A 845mOhm
+F https://assets.nexperia.com/documents/data-sheet/PMN30UNE.pdf
 $ENDCMP
 #
 $CMP SFH3711
