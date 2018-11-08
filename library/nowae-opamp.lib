@@ -433,18 +433,18 @@ X GND2 9 650 -300 200 L 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# TL061
+# TL061CD
 #
-DEF TL061 U 0 0 Y Y 1 F N
-F0 "U" 200 200 60 H V C CNN
-F1 "TL061" 300 100 60 H V C CNN
-F2 "DIP-8/SOIC-8" 0 -950 60 H I C CNN
+DEF TL061CD U 0 0 Y Y 1 F N
+F0 "U" 200 100 60 H V C CNN
+F1 "TL061CD" 350 -150 60 H V C CNN
+F2 "SOIC:SOIC8_3.9x4.9_1.27" 0 -950 60 H I C CNN
 F3 "Single Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8" 0 -350 60 H I C CNN
 F4 "Texas Instruments" 0 -450 60 H I C CNN "Manufacturer"
-F5 "TL061CDR" 0 -550 60 H I C CNN "Part Number"
-F6 "Mouser Electronics, Inc" 0 -650 60 H I C CNN "Distributor"
-F7 "595-TL061CDR" 0 -750 60 H I C CNN "Distributor Code"
-F8 "0.46" 0 -850 60 H I C CNN "Price €"
+F5 "TL061CD" 0 -550 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -650 60 H I C CNN "Distributor"
+F7 "9593225" 0 -750 60 H I C CNN "Distributor Code"
+F8 "0.524" 0 -850 60 H I C CNN "Price €"
 DRAW
 T 0 -150 -100 79 0 0 0 + Normal 0 C C
 T 0 -150 100 79 0 0 0 - Normal 0 C C

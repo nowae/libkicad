@@ -70,7 +70,7 @@ D Si8920 Isolated Amplifier for Current Shunt Measurement
 F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si8920.pdf
 $ENDCMP
 #
-$CMP TL061
+$CMP TL061CD
 D Single Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8
 K single opamp
 F http://www.ti.com/lit/ds/symlink/tl061.pdf
