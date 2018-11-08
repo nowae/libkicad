@@ -163,6 +163,11 @@ D SS24FL / SS26FL Surface Mount Schottky Barrier Rectifier
 F http://www.onsemi.com/pub/Collateral/SS26FL-D.pdf
 $ENDCMP
 #
+$CMP SS36FA
+D SS36FA 3 A, 40 V - 100 V Surface Mount Schottky Barrier Rectifiers
+F http://www.onsemi.com/pub/Collateral/SS36FA-D.pdf
+$ENDCMP
+#
 $CMP STPS30170DJF-TR
 D Power Schottky rectifier STPS30170DJF
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/25/7a/ac/5d/11/a8/48/3a/CD00255367.pdf/files/CD00255367.pdf/jcr:content/translations/en.CD00255367.pdf
