@@ -79,7 +79,7 @@ DEF FT230XS U 0 40 Y Y 1 F N
 F0 "U" 0 700 60 H V C CNN
 F1 "FT230XS" 0 600 60 H V C CNN
 F2 "SOP:SSOP16_3.9x4.9_0.635" 0 -1300 60 H I C CNN
-F3 "" -400 -550 60 H V C CNN
+F3 "" -400 -550 60 H I C CNN
 F4 "FTDI Chip" 0 -800 60 H I C CNN "Manufacturer"
 F5 "FT230XS-R" 0 -900 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -1000 60 H I C CNN "Distributor"
