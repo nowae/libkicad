@@ -60,6 +60,12 @@ K Quartz, Ceramic, Filter, Resonator
 F http://www.abracon.com/Resonators/abm7.pdf
 $ENDCMP
 #
+$CMP ABS06-32.768KHZ-9-1-T
+D 32.768kHz SMD Low Profile Crystal
+K Quartz, Ceramic, Filter, Resonator
+F https://abracon.com/Resonators/ABS06.pdf
+$ENDCMP
+#
 $CMP X1E0000210132-25MHZ
 D Crystal TSX-3225 Miniature Size Low Profile SMD 25MHz 9pF
 K Quartz, Ceramic, Filter, Resonator
