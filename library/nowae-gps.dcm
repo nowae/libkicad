@@ -5,4 +5,9 @@ D MAX-M8 U-Blox M8 concurrent GNSS modules
 F https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf
 $ENDCMP
 #
+$CMP NEO_M8N
+D MAX-M8 U-Blox M8 concurrent GNSS modules
+F https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf
+$ENDCMP
+#
 #End Doc Library
