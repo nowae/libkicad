@@ -85,6 +85,11 @@ D Regolatori di tensione LDO 500-mA, Low IQ, Small Size, Low Dropout Regulator 4
 F http://www.ti.com/lit/ds/symlink/tlv755p.pdf
 $ENDCMP
 #
+$CMP TLV75730PDBVR
+D Regolatori di tensione LDO 1A, Low IQ, Small Size, Low Dropout Regulator
+F http://www.ti.com/lit/ds/symlink/tlv757p.pdf
+$ENDCMP
+#
 $CMP TPS60400DBV
 D TPS6040x Unregulated 60-mA Charge Pump Voltage Inverter
 F http://www.ti.com/lit/ds/symlink/tps60400.pdf
