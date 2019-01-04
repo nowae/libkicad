@@ -85,4 +85,9 @@ D Ultra low power switching with +2.15 to +5.5Vin and +1.2 to 3.3Vout, 400mA, Iq
 F http://www.ti.com/lit/ds/symlink/tps62743.pdf
 $ENDCMP
 #
+$CMP WPMDL1201801
+D VDRM – Variable Step Down Regulator Module
+F https://katalog.we-online.com/pm/datasheet/171021801.pdf
+$ENDCMP
+#
 #End Doc Library
