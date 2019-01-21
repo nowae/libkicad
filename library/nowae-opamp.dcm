@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD8629ARMZ
+D Zero-Drift, Single-Supply, Rail-to-Rail, Input/Output Operational Amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ad8628_8629_8630.pdf
+$ENDCMP
+#
 $CMP INA128UAE4
 D INA12x Precision, Low Power Instrumentation Amplifiers
 F http://www.ti.com/lit/ds/symlink/ina128.pdf

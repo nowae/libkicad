@@ -1,6 +1,36 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# AD8629ARMZ
+#
+DEF AD8629ARMZ U 0 0 Y Y 2 F N
+F0 "U" 200 150 60 H V C CNN
+F1 "AD8629ARMZ" 350 -150 60 H V C CNN
+F2 "SOP:MSOP8_3.0x3.0_0.65" 0 -900 60 H I C CNN
+F3 "Zero-Drift, Single-Supply, Rail-to-Rail, Input/Output Operational Amplifier" 0 -300 60 H I C CNN
+F4 "Analog Devices" 0 -400 60 H I C CNN "Manufacturer"
+F5 "AD8629ARMZ" 0 -500 60 H I C CNN "Part Number"
+F6 "Farnell Italia S.r.l." 0 -600 60 H I C CNN "Distributor"
+F7 "2112572" 0 -700 60 H I C CNN "Distributor Code"
+F8 "3.80" 0 -800 60 H I C CNN "Price €"
+$FPLIST
+ SOIC_3.9x4.9_1.27
+$ENDFPLIST
+DRAW
+T 0 -150 -100 79 0 0 0 + Normal 0 C C
+T 0 -150 100 79 0 0 0 - Normal 0 C C
+P 4 0 1 0 -200 200 -200 -200 150 0 -200 200 N
+X ~ 1 300 0 150 L 50 50 1 1 O
+X - 2 -350 100 150 R 50 50 1 1 I
+X + 3 -350 -100 150 R 50 50 1 1 I
+X V- 4 0 -250 161 U 50 50 1 1 W
+X V+ 8 0 250 161 D 50 50 1 1 W
+X + 5 -350 -100 150 R 50 50 2 1 I
+X - 6 -350 100 150 R 50 50 2 1 I
+X ~ 7 300 0 150 L 50 50 2 1 O
+ENDDRAW
+ENDDEF
+#
 # INA128UAE4
 #
 DEF INA128UAE4 U 0 0 Y Y 1 F N
