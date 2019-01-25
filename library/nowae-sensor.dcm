@@ -45,6 +45,11 @@ K microphone analog top
 F http://www.knowles.com/eng/content/download/5754/91789/version/3/file/SPU0410HR5H-PB+revH.PDF
 $ENDCMP
 #
+$CMP SSCDANN030PAAA5
+D SSC Series Standard Accuracy, Compensated/Amplified
+F https://sensing.honeywell.com/honeywell-sensing-trustability-ssc-series-standard-accuracy-board-mount-pressure-sensors-50099533-a-en.pdf
+$ENDCMP
+#
 $CMP Si7021-A20
 D Si7021-A20 I2C humidity and temperature sensor
 F https://www.silabs.com/Support%20Documents%2FTechnicalDocs%2FSi7021-A20.pdf
