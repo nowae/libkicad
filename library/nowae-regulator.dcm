@@ -102,7 +102,7 @@ $ENDCMP
 #
 $CMP TPS70633DRVR
 D TPS706 150-mA, 6.5-V, 1-μA IQ Voltage Regulators with Enable
-F http://www.ti.com/lit/ds/symlink/tlv757p.pdf
+F http://www.ti.com/lit/ds/symlink/tps706.pdf
 $ENDCMP
 #
 $CMP TPS70933DBV
