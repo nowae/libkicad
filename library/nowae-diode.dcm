@@ -99,6 +99,11 @@ D MMSZ4xxxT1G 6.2V Low Current Zener Diode Voltage Regulator
 F http://www.onsemi.com/pub_link/Collateral/MMSZ4678T1-D.PDF
 $ENDCMP
 #
+$CMP MURS480ET3G
+D SWITCHMODE Power Rectifiers Ultrafast “E’’ Series with High Reverse Energy Capability
+F https://www.onsemi.com/pub/Collateral/MURS480E-D.PDF
+$ENDCMP
+#
 $CMP NSR2030QMUTAG
 D Fast Recovery Surface Mount Bridge Rectifier
 F http://www.onsemi.com/pub/Collateral/NSR2030QMU-D.PDF
