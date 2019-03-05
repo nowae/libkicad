@@ -1129,7 +1129,7 @@ ENDDEF
 DEF TXB0108RGYR U 0 40 Y Y 1 F N
 F0 "U" 0 650 50 H V C CNN
 F1 "TXB0108RGYR" 0 -650 50 H V C CNN
-F2 "QFN:VQFN20_3.5x4.5_0.5_20+1" -100 550 50 H I C CNN
+F2 "QFN:VQFN20_3.5x4.5_0.5_20+1" 0 -1550 50 H I C CNN
 F3 "http://www.ti.com/lit/ds/symlink/txb0108.pdf" 0 -750 50 H I C CNN
 F4 "Texas Instruments" 0 -850 50 H I C CNN "Manufacturer"
 F5 "TXB0108RGYR" 0 -950 50 H I C CNN "Part Number"
