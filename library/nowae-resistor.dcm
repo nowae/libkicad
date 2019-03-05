@@ -57,6 +57,12 @@ K R pack array
 F http://www.bourns.com/docs/Product-MDS/cat16-j4.pdf
 $ENDCMP
 #
+$CMP CAT16-330J8LF
+D CAT16-F/J8 (LF) series - Chip Resistor Array
+K R pack array
+F http://www.bourns.com/docs/product-datasheets/cat10.pdf
+$ENDCMP
+#
 $CMP CRA2512-FZ-R100ELF
 D CRA2512 - High Power Current Sense Chip Resistor
 F http://www.bourns.com/PDFs/CRA.pdf
