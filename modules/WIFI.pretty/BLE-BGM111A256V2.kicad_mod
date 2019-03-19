@@ -1,4 +1,4 @@
-(module BLE-BGM111A256V2 (layer F.Cu) (tedit 5BFBEBB9)
+(module BLE-BGM111A256V2 (layer F.Cu) (tedit 5C90A13E)
   (fp_text reference VAL** (at 0 -8.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -57,9 +57,9 @@
   (pad 15 smd rect (at -1.2 6.7 90) (size 2.4 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at -2.4 6.7 90) (size 2.4 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at -3.6 6.7 90) (size 2.4 0.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KINOWAEMOD}/packages3d/nowae/WIFI/BGM111A256V2.wrl
+  (model ${KINOWAEMOD}/packages3d/3rd-party/siliconlabs/BGM111.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
