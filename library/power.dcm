@@ -144,6 +144,11 @@ $CMP +VBOOST
 D +VBOOST
 $ENDCMP
 #
+$CMP +VDD
+D Input power supply without fixed value
+K  VDD
+$ENDCMP
+#
 $CMP +VDIO
 D Input power supply without fixed value for digital input/output
 K VDIO VDDIO
