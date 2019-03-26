@@ -1,5 +1,6 @@
-(module BUTTON-WE-434153017835 (layer F.Cu) (tedit 5A69D73A)
+(module BUTTON-WE-434153017835 (layer F.Cu) (tedit 5C9A98B2)
   (descr "Wurth Elektronik, WS-TASV Tact Switch J-Bend SMD version, 434153017835")
+  (attr smd)
   (fp_text reference VAL** (at 0 -2.15) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

@@ -1,6 +1,7 @@
-(module BUZZER-PKLCS-SERIES (layer F.Cu) (tedit 582739A6)
+(module BUZZER-PKLCS-SERIES (layer F.Cu) (tedit 5C9A98CE)
   (descr "MURATA Piezoelectric Sounders SMD Type")
   (tags BUZZER)
+  (attr smd)
   (fp_text reference VAL** (at 0.1 -7) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

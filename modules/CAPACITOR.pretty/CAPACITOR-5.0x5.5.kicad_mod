@@ -1,5 +1,6 @@
-(module CAPACITOR-5.0x5.5 (layer F.Cu) (tedit 5988881A)
+(module CAPACITOR-5.0x5.5 (layer F.Cu) (tedit 5C9A981E)
   (descr "Electrolitic Capacitor - Width 6.3mm - Heigth 5.3mm")
+  (attr smd)
   (fp_text reference VAL** (at 0 -4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

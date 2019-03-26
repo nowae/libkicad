@@ -1,6 +1,7 @@
-(module KEYSTONE-3002 (layer F.Cu) (tedit 582D0F98)
+(module KEYSTONE-3002 (layer F.Cu) (tedit 5C9A986A)
   (descr "KEYSTON battery holder for BR2020, CL2020, BR2025, CR2025, DL2025, BR2032, CR2032, DL2032")
   (tags battery)
+  (attr smd)
   (fp_text reference VAL** (at 0.1 -10.8) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

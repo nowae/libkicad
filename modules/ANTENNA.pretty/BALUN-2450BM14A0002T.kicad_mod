@@ -1,4 +1,5 @@
-(module BALUN-2450BM14A0002T (layer F.Cu) (tedit 5A33FD86)
+(module BALUN-2450BM14A0002T (layer F.Cu) (tedit 5C9A988A)
+  (attr smd)
   (fp_text reference VAL** (at 0 -1.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

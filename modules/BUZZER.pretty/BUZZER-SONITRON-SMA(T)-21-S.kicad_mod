@@ -1,4 +1,4 @@
-(module "BUZZER-SONITRON-SMA(T)-21-S" (layer F.Cu) (tedit 5AD8686D)
+(module "BUZZER-SONITRON-SMA(T)-21-S" (layer F.Cu) (tedit 5C9A98D7)
   (attr smd)
   (fp_text reference VAL** (at 0 11.75) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -56,7 +56,7 @@
   (pad 1 smd rect (at -10.75 0) (size 7.5 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 10.75 0) (size 7.5 3) (layers F.Cu F.Paste F.Mask))
   (model "${KINOWAEMOD}/packages3d/3rd-party/sonitron/SMA(T)-21_SMD.wrl"
-    (at (xyz 5.93 -9.359999999999999 0.375))
+    (offset (xyz 150.6219977378845 -237.7439964294433 9.524999856948853))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )

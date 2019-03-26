@@ -1,10 +1,10 @@
-(module IDC-SAMTEC-SHF-106-01-L-D-SM-TR (layer F.Cu) (tedit 5C8BFE18)
+(module IDC-SAMTEC-SHF-106-01-L-D-SM-TR (layer F.Cu) (tedit 5C91F389)
   (descr "Samtec .050\" Shrouded IDC Ejector Header - EHF-117-01-F-D-SM-LC")
   (tags 17x2)
   (fp_text reference VAL** (at 0 -4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value IDC-SAMTEC-SHF-106-01-L-D-SM-TR (at 0 0) (layer F.Fab) hide
+  (fp_text value IDC-SAMTEC-SHF-106-01-L-D-TH (at 0 0) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -3.16 3) (end -3.66 3.5) (layer F.SilkS) (width 0.15))

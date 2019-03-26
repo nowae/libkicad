@@ -1,4 +1,5 @@
-(module CAPACITOR-16.0x17.0 (layer F.Cu) (tedit 5A996CD6)
+(module CAPACITOR-16.0x17.0 (layer F.Cu) (tedit 5C9A983D)
+  (attr smd)
   (fp_text reference VAL** (at 0 -9.45) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

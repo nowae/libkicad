@@ -1,4 +1,5 @@
-(module SOIC16_7.6x10.5_1.27 (layer F.Cu) (tedit 5A8FDE0F)
+(module SOIC16_7.6x10.5_1.27 (layer F.Cu) (tedit 5C9A97B6)
+  (attr smd)
   (fp_text reference VAL** (at 0 -6) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

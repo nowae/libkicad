@@ -1,6 +1,7 @@
-(module BUTTON-WE-4311810158x6 (layer F.Cu) (tedit 5A5E7159)
+(module BUTTON-WE-4311810158x6 (layer F.Cu) (tedit 5C9A98A5)
   (descr "WS-TASV 5x5mm Tact Switch with ground terminal, SMD version, Wurth Elektronik, 4311810158x6")
   (tags "tact switch button")
+  (attr smd)
   (fp_text reference VAL** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

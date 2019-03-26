@@ -1,5 +1,6 @@
-(module KEYSTONE-3080 (layer F.Cu) (tedit 5B57097C)
+(module KEYSTONE-3080 (layer F.Cu) (tedit 5C9A9864)
   (descr "Keystone type 3001 coin cell retainer")
+  (attr smd)
   (fp_text reference VAL** (at 0 -7.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

@@ -1,4 +1,5 @@
-(module WSON10_4.0x4.0_0.8_10+1 (layer F.Cu) (tedit 5B16A228)
+(module WSON10_4.0x4.0_0.8_10+1 (layer F.Cu) (tedit 5C9A97EB)
+  (attr smd)
   (fp_text reference VAL** (at 0 -3) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )

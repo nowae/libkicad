@@ -1,4 +1,5 @@
-(module BUTTON-WE-436353045816 (layer F.Cu) (tedit 5A2BDE12)
+(module BUTTON-WE-436353045816 (layer F.Cu) (tedit 5C9A98A0)
+  (attr smd)
   (fp_text reference VAL** (at 0 -3.8) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
