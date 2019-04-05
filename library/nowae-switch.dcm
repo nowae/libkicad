@@ -29,6 +29,12 @@ K switch button
 F http://katalog.we-online.de/em/datasheet/4341x1xxx8x6.pdf
 $ENDCMP
 #
+$CMP BUTTON-WE_434123025826
+D S-TASU J-Bend SMT Tact Switch with boss design 4.7 x 3.5 mm side push
+K switch button
+F https://katalog.we-online.de/em/datasheet/4363x30458xx.pdf
+$ENDCMP
+#
 $CMP BUTTON-WE_434153017835
 D WS-TASV Tact Switch J-Bend SMD version 3.5x2.9mm
 K switch button
