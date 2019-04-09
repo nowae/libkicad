@@ -1,0 +1,12 @@
+(module FIDUCIALMARK_1MM_2MM (layer F.Cu) (tedit 5CAB363B)
+  (descr "Fiducial Copper Top 1mm copper, 2mm mask")
+  (attr virtual)
+  (fp_text reference VAL** (at 0 -1.5) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value FIDUCIALMARK_1MM_2MM (at 0 1.5) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (pad "" smd circle (at 0 0) (size 1 1) (layers F.Cu))
+  (pad 1 smd circle (at 0 0) (size 2 2) (layers F.Mask))
+)
