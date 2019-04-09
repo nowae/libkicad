@@ -5,6 +5,11 @@ D BGM111 Blue Gecko Bluetooth (R) Module
 F https://www.silabs.com/documents/login/data-sheets/BGM111_datasheet.pdf
 $ENDCMP
 #
+$CMP BGM111A256V21
+D BGM111 Blue Gecko Bluetooth (R) Module
+F https://www.silabs.com/documents/login/data-sheets/BGM111_datasheet.pdf
+$ENDCMP
+#
 $CMP HL7692
 D AirPrime HL Series modules 2G/3G/4G
 F https://source.sierrawireless.com/devices/hl-series/hl7692/
