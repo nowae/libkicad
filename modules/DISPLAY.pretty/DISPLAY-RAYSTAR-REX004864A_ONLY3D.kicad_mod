@@ -1,0 +1,18 @@
+(module DISPLAY-RAYSTAR-REX004864A_ONLY3D (layer F.Cu) (tedit 5CAC87A8)
+  (attr virtual)
+  (fp_text reference VAL? (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value DISPLAY-RAYSTAR-REX004864A_ONLY3D (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_line (start -7 -11) (end 7 -11) (layer F.SilkS) (width 0.15))
+  (fp_line (start 7 -11) (end 7 11) (layer F.SilkS) (width 0.15))
+  (fp_line (start 7 11) (end -7 11) (layer F.SilkS) (width 0.15))
+  (fp_line (start -7 11) (end -7 -11) (layer F.SilkS) (width 0.15))
+  (model ${KINOWAEMOD}/packages3d/nowae/OLED/RAYSTAR_OLED_48x64.wrl
+    (offset (xyz 7 11 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)
