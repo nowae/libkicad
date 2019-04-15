@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AMW037
+D Wi-Fi Xpress AMW037 Wi-Fi(R) Module
+F https://resources.zentri.com/documentation/datasheets/ADS-MW037-ZentriOS-101R.pdf
+$ENDCMP
+#
 $CMP BGM111A256V2
 D BGM111 Blue Gecko Bluetooth (R) Module
 F https://www.silabs.com/documents/login/data-sheets/BGM111_datasheet.pdf
@@ -13,6 +18,11 @@ $ENDCMP
 $CMP BGX13P22GA-V1
 D Bluetooth Xpress BGX13P Bluetooth(R) Module
 F https://www.silabs.com/documents/login/data-sheets/bgx13p-datasheet.pdf
+$ENDCMP
+#
+$CMP CMWX1ZZABZ-091
+D CMWZ1ZZABZ - Sub-G Module Data Sheet - STM32L0 + SX1276
+F https://wireless.murata.com/datasheet?/RFM/data/type_abz.pdf
 $ENDCMP
 #
 $CMP HL7692
