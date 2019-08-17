@@ -25,6 +25,16 @@ D Switching power module with 7V-50V input and 15V output max at 2.5A
 F http://www.ti.com/lit/ds/symlink/lmz35003.pdf
 $ENDCMP
 #
+$CMP LMZM23601V5SIL
+D 36V 1A Step-Down DC-DC Power Module in 3.8mm × 3mm PackageLMZM23601 36-V 1-A Step-Down DC-DC Power Module in 3.8mm × 3mm PackageLMZM23601 36-V, 1-A Step-Down DC/DC Power Module in 3.8-mm × 3-mm PackageLMZM23601 36-V, 1-A Step-Down DC/DC Power Module in 3.8-mm × 3-mm Package
+F http://www.ti.com/lit/ds/symlink/lmzm23601.pdf
+$ENDCMP
+#
+$CMP MUN12AD01-SH
+D 17V 1A Step-Down DC-DC Power Module in 3.5mm × 3.5mm PackageLMZM23601 36-V 1-A Step-Down DC-DC Power Module in 3.8mm × 3mm PackageLMZM23601 36-V, 1-A Step-Down DC/DC Power Module in 3.8-mm × 3-mm PackageLMZM23601 36-V, 1-A Step-Down DC/DC Power Module in 3.8-mm × 3-mm Package
+F https://datasheet.lcsc.com/szlcsc/Cyntec-MUN12AD01-SH_C218786.pdf
+$ENDCMP
+#
 $CMP PI3305-00-LGIZ
 D 8V to 36VIN Cool-Power ZVS Buck Regulator Family
 F http://www.vicorpower.com/documents/datasheets/Picor/ds_pi33xx.pdf
@@ -71,7 +81,7 @@ F http://www.ti.com/lit/ds/symlink/tps62150.pdf
 $ENDCMP
 #
 $CMP TPS62153
-D TPS6215x 3-V to 17-V, Adjustable Output Voltage, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
+D TPS6215x 3-V to 17-V, Fixed Output Voltage, 1-A Step-Down Converter in 3-mm × 3-mm QFN Package
 F http://www.ti.com/lit/ds/symlink/tps62150.pdf
 $ENDCMP
 #
