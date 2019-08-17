@@ -30,6 +30,11 @@ D BZT52C3V3 Surface Mount Zener Diode
 F https://www.diodes.com/assets/Datasheets/ds18004.pdf
 $ENDCMP
 #
+$CMP BZT52H-C9V1,115
+D 9V1, BZT52H Series Surface Mount Zener Diode
+F https://www.diodes.com/assets/Datasheets/ds18004.pdf
+$ENDCMP
+#
 $CMP CD0603-S0180R
 D Switching Chip Diode Series - 0603/1005
 F https://www.bourns.com/pdfs/CD0603_1005.pdf
