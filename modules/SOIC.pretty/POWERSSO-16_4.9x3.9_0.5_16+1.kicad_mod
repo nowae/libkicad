@@ -1,9 +1,9 @@
-(module POWERSSO-16_4.9x3.9_0.5 (layer F.Cu) (tedit 5D5BB400)
+(module POWERSSO-16_4.9x3.9_0.5_16+1(layer F.Cu) (tedit 5D5BB44C)
   (attr smd)
   (fp_text reference VAL** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value POWERSSO-16_4.9x3.9_0.5 (at 0 3.8) (layer F.Fab) hide
+  (fp_text value POWERSSO-16_4.9x3.9_0.5_16+1 (at 0 3.8) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 3.3 -2.9) (end -3.3 -2.9) (layer F.CrtYd) (width 0.05))
