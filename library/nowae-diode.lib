@@ -306,8 +306,8 @@ ENDDEF
 DEF ES1CL D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
 F1 "ES1CL" 0 -100 50 H V C CNN
-F2 "" -100 0 60 H I C CNN
-F3 "1A 150V" 0 -200 60 H I C CNN
+F2 "DIODE:DIODE-SOD123" -100 0 60 H I C CNN
+F3 "" 0 -200 60 H I C CNN
 F4 "Taiwan Semiconductor" 0 -300 60 H I C CNN "Manufacturer"
 F5 "ES1CL" 0 -400 60 H I C CNN "Part Number"
 F6 "Farnell Italia S.r.l." 0 -500 60 H I C CNN "Distributor"
