@@ -1,9 +1,9 @@
-(module VQFN14_3.5x3.5_0.5_14+1 (layer F.Cu) (tedit 5C8B6278)
+(module VQFN14_3.5x3.5_0.5_14+1 (layer F.Cu) (tedit 5D6B8952)
   (attr smd)
   (fp_text reference VAL** (at 0 -3.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value VQFN14_3.5x3.5_0.5_14+1 (at 0 0) (layer F.Fab) hide
+  (fp_text value VQFN14_3.5x3.5_0.5_14+1 (at 0 3.2) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -1.35 -0.1) (end -1.75 -0.1) (layer F.Fab) (width 0.05))

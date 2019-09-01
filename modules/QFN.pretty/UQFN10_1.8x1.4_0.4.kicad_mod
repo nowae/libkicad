@@ -1,8 +1,8 @@
-(module UQFN10_1.8x1.4_0.4 (layer F.Cu) (tedit 5BC9F761)
+(module UQFN10_1.8x1.4_0.4 (layer F.Cu) (tedit 5D6B8944)
   (fp_text reference VAL** (at 0 -2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value UQFN10_1.8x1.4_0.4 (at 0 -0.1 90) (layer F.Fab) hide
+  (fp_text value UQFN10_1.8x1.4_0.4 (at 0 2 180) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -0.7 0.9) (end 0.7 0.9) (layer F.Fab) (width 0.15))

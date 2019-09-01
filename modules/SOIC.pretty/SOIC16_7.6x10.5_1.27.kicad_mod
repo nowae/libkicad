@@ -1,9 +1,9 @@
-(module SOIC16_7.6x10.5_1.27 (layer F.Cu) (tedit 5C9A97B6)
+(module SOIC16_7.6x10.5_1.27 (layer F.Cu) (tedit 5D6B877B)
   (attr smd)
   (fp_text reference VAL** (at 0 -6) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value SOIC16_7.6x10.5_1.27 (at 0 0) (layer F.Fab) hide
+  (fp_text value SOIC16_7.6x10.5_1.27 (at 0 6) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -5.2 -5.5) (end -4.8 -5.1) (layer F.SilkS) (width 0.15))

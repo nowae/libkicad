@@ -1,11 +1,11 @@
-(module TSSOP24_4.4x7.8_0.65 (layer F.Cu) (tedit 5B447C3F)
+(module TSSOP24_4.4x7.8_0.65 (layer F.Cu) (tedit 5D6B881B)
   (descr "Plastic Small Outline TSSOP28 - PW series by Texas Instruments")
   (tags TSSOP28)
   (attr smd)
   (fp_text reference VAL** (at 0 -4.75) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value TSSOP24_4.4x7.8_0.65 (at 0 0) (layer F.Fab) hide
+  (fp_text value TSSOP24_4.4x7.8_0.65 (at 0 4.8) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start 3.5 -4.3) (end -3.5 -4.3) (layer F.CrtYd) (width 0.05))

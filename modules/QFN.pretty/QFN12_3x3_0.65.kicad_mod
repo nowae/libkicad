@@ -1,4 +1,4 @@
-(module QFN12_3x3_0.65 (layer F.Cu) (tedit 5984CAE6)
+(module QFN12_3x3_0.65 (layer F.Cu) (tedit 5D6B88A1)
   (descr "16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x0.9 mm Body [QFN]")
   (tags "QFN QFN16 0.5")
   (attr smd)
@@ -8,7 +8,7 @@
   (fp_text value TQFN20_5x5_0.65_20+1 (at 0 2.8) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
-  (fp_text user %R (at 0 -2.8) (layer F.Fab)
+  (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -2.5 -0.8) (end -2.5 -1.3) (layer F.SilkS) (width 0.15))

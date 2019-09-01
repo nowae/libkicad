@@ -1,4 +1,4 @@
-(module QFN16_4x4_0.65_16+1 (layer F.Cu) (tedit 5A32AB23)
+(module QFN16_4x4_0.65_16+1 (layer F.Cu) (tedit 5D6B88E2)
   (descr "16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x0.9 mm Body [QFN]")
   (tags "QFN QFN16 0.5")
   (attr smd)
@@ -8,7 +8,7 @@
   (fp_text value QFN16_4x4_0.65_16+1 (at 0 3.2) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
-  (fp_text user %R (at 0 -3.2) (layer F.Fab)
+  (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -2.9 -0.8) (end -2.9 -1.3) (layer F.SilkS) (width 0.15))
@@ -48,7 +48,7 @@
   (pad 14 smd rect (at 0.325 -2 90) (size 0.75 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at -0.325 -2 90) (size 0.75 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -0.975 -2 90) (size 0.75 0.3) (layers F.Cu F.Paste F.Mask))
-  (pad EP smd rect (at 0 0) (size 2.2 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 17 smd rect (at 0 0) (size 2.2 2.2) (layers F.Cu F.Paste F.Mask))
   (model ${KINOWAEMOD}/packages3d/walter/QFN/qfn-16.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.8 0.8 0.8))
