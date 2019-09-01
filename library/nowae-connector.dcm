@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CONN_6X2
+K connector
+F ~
+$ENDCMP
+#
 $CMP ESIM-THINGSMOBILE
 D Embedded SIM MFF2
 F https://www.thingsmobile.com
