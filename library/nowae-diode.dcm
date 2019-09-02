@@ -163,6 +163,11 @@ D SMBJ5.0(C)A - SMBJ170(C)A 600W Surface Mount Transient Voltage Suppressor
 F http://www.diodes.com/_files/datasheets/ds19002.pdf
 $ENDCMP
 #
+$CMP SMCJ26A-TR
+D SMCJ Transil 1500W Surface Mount Transient Voltage Suppressor
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/c0/80/cc/19/4c/45/af/CD00001333.pdf/files/CD00001333.pdf/jcr:content/translations/en.CD00001333.pdf
+$ENDCMP
+#
 $CMP SS22
 D SS22 - 2.0A Surface Mount Schottky Barrier
 F http://www.onsemi.com/pub/Collateral/SS29-D.pdf
