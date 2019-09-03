@@ -1,4 +1,4 @@
-(module CAPACITOR-1210 (layer F.Cu) (tedit 5A1FF82B)
+(module CAPACITOR-1210 (layer F.Cu) (tedit 5D6E0D50)
   (descr "Capacitor SMD 1210, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "capacitor 1210")
   (attr smd)
@@ -25,7 +25,7 @@
   (fp_line (start 2.2 -1.45) (end 2.2 1.45) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.55 0) (size 1.1 2.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.55 0) (size 1.1 2.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KINOWAEMOD}/packages3d/walter/capacitor/c_1210.wrl
+  (model ${KINOWAEMOD}/packages3d/nowae/capacitor/1210.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
