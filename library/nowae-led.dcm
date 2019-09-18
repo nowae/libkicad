@@ -49,6 +49,11 @@ K LED RED
 F https://katalog.we-online.com/led/datasheet/150141RS73100.pdf
 $ENDCMP
 #
+$CMP RGB-WE-SFTW-150141M173100
+D PLCC-4 Tricolor Black Surface LED
+F https://katalog.we-online.de/led/datasheet/150141M173100.pdf
+$ENDCMP
+#
 $CMP YELLOW
 D Yellow Led
 $ENDCMP
