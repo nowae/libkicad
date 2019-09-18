@@ -63,6 +63,16 @@ $CMP INDUCTOR
 D Inductor
 $ENDCMP
 #
+$CMP INDUCTOR-DUAL-COIL-WURTH-74485540101
+D WE-CFWI 10uH SMD 1312
+F http://katalog.we-online.de/pbs/datasheet/744232090.pdf
+$ENDCMP
+#
+$CMP INDUCTOR-DUAL-COIL-WURTH-744889015100
+D WE-MTCI 10uH 22u5H SMD 5030
+F https://katalog.we-online.com/pbs/datasheet/744889015100.pdf
+$ENDCMP
+#
 $CMP INDUCTOR-MURATA_BLM41PG102SN1
 D EMIFIL Chip Ferrite Bead - BLM41P Series
 F https://www.murata.com/en-eu/products/productdetail?partno=BLM41PG600SN1%23
