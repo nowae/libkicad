@@ -20,6 +20,10 @@ D ISL3150E Large 3V Output Swing, 16.5kV ESD, Full Fail-Safe, 1/8 Unit Load RS-4
 F https://www.intersil.com/content/dam/Intersil/documents/isl3/isl3150e-52e-53e-55e-56e-58e.pdf
 $ENDCMP
 #
+$CMP ISO1050DW
+D ISO1050 Isolated CAN Transceiver
+$ENDCMP
+#
 $CMP ISO15M
 D ISO15M Isolated 3.3V Half-Duplex RS-485 Transceivers, -55°C +125°C
 F http://www.ti.com/lit/ds/symlink/iso15.pdf
