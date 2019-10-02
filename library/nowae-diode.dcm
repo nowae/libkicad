@@ -30,11 +30,6 @@ D Surface Mount Schottky Barrier Rectifier 1.5A 45V SMA
 F https://www.vishay.com/docs/86013/bys10.pdf
 $ENDCMP
 #
-$CMP BYS10-45-E3_TR
-D Surface Mount Schottky Barrier Rectifier 1.5A 45V SMA
-F https://www.vishay.com/docs/86013/bys10.pdf
-$ENDCMP
-#
 $CMP BZG03C30TR
 D BZG03C-Series Zener Diodes
 F http://www.vishay.com/docs/85593/bzg03c.pdf
