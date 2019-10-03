@@ -1,8 +1,8 @@
-(module INDUCTOR-WURTH-PDA-1280 (layer F.Cu) (tedit 5D691C11)
+(module INDUCTOR-WE-PD-1280 (layer F.Cu) (tedit 5D691C11)
   (fp_text reference VAL** (at 0 -7.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value INDUCTOR-WURTH-PDA-1280 (at 0 7.2) (layer F.Fab) hide
+  (fp_text value INDUCTOR-WE-PD-1280 (at 0 7.2) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -6.4 6.5) (end -6.4 -6.6) (layer F.CrtYd) (width 0.05))
