@@ -1,4 +1,4 @@
-(module 0156-1010L-2.54 (layer F.Cu) (tedit 5D9CB0F9)
+(module 0156-1010L-2.54 (layer F.Cu) (tedit 5DA4DC9C)
   (fp_text reference VAL** (at 0 -6.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -69,4 +69,14 @@
   (pad 5 thru_hole circle (at 5.08 -1.27) (size 2 2) (drill 1.4) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -5.08 1.27) (size 2 2) (drill 1.4) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 5.08 1.27) (size 2 2) (drill 1.4) (layers *.Cu *.Mask))
+  (model ${KINOWAEMOD}/packages3d/3rd-party/dinkle/DINKLE-0156-1010.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KINOWAEMOD}/packages3d/3rd-party/dinkle/DINKLE-0156-1B10.wrl
+    (offset (xyz 0 0 6.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
