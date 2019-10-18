@@ -1,6 +1,6 @@
-(module ETHERNET-WURTH-74990101210 (layer F.Cu) (tedit 5A785BB2)
-  (descr "USB Type B - Vertical Thru-Hole")
-  (tags "USB TYPE B")
+(module ETHERNET-WURTH-74990101210 (layer F.Cu) (tedit 5DA9C6C6)
+  (descr "LAN-Transformer WE-RJ45LAN 10/100BaseT")
+  (tags "LAN Transformer")
   (fp_text reference VAL** (at 0 -9.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -41,7 +41,7 @@
   (pad 10 thru_hole circle (at -3.785 5.9) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at -6.325 5.9) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/74990101210.wrl
-    (at (xyz 0 -0.07000000000000001 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
