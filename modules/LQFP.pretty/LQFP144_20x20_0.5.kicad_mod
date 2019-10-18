@@ -1,4 +1,4 @@
-(module LQFP144_20x20_0.5 (layer F.Cu) (tedit 580B9C6C)
+(module LQFP144_20x20_0.5 (layer F.Cu) (tedit 5DA9C95E)
   (descr "144 LEAD LQFP 20x20mm")
   (tags "LQFP QFP 0.5")
   (attr smd)
@@ -914,7 +914,7 @@
   (pad 142 smd rect (at -7.75 -10.7 90) (size 1.2 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 143 smd rect (at -8.25 -10.7 90) (size 1.2 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 144 smd rect (at -8.75 -10.7 90) (size 1.2 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KINOWAEMOD}/packages3d/walter/LQFP/lqfp-144.wrl
+  (model ${KINOWAEMOD}/packages3d/3rd-party/texas/LQFP144-PGE.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
