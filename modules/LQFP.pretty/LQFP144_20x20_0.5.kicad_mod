@@ -1,4 +1,4 @@
-(module LQFP144_20x20_0.5 (layer F.Cu) (tedit 5DA9C95E)
+(module LQFP144_20x20_0.5 (layer F.Cu) (tedit 5DA9CAC7)
   (descr "144 LEAD LQFP 20x20mm")
   (tags "LQFP QFP 0.5")
   (attr smd)
@@ -917,6 +917,6 @@
   (model ${KINOWAEMOD}/packages3d/3rd-party/texas/LQFP144-PGE.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
