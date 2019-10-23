@@ -80,6 +80,11 @@ D 28/40/44-Pin Enhanced Flash Microcontrollers with nanoWatt Technology, High-Pe
 F http://ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf
 $ENDCMP
 #
+$CMP STM32G031K8T6
+D Arm® Cortex®-M0+ 32-bit MCU, up to 64 KB Flash, 8 KB RAM, 2x USART, timers, ADC, comm. I/Fs, 1.7-3.6V
+F https://www.st.com/resource/en/datasheet/stm32g031k8.pdf
+$ENDCMP
+#
 $CMP XMC4500-F100x1024
 D XMC4500 Microcontroller Series ARM® Cortex®-M4 32-bit processor core
 $ENDCMP
