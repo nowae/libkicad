@@ -11,6 +11,12 @@ D Touch button 1-pole
 K switch button touch
 $ENDCMP
 #
+$CMP BUTTON-WE-434123025826
+D WS-TASV 4.2 x 3.2 mm J-Bend SMD Tact Switch
+K switch button
+F http://katalog.we-online.de/em/datasheet/434153017835.pdf
+$ENDCMP
+#
 $CMP BUTTON-WE_431181015816
 D WS-TASV 5x5mm Tact Switch with ground terminal, SMD version
 K switch button
