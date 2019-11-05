@@ -25,6 +25,10 @@ D CMWZ1ZZABZ - Sub-G Module Data Sheet - STM32L0 + SX1276
 F https://wireless.murata.com/datasheet?/RFM/data/type_abz.pdf
 $ENDCMP
 #
+$CMP ESP32-WROOM-32D
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+$ENDCMP
+#
 $CMP HL7692
 D AirPrime HL Series modules 2G/3G/4G
 F https://source.sierrawireless.com/devices/hl-series/hl7692/
