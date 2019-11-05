@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP2114H-3.3TRG1
+D 1A Low Noise CMOS LDO Regulator With Enable
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
 $CMP L78L12ACU
 D L78L - Positive voltage regulators
 F http://www.st.com/content/st_com/en/products/power-management/linear-voltage-regulators/standard-voltage-regulators/l78l.html
