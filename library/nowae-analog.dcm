@@ -40,6 +40,16 @@ D RTD to Digital Converter
 F https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf
 $ENDCMP
 #
+$CMP PCM5100APWR
+D PCM510xA 2.1VRMS 112/106/100dBAudioStereoDAC with PLL and 32-bit 384 kHz PCM Interface
+F https://www.ti.com/lit/ds/symlink/pcm5100a.pdf
+$ENDCMP
+#
+$CMP PCM5102AQPWRQ1
+D PCM510xA 2.1VRMS 112/106/100dBAudioStereoDAC with PLL and 32-bit 384 kHz PCM Interface
+F http://www.ti.com/lit/ds/symlink/pcm5102a.pdf
+$ENDCMP
+#
 $CMP TFA9882UK
 D 3.4W I2S input mono class-D audio amplifier
 F https://www.nxp.com/docs/en/data-sheet/TFA9882.pdf
