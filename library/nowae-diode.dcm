@@ -144,6 +144,12 @@ D PESDxL2BT series Low capacitance double bidirectional ESD protection diodes in
 F https://assets.nexperia.com/documents/data-sheet/PESDXL2BT_SER.pdf
 $ENDCMP
 #
+$CMP PMEG2010ER,115
+D 1A Low VF MEGA Schottky barrier rectifier
+K Diode Schottky
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010ER.pdf
+$ENDCMP
+#
 $CMP RMB4S
 D Fast Recovery Surface Mount Bridge Rectifier
 F https://www.vishay.com/docs/88705/rmbs.pdf
