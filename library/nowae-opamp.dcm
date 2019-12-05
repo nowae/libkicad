@@ -10,6 +10,11 @@ D INA12x Precision, Low Power Instrumentation Amplifiers
 F http://www.ti.com/lit/ds/symlink/ina128.pdf
 $ENDCMP
 #
+$CMP INA180A3IDBVT
+D INAx180 Low- and high-side voltage output, current-sense amplifiers
+F https://www.ti.com/lit/ds/symlink/ina180.pdf
+$ENDCMP
+#
 $CMP INA188IDR
 D INA828 50uV Offset, Low Power, Precision Instrumentation Amplifiers
 F http://www.ti.com/lit/ds/symlink/ina828.pdf
