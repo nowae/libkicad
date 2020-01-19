@@ -1,8 +1,9 @@
-(module CRYSTAL-TSX3225 (layer F.Cu) (tedit 5A7880E2)
+(module CRYSTAL-TSX3225 (layer F.Cu) (tedit 5E241AB8)
+  (attr smd)
   (fp_text reference VAL** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value CRYSTAL-TSX3225 (at 0 0) (layer F.Fab) hide
+  (fp_text value CRYSTAL_TSX3225 (at 0 2.2) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -2.2 -1.7) (end -2.2 1.7) (layer F.CrtYd) (width 0.05))
