@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP 150080M173000
 D WL-SFCW SMD Full-color Chip LED Waterclear
-F http://katalog.we-online.de/led/datasheet/150121M173000.pdf
+F https://www.we-online.com/catalog/datasheet/150080M173000.pdf
 $ENDCMP
 #
 $CMP 150121M173000
@@ -37,6 +37,11 @@ $ENDCMP
 $CMP KW-DMLN31.SG
 D KW DMLN31.SG - compact LED device is part of the SYNIOS P2720 family
 F https://dammedia.osram.info/media/resource/hires/osram-dam-2494659/KW%20DMLN31.SG_EN.pdf
+$ENDCMP
+#
+$CMP LED-RGB-WE-150066M153000
+D WL-SFCW SMD Full-color Chip LED Waterclear
+F https://www.we-online.com/catalog/datasheet/150066M153000.pdf
 $ENDCMP
 #
 $CMP RED
