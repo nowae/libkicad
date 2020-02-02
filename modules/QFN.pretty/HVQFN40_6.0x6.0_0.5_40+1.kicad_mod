@@ -1,4 +1,5 @@
-(module HVQFN40_6.0x6.0_0.5_40+1 (layer F.Cu) (tedit 5D6B88A9)
+(module HVQFN40_6.0x6.0_0.5_40+1 (layer F.Cu) (tedit 5E241902)
+  (attr smd)
   (fp_text reference VAL** (at 0 -4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
