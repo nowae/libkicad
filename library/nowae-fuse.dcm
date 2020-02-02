@@ -29,6 +29,24 @@ $CMP FUSE
 D Fuse, generic
 $ENDCMP
 #
+$CMP STEF05DPUR
+D Electronic fuse for 5 V line
+K efuse 5V
+F https://www.st.com/resource/en/datasheet/stef05.pdf
+$ENDCMP
+#
+$CMP STEF12PUR
+D Electronic fuse for 12 V line
+K efuse 12V
+F https://www.st.com/resource/en/datasheet/stef12.pdf
+$ENDCMP
+#
+$CMP TPS25944LRVCR
+D TPS25942x/44x 2.7 V-18 V, 5-A eFuse Power MUX With Multiple Protection Modes
+K efuse
+F https://www.ti.com/lit/ds/symlink/tps25944l.pdf
+$ENDCMP
+#
 $CMP nanoSMDC020F
 D nanoSMDC020F - Polyswitch resettable Devices SMD
 F http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_nanosmd_catalog_datasheet.pdf.pdf
