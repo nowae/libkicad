@@ -79,6 +79,16 @@ D ES2A - ES2J 2A, 50V - 600V Surface Mount Super Fast Rectifier
 F http://www.taiwansemi.com/products/datasheet/ES2A%20SERIES_K1701.pdf
 $ENDCMP
 #
+$CMP ESDA25P35-1U1M
+D SMCJ Transil 1500W Surface Mount Transient Voltage Suppressor
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/c0/80/cc/19/4c/45/af/CD00001333.pdf/files/CD00001333.pdf/jcr:content/translations/en.CD00001333.pdf
+$ENDCMP
+#
+$CMP ESDA25W
+D TRANSILTM array for data protection
+F https://www.st.com/resource/en/datasheet/esdaxxxwx.pdf
+$ENDCMP
+#
 $CMP MBR0520
 D MBR0520LT1G Surface Mount Schottky Power Rectifier 0.5 Amperes 20 Volts
 F http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF
