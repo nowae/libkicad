@@ -59,6 +59,12 @@ D PLCC-4 Tricolor Black Surface LED
 F https://katalog.we-online.de/led/datasheet/150141M173100.pdf
 $ENDCMP
 #
+$CMP WHITE-WE-SWTP-158563427
+D White Led 2700K by Wurth Elektronik PLCC 5630
+K led white 2700
+F https://www.we-online.com/catalog/en/datasheet/158563427.pdf
+$ENDCMP
+#
 $CMP YELLOW
 D Yellow Led
 $ENDCMP
