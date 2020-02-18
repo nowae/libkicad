@@ -67,6 +67,12 @@ D SN74LVC07A Hex Buffer and Driver With Open-Drain Outputs
 F http://www.ti.com/lit/ds/symlink/sn74lvc07a.pdf
 $ENDCMP
 #
+$CMP STL6P3LLH6
+D P-channel 30 V, 0.024 Ω typ., 6 A STripFET
+K pmos p-mos p-mosfet transistor
+F https://www.st.com/resource/en/datasheet/stl6p3llh6.pdf
+$ENDCMP
+#
 $CMP Si2333DDS
 D Si2333DDS P-Channel 12 V (D-S) MOSFET
 K pmos p-mos p-mosfet transistor
