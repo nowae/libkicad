@@ -17,6 +17,12 @@ D N-MOS 150V 0.019R 50A
 F https://www.infineon.com/dgdl/Infineon-BSC190N15NS3-DS-v02_04-en.pdf?fileId=db3a30431d8a6b3c011d8bf2fcf30076
 $ENDCMP
 #
+$CMP DMN26D0UT-7
+D ZVN4210G N-Channel Eenhancement mode vertical DMOS FETD
+K nmos n-mos n-mosfet transistor
+F https://www.diodes.com/assets/Datasheets/ds31854.pdf
+$ENDCMP
+#
 $CMP FDT86256
 D N Channel 150V 1.2A 845mOhm
 F http://www.onsemi.com/pub/Collateral/FDT86256-D.pdf
@@ -60,6 +66,24 @@ $CMP SFH3711
 D SFH 3711 - Silicon NPN Phototransistor with Vλ Characteristics
 K npn photo transistor
 F https://media.osram.info/media/resource/hires/osram-dam-2495971/SFH%203711.pdf
+$ENDCMP
+#
+$CMP SI7625DN-T1-GE3
+D P-Channel 30 V (D-S) MOSFET
+K pmos p-mos p-mosfet transistor
+F https://www.vishay.com/docs/65737/si7625dn.pdf
+$ENDCMP
+#
+$CMP SI7655DN-T1-GE3
+D P-Channel 30 V (D-S) MOSFET
+K pmos p-mos p-mosfet transistor
+F https://www.vishay.com/docs/63617/si7655dn.pdf
+$ENDCMP
+#
+$CMP SISA14DN-T1-GE3
+D N-Channel 30 V (D-S) MOSFET
+K nmos n-mos n-mosfet transistor
+F https://www.vishay.com/docs/63252/sisa14dn.pdf
 $ENDCMP
 #
 $CMP SN74LVC07APWR
