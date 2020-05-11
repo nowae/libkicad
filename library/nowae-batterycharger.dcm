@@ -15,6 +15,12 @@ D bq2510x 250-mA Single Cell Li-Ion Battery Chargers, 1-mA Termination, 75-nA Ba
 F http://www.ti.com/lit/ds/symlink/bq25100.pdf
 $ENDCMP
 #
+$CMP ISL9238HRTZ-T7A
+D Buck-Boost Narrow VDC Battery Charger with SMBus Interface and USB OTG
+K battery charger buck-boost
+F https://www.renesas.com/eu/en/doc/datasheet/isl9238.pdf
+$ENDCMP
+#
 $CMP LTC4067
 D LTC4067 USB Power Manager with OVP and Li-Ion/Polymer Charger
 F http://cds.linear.com/docs/en/datasheet/4067f.pdf
@@ -23,6 +29,11 @@ $ENDCMP
 $CMP MCP73831
 D MCP73831/2 Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controllers
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP STBC08PMR
+D 800 mA standalone linear Li-Ion battery charger with thermal regulation
+F https://www.st.com/resource/en/datasheet/stbc08.pdf
 $ENDCMP
 #
 #End Doc Library
