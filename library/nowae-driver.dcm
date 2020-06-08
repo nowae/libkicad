@@ -10,6 +10,18 @@ D IR2110 High And Low Side Driver
 F https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e
 $ENDCMP
 #
+$CMP STUSB4500LQTR
+D Standalone USB PD sink controller with short-to-VBUS protections
+K usb pd controller
+F https://www.st.com/resource/en/datasheet/stusb4500l.pdf
+$ENDCMP
+#
+$CMP STUSB4500QTR
+D Standalone USB PD sink controller with short-to-VBUS protections
+K usb pd controller
+F https://www.st.com/resource/en/datasheet/stusb4500.pdf
+$ENDCMP
+#
 $CMP TPS92511
 D Common Anode Constant Current Buck with 500mA and +65Vin max
 F http://www.ti.com/lit/ds/symlink/tps92511.pdf
