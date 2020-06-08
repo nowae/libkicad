@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +1.5V
+D +1.5V
+$ENDCMP
+#
 $CMP +1.8V
 D +1.8V
 $ENDCMP
