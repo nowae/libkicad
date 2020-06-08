@@ -10,6 +10,18 @@ D OKI-78SR Series Fixed Output 1.5 Amp SIP DC/DC Converters
 F https://power.murata.com/en/oki-78sr-5-1-5-w36-c.html
 $ENDCMP
 #
+$CMP OKI-T_36W-W40P-C
+D Selectable Output 36-Watt DOSA-SMT DC-DC Converters
+K dc-dc isolated
+F https://power.murata.com/pub/data/power/oki-t36-w40.pdf
+$ENDCMP
+#
+$CMP TEC2-2413WI
+D DC/DC Converter TEC 2WI Series, 2 Watt
+K dc-dc isolated
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
 $CMP TEL3-2411
 D DC/DC Converters TEL 3 Series, 3 Watt, 24V in - 5V out 600mA
 F http://www.tracopower.com/products/tel3.pdf
