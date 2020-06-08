@@ -219,6 +219,11 @@ D Power Schottky rectifier STPS30170DJF
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/25/7a/ac/5d/11/a8/48/3a/CD00255367.pdf/files/CD00255367.pdf/jcr:content/translations/en.CD00255367.pdf
 $ENDCMP
 #
+$CMP STPS340U
+D 40 V, 3 A power Schottky rectifier
+F https://www.diodes.com/assets/Datasheets/ds30217.pdf
+$ENDCMP
+#
 $CMP TS4148-RXG
 D TS4148 RYG 150mA, 75V Switching Diode
 F http://www.taiwansemi.com/products/datasheet/TS4148%20RYG_M1612.pdf
