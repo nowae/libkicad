@@ -5,9 +5,19 @@ D 1A Low Noise CMOS LDO Regulator With Enable
 F https://www.diodes.com/assets/Datasheets/AP2114.pdf
 $ENDCMP
 #
+$CMP L78L05ACUTR
+D L78L - Positive voltage regulators
+F https://www.st.com/resource/en/datasheet/l78l.pdf
+$ENDCMP
+#
 $CMP L78L12ACU
 D L78L - Positive voltage regulators
 F http://www.st.com/content/st_com/en/products/power-management/linear-voltage-regulators/standard-voltage-regulators/l78l.html
+$ENDCMP
+#
+$CMP LP38798SD-ADJ_NOPB
+D 1A Low Noise CMOS LDO Regulator With Enable
+F https://www.ti.com/lit/ds/symlink/lp38798.pdf
 $ENDCMP
 #
 $CMP MIC5205-3.3
@@ -63,6 +73,11 @@ $ENDCMP
 $CMP TLV1117-50CDCY
 D TLV1117 Fixed Low-Dropout Voltage Regulator 5V 0.8A
 F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV70215DBVR
+D TLV702 300-mA, Low-IQ, Low-Dropout Regulator
+F http://www.ti.com/lit/ds/symlink/tlv702.pdf
 $ENDCMP
 #
 $CMP TLV70218DBV
