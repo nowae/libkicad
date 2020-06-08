@@ -24,6 +24,11 @@ D MEMS digital output motion sensor high-performance ultra-low-power 3-axis "fem
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/30/3a/4e/6b/68/16/4a/35/DM00323179/files/DM00323179.pdf/jcr:content/translations/en.DM00323179.pdf
 $ENDCMP
 #
+$CMP LSM6DSOXTR
+D iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope
+F https://www.st.com/resource/en/datasheet/lsm6dsox.pdf
+$ENDCMP
+#
 $CMP MMA8451Q
 D MMA8451Q, 3-axis, 14-bit/8-bit digital accelerometer
 F http://cache.nxp.com/files/sensors/doc/data_sheet/MMA8451Q.pdf
@@ -48,6 +53,12 @@ $ENDCMP
 $CMP SSCDANN030PAAA5
 D SSC Series Standard Accuracy, Compensated/Amplified
 F https://sensing.honeywell.com/honeywell-sensing-trustability-ssc-series-standard-accuracy-board-mount-pressure-sensors-50099533-a-en.pdf
+$ENDCMP
+#
+$CMP SX1262IMLTRT
+D Long Range, Low Power, sub-GHz, RF Transceiver
+K lora
+F https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HT76/7Nka9W5WgugoZe.xwIHJy6ebj1hW8UJ.USO_Pt2CLLo
 $ENDCMP
 #
 $CMP Si7021-A20
