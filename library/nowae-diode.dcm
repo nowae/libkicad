@@ -224,6 +224,11 @@ D 40 V, 3 A power Schottky rectifier
 F https://www.diodes.com/assets/Datasheets/ds30217.pdf
 $ENDCMP
 #
+$CMP TPD1E10B09DPYR
+D TPD1E10B09 Single-Channel ESD Protection Device in 0402 Package
+F https://www.st.com/resource/en/datasheet/esdaxxxwx.pdf
+$ENDCMP
+#
 $CMP TS4148-RXG
 D TS4148 RYG 150mA, 75V Switching Diode
 F http://www.taiwansemi.com/products/datasheet/TS4148%20RYG_M1612.pdf
@@ -241,6 +246,11 @@ $ENDCMP
 #
 $CMP WE-TVS-82400102
 D WE-TVS TVS Diode High Speed Series USB 1.0 2.0 SOT23-6
+F http://katalog.we-online.com/pbs/datasheet/82400102.pdf
+$ENDCMP
+#
+$CMP WE-TVS-824012823
+D WE-TVS TVS Diode Super Speed Series USB 3.1 SOT23-6
 F http://katalog.we-online.com/pbs/datasheet/82400102.pdf
 $ENDCMP
 #
