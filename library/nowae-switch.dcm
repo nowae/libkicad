@@ -92,7 +92,16 @@ D 6.0mm X 3.5mm SMD Light Touch Switches
 K switch button
 $ENDCMP
 #
-$CMP TPS22918
+$CMP LTC2955CTS8-1
+D Pushbutton On/Off Controller with Automatic Turn-On
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2955fa.pdf
+$ENDCMP
+#
+$CMP STM6601CM2DDM6F
+F https://www.st.com/resource/en/datasheet/stm6601.pdf
+$ENDCMP
+#
+$CMP TPS22918DBVT
 D TPS229185.5-V, 2-A, 52-mΩOn-ResistanceLoadSwitch
 F http://www.ti.com/lit/ds/symlink/tps22918.pdf
 $ENDCMP
