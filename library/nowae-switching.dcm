@@ -30,6 +30,11 @@ D 36V 1A Step-Down DC-DC Power Module in 3.8mm × 3mm PackageLMZM23601 36-V 1-A
 F http://www.ti.com/lit/ds/symlink/lmzm23601.pdf
 $ENDCMP
 #
+$CMP LTC3588EMSE-1#PBF
+D Nanopower Energy Harvesting Power Supply
+F https://www.analog.com/media/en/technical-documentation/data-sheets/35881fc.pdf
+$ENDCMP
+#
 $CMP MUN12AD01-SH
 D 17V 1A Step-Down DC-DC Power Module in 3.5mm × 3.5mm PackageLMZM23601 36-V 1-A Step-Down DC-DC Power Module in 3.8mm × 3mm PackageLMZM23601 36-V, 1-A Step-Down DC/DC Power Module in 3.8-mm × 3-mm PackageLMZM23601 36-V, 1-A Step-Down DC/DC Power Module in 3.8-mm × 3-mm Package
 F https://datasheet.lcsc.com/szlcsc/Cyntec-MUN12AD01-SH_C218786.pdf
@@ -43,6 +48,11 @@ $ENDCMP
 $CMP ST1S14PHR
 D Step down switching regulator, +5.5 to +48Vin, 3 A
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/35/21/f8/1a/9f/41/da/CD00285678.pdf/files/CD00285678.pdf/jcr:content/translations/en.CD00285678.pdf
+$ENDCMP
+#
+$CMP ST1S50PUR
+D Step Down, +4 to +18Vin, Output voltage adjustable, 4A4 A monolithic synchronous step-down switching converter with high efficiency at light load
+F https://www.st.com/resource/en/datasheet/st1s50.pdf
 $ENDCMP
 #
 $CMP TPS54160ADGQ
