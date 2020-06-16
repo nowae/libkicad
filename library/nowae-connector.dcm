@@ -20,6 +20,10 @@ $CMP MICROSD-MOLEX-472192001
 F https://www.molex.com/pdm_docs/sd/472192001_sd.pdf
 $ENDCMP
 #
+$CMP MICROSIM-WURTH-693023010811
+F https://www.we-online.com/catalog/datasheet/693023010811.pdf
+$ENDCMP
+#
 $CMP UFL-HIROSE-U.FL-R-SMT-1
 D U.FL Series - Ultra Small Surface Mount Coaxial Connectors
 K U.FL
