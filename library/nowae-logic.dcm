@@ -35,4 +35,8 @@ D TXB0108 8-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensi
 F http://www.ti.com/lit/ds/symlink/txb0108.pdf
 $ENDCMP
 #
+$CMP TXS0102DCT
+F http://www.ti.com/lit/ds/symlink/txs0102.pdf
+$ENDCMP
+#
 #End Doc Library
