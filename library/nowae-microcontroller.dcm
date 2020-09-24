@@ -85,6 +85,11 @@ D Arm® Cortex®-M0+ 32-bit MCU, up to 64 KB Flash, 8 KB RAM, 2x USART, timers, 
 F https://www.st.com/resource/en/datasheet/stm32g031k8.pdf
 $ENDCMP
 #
+$CMP STM32L073CBT6
+D Arm® Cortex®-M0+ 32-bit MCU, up to 128 KB Flash, 20KB SRAM, 6KB EEPROM, LCD, USB, ADC, DACs
+F https://www.st.com/resource/en/datasheet/stm32l073rz.pdf
+$ENDCMP
+#
 $CMP STM32WB55RCV6
 D Multiprotocol wireless 32-bit MCU Arm-based Cortex-M4 with FPU, Bluetooth 5 and 802.15.4 radio solution
 K micro arm cortex bluetooth
