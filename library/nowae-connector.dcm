@@ -30,6 +30,12 @@ K U.FL
 F https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2801%29/
 $ENDCMP
 #
+$CMP USB3.1-C-WE-632722110112
+D WR-COM USB 3.1 Vertical SMT Type C
+K USB,USB-C
+F https://www.we-online.com/catalog/datasheet/632722110112.pdf
+$ENDCMP
+#
 $CMP USB3.1-C-WE-632723300011
 D USB Full-Featured Type-C Receptacle connector
 K usb universal serial bus type-C full-featured
