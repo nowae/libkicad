@@ -15,6 +15,11 @@ D FT230X USB to basic UART IC
 F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
 $ENDCMP
 #
+$CMP FT230XS_2
+D FT230X USB to basic UART IC
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
+$ENDCMP
+#
 $CMP ISL3150EIUZ
 D ISL3150E Large 3V Output Swing, 16.5kV ESD, Full Fail-Safe, 1/8 Unit Load RS-485/RS-422 Transceivers
 F https://www.intersil.com/content/dam/Intersil/documents/isl3/isl3150e-52e-53e-55e-56e-58e.pdf
