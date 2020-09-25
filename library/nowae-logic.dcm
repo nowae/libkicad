@@ -20,6 +20,12 @@ D SN74AVC4T774 4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level
 F http://www.ti.com/lit/ds/symlink/sn74avc4t774.pdf
 $ENDCMP
 #
+$CMP TCA9554PWR
+D TCA9554 Low Voltage 8-Bit I2C and SMBus Low-Power I/O Expander With Interrupt Output and Configuration Registers
+K I/O Expander, I2C
+F https://www.ti.com/lit/ds/symlink/tca9554.pdf
+$ENDCMP
+#
 $CMP TXB0106RGYR
 D TXB0106 6-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and ±15-kV ESD Protection
 F http://www.ti.com/lit/ds/symlink/txb0106.pdf
