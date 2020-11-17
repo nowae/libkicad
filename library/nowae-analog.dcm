@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD5732RBREZ
+D Complete, Dual, 12-/14-/16-Bit, Serial Input, Unipolar/Bipolar, Voltage Output DACs
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5722_5732_5752.pdf
+$ENDCMP
+#
 $CMP AD7730BRUZ
 D Bridge Transducer ADC
 F http://www.analog.com/media/en/technical-documentation/data-sheets/AD7730_7730L.pdf
@@ -13,6 +18,11 @@ $ENDCMP
 $CMP LTC1966
 D Precision Micropower RMS-to-DC Converter
 F http://cds.linear.com/docs/en/datasheet/1966fb.pdf
+$ENDCMP
+#
+$CMP LTC2311CMSE-14#PBF
+D 14-Bit + Sign, 5Msps Differential Input ADC with Wide Input Common Mode Range
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2311-14.pdf
 $ENDCMP
 #
 $CMP LTC2622
@@ -48,6 +58,11 @@ $ENDCMP
 $CMP PCM5102AQPWRQ1
 D PCM510xA 2.1VRMS 112/106/100dBAudioStereoDAC with PLL and 32-bit 384 kHz PCM Interface
 F http://www.ti.com/lit/ds/symlink/pcm5102a.pdf
+$ENDCMP
+#
+$CMP PGA281AIPWR
+D Precision, Zero-Drift, High-Voltage, Programmable Gain Instrumentation Amplifier
+F https://www.ti.com/lit/gpn/pga281
 $ENDCMP
 #
 $CMP TFA9882UK
