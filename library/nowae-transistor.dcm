@@ -17,6 +17,12 @@ D N-MOS 150V 0.019R 50A
 F https://www.infineon.com/dgdl/Infineon-BSC190N15NS3-DS-v02_04-en.pdf?fileId=db3a30431d8a6b3c011d8bf2fcf30076
 $ENDCMP
 #
+$CMP BSS138
+D N-Channel Logic Level Enhancement Mode Field Effect Transistor
+K nmos n-mos n-mosfet transistor
+F https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
+$ENDCMP
+#
 $CMP DMN26D0UT-7
 D ZVN4210G N-Channel Eenhancement mode vertical DMOS FETD
 K nmos n-mos n-mosfet transistor
