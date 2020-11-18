@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADG442BRZ
+D LC2MOS Quad SPST Switches
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG441_442_444.pdf
+$ENDCMP
+#
 $CMP BUTTON-PANASONIC_ESB33536
 D ESB33 Push Switches - Low profile Wide available range for reflow soldering
 K switch button
@@ -15,6 +20,11 @@ $CMP BUTTON-WE-434123025826
 D WS-TASV 4.2 x 3.2 mm J-Bend SMD Tact Switch
 K switch button
 F https://www.we-online.de/katalog/datasheet/434153017835.pdf
+$ENDCMP
+#
+$CMP BUTTON-WE-TATU-431256058726
+K switch button
+F https://katalog.we-online.de/em/datasheet/4343x10458xx.pdf
 $ENDCMP
 #
 $CMP BUTTON-WE_431181015816
