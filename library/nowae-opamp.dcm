@@ -70,6 +70,11 @@ D OPAx36550-MHz, Zerø-Crossover, Low-Distortion, HighCMRR, RRI/O, Single-Supply
 F http://www.ti.com/lit/ds/symlink/opa365.pdf
 $ENDCMP
 #
+$CMP PGA281AIPWR
+D Precision, Zero-Drift, High-Voltage, Programmable Gain Instrumentation Amplifier
+F https://www.ti.com/lit/gpn/pga281
+$ENDCMP
+#
 $CMP SI8920BC-IP
 D Si8920 Isolated Amplifier for Current Shunt Measurement
 F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si8920.pdf

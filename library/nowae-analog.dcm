@@ -60,11 +60,6 @@ D PCM510xA 2.1VRMS 112/106/100dBAudioStereoDAC with PLL and 32-bit 384 kHz PCM I
 F http://www.ti.com/lit/ds/symlink/pcm5102a.pdf
 $ENDCMP
 #
-$CMP PGA281AIPWR
-D Precision, Zero-Drift, High-Voltage, Programmable Gain Instrumentation Amplifier
-F https://www.ti.com/lit/gpn/pga281
-$ENDCMP
-#
 $CMP TFA9882UK
 D 3.4W I2S input mono class-D audio amplifier
 F https://www.nxp.com/docs/en/data-sheet/TFA9882.pdf
