@@ -12,6 +12,10 @@ $CMP +1.8VA
 D +1.8V Always On
 $ENDCMP
 #
+$CMP +1.8VISO
+D +1.8VISO
+$ENDCMP
+#
 $CMP +1.8VS
 D +1.8V Off When Suspended
 $ENDCMP
