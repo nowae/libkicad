@@ -35,6 +35,11 @@ D LMx58, LMx58x, LM2904, LM2904V Dual Operational Amplifiers
 F http://www.ti.com/lit/ds/symlink/lm358.pdf
 $ENDCMP
 #
+$CMP LM7322MAX
+D LM7321x Single and LM7322x Dual Rail-to-Rail Input and Output ±15-V, High-Output Current and Unlimited Capacitive Load Operational Amplifier
+F https://www.ti.com/lit/gpn/lm7322
+$ENDCMP
+#
 $CMP LMP2012
 D LMP2011Single/LMP2012Dual HighPrecision, Rail-to-Rail Output Operational Amplifier
 F http://www.ti.com/lit/ds/symlink/lmp2012.pdf
