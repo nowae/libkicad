@@ -20,6 +20,11 @@ D 1A Low Noise CMOS LDO Regulator With Enable
 F https://www.ti.com/lit/ds/symlink/lp38798.pdf
 $ENDCMP
 #
+$CMP MCP1824T-1802E_DC
+D 300 mA, Low Voltage, Low Quiescent Current LDO Regulator
+F http://ww1.microchip.com/downloads/en/devicedoc/22070a.pdf
+$ENDCMP
+#
 $CMP MIC5205-3.3
 D MIC5205 150mA Low-Noise LDO Regulator
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5205.pdf
