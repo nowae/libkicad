@@ -32,6 +32,16 @@ D DC/DC Converters TEN 3N Series, 3 Watt, 24V in - 5V out 500mA
 F https://assets.tracopower.com/20170919163706/TEN3N/documents/ten3n-datasheet.pdf
 $ENDCMP
 #
+$CMP TEN3-2423N
+D DC/DC Converters TEN 40N Series, 40 Watt, 24V in - 5V out 8A
+F https://assets.tracopower.com/20170919163706/TEN3N/documents/ten3n-datasheet.pdf
+$ENDCMP
+#
+$CMP TEN40-2411N
+D DC/DC Converters TEN 40N Series, 40 Watt, 24V in - 5V out 8A
+F https://assets.tracopower.com/20170919163706/TEN3N/documents/ten3n-datasheet.pdf
+$ENDCMP
+#
 $CMP TES1-2411
 D DC/DC Converters TES 1 Series, 1 Watt
 F http://assets.tracopower.com/20160916155828/TES1/documents/tes1-datasheet.pdf
@@ -45,6 +55,11 @@ $ENDCMP
 $CMP TME2405S
 D DC/DC Converters TME Series, 1 Watt
 F http://www.tracopower.com/products/tme.pdf
+$ENDCMP
+#
+$CMP TOS10-05SIL
+D DC/DC Converters TEN 40N Series, 40 Watt, 24V in - 5V out 8A
+F https://assets.tracopower.com/20170919163706/TEN3N/documents/ten3n-datasheet.pdf
 $ENDCMP
 #
 $CMP TSR0.5-2433
@@ -70,6 +85,11 @@ $ENDCMP
 $CMP TSR1-2450SM
 D DC/DC Converters TSR-1SM Series, 1 A
 F http://assets.tracopower.com/20160407154341/TSR1SM/documents/tsr1sm-datasheet.pdf
+$ENDCMP
+#
+$CMP TSR2-0518
+D DC/DC Step-Down Converter TSR 1 Series, 1 Amp
+F http://assets.tracopower.com/20170811130314/TSR1/documents/tsr1-datasheet.pdf
 $ENDCMP
 #
 $CMP TSRN1-2450SM
