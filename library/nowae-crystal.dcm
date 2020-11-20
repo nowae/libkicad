@@ -71,6 +71,10 @@ K Quartz, Ceramic, Filter, Resonator
 F https://abracon.com/Resonators/ABS06.pdf
 $ENDCMP
 #
+$CMP DSC1123CI2-125.0000
+D Low-Jitter Precision LVDS Oscillator
+$ENDCMP
+#
 $CMP WE-XTAL-32.768KHZ-830062558
 D 32.768kHz SMD Low Profile Crystal
 K Quartz, Ceramic, Filter, Resonator
