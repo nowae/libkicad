@@ -73,6 +73,7 @@ $ENDCMP
 #
 $CMP DSC1123CI2-125.0000
 D Low-Jitter Precision LVDS Oscillator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/DSC1103-23-Low-Jitter-Precision-LVDS-Oscillator-DS20005745C.pdf
 $ENDCMP
 #
 $CMP WE-XTAL-32.768KHZ-830062558
