@@ -111,9 +111,14 @@ $CMP STM6601CM2DDM6F
 F https://www.st.com/resource/en/datasheet/stm6601.pdf
 $ENDCMP
 #
+$CMP TPS2051BDBVR
+D TPS20xxBCurrent-Limited, Power-DistributionSwitches
+F https://www.ti.com/lit/gpn/TPS2051B
+$ENDCMP
+#
 $CMP TPS22918DBVT
-D TPS229185.5-V, 2-A, 52-mΩOn-ResistanceLoadSwitch
-F http://www.ti.com/lit/ds/symlink/tps22918.pdf
+D TPS22918 5.5-V, 2-A, 52-mΩ On-Resistance Load SwitchTPS229185.5-V, 2-A, 52-mΩOn-ResistanceLoadSwitch
+F https://www.ti.com/lit/gpn/TPS22918
 $ENDCMP
 #
 $CMP TS3A4741DGKR
