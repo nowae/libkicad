@@ -234,6 +234,16 @@ D TPD1E10B09 Single-Channel ESD Protection Device in 0402 Package
 F https://www.st.com/resource/en/datasheet/esdaxxxwx.pdf
 $ENDCMP
 #
+$CMP TPD2EUSB30DRTR
+D TPDxEUSB30 2-, 4-Channel ESD Protection for Super-Speed USB 3.0 Interface
+F https://www.ti.com/lit/gpn/TPD2EUSB30
+$ENDCMP
+#
+$CMP TPD4E05U06DQAR
+D TPDxE05U06 1, 4, 6 Channel ESD Protection Device for Super-Speed (Up to 6 Gbps) Interface
+F https://www.ti.com/lit/gpn/TPD4E05U06
+$ENDCMP
+#
 $CMP TS4148-RXG
 D TS4148 RYG 150mA, 75V Switching Diode
 F http://www.taiwansemi.com/products/datasheet/TS4148%20RYG_M1612.pdf
