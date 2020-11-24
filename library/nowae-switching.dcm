@@ -45,6 +45,11 @@ D 8V to 36VIN Cool-Power ZVS Buck Regulator Family
 F http://www.vicorpower.com/documents/datasheets/Picor/ds_pi33xx.pdf
 $ENDCMP
 #
+$CMP ST1S10PUR
+D Step-down, 3 A, 900 kHz, monolithic synchronous step-down regulator IC
+F https://www.st.com/resource/en/datasheet/st1s10.pdf
+$ENDCMP
+#
 $CMP ST1S14PHR
 D Step down switching regulator, +5.5 to +48Vin, 3 A
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/35/21/f8/1a/9f/41/da/CD00285678.pdf/files/CD00285678.pdf/jcr:content/translations/en.CD00285678.pdf
