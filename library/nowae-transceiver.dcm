@@ -5,6 +5,11 @@ D AM26C32 Quadruple Differential Line Receiver
 F http://www.ti.com/lit/ds/symlink/am26c32.pdf
 $ENDCMP
 #
+$CMP FT201XS-R
+D FT201X USB I2C SLAVE IC
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT201X.pdf
+$ENDCMP
+#
 $CMP FT230XQ
 D USB to RS232/RS422/RS485
 F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
@@ -52,6 +57,11 @@ $ENDCMP
 $CMP MAX3232CPWR
 D MAX3232 3-V to 5.5-V Multichannel RS-232 Line Driver/Receiver With ±15-kV ESD Protection
 F http://www.ti.com/lit/ds/symlink/max3232.pdf
+$ENDCMP
+#
+$CMP MCP2210-I_SS
+D USB-to-SPI Protocol Converter with GPIO (Master Mode)
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22288A.pdf
 $ENDCMP
 #
 $CMP MCP2551
