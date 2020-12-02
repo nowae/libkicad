@@ -1,4 +1,4 @@
-(module TRACO-TOS10-XXSIL (layer F.Cu) (tedit 5FC76B70)
+(module TRACO-TOS10-XXSIL (layer F.Cu) (tedit 5FC772F5)
   (descr "TRACO POWER DC/DC Converters TEN 3N Series, 3 Watt")
   (tags "TRACO DCDC 3W TEN3N TEN-3N")
   (fp_text reference VAL** (at 0 -5) (layer F.SilkS)
@@ -32,7 +32,7 @@
   (pad 11 thru_hole circle (at 24.13 -2.7) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -19.05 -2.7) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 11.43 -2.7) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KINOWAE}/modules/packages3d/3rd-party/traco/TOS10-05SIL.wrl
+  (model ${KINOWAEMOD}/packages3d/3rd-party/traco/TOS10-05SIL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
