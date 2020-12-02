@@ -1,10 +1,10 @@
-(module TRACO-TOS10-XXSIL (layer F.Cu) (tedit 5FC772F5)
+(module TRACO-TOS10-05SIL (layer F.Cu) (tedit 5FC773B1)
   (descr "TRACO POWER DC/DC Converters TEN 3N Series, 3 Watt")
   (tags "TRACO DCDC 3W TEN3N TEN-3N")
   (fp_text reference VAL** (at 0 -5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (fp_text value TRACO-TOS10-XXSIL (at 0 5) (layer F.Fab) hide
+  (fp_text value TRACO-TOS10-05SIL (at 0 5) (layer F.Fab) hide
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_line (start -25.4 3.6) (end -25.4 -3.6) (layer F.Fab) (width 0.15))
