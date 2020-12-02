@@ -1,4 +1,4 @@
-(module CONN-S321-V-2-3.81 (layer F.Cu) (tedit 5FC75E5E)
+(module CONN-S321-V-2-3.81 (layer F.Cu) (tedit 5FC79A47)
   (descr "MCV 1,5/ 2-G-3,81 - 1803439 of Phoenix Contact")
   (tags "2x1 PHOENIX MCV 3.81")
   (fp_text reference VAL** (at 0 -4.5) (layer F.SilkS)
@@ -74,6 +74,11 @@
   (pad 1 thru_hole rect (at -1.905 -0.8) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
   (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/691321300002.wrl
     (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/691361300002.wrl
+    (offset (xyz 0 1.4 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
