@@ -39,7 +39,7 @@ $ENDCMP
 #
 $CMP TEN40-2411N
 D DC/DC Converters TEN 40N Series, 40 Watt, 24V in - 5V out 8A
-F https://assets.tracopower.com/20170919163706/TEN3N/documents/ten3n-datasheet.pdf
+F https://www.tracopower.com/sites/default/files/products/datasheets/ten40n_datasheet.pdf
 $ENDCMP
 #
 $CMP TES1-2411
@@ -59,7 +59,7 @@ $ENDCMP
 #
 $CMP TOS10-05SIL
 D DC/DC Converters TEN 40N Series, 40 Watt, 24V in - 5V out 8A
-F https://assets.tracopower.com/20170919163706/TEN3N/documents/ten3n-datasheet.pdf
+F https://www.tracopower.com/int/media/11258/download
 $ENDCMP
 #
 $CMP TSR0.5-2433
