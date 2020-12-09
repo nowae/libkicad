@@ -1,4 +1,4 @@
-(module DIODE-DO214AC-UNI (layer F.Cu) (tedit 5FD0CFD1)
+(module DIODE-DO214AC-UNI (layer F.Cu) (tedit 5FD0D2DB)
   (descr "DIODE SMD DO214AC (SMC) Unidirectional")
   (tags "DIODE DO214AC DO-214AC")
   (attr smd)
@@ -42,6 +42,12 @@
   (fp_line (start -0.4 -0.6) (end 0.4 0) (layer F.Fab) (width 0.15))
   (fp_line (start 0.4 0) (end -0.4 0.6) (layer F.Fab) (width 0.15))
   (fp_line (start -0.4 0.6) (end -0.4 -0.6) (layer F.Fab) (width 0.15))
+  (fp_line (start -0.8 0) (end -0.4 0) (layer F.Fab) (width 0.15))
+  (fp_line (start 0.8 0) (end 0.4 0) (layer F.Fab) (width 0.15))
+  (fp_line (start -0.4 -0.6) (end -0.4 0.6) (layer F.SilkS) (width 0.15))
+  (fp_line (start -0.8 0) (end -0.4 0) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.8 0) (end 0.4 0) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.4 0.6) (end 0.4 -0.6) (layer F.SilkS) (width 0.15))
   (pad 2 smd rect (at -2.2 0) (size 1.6 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 2.2 0) (size 1.6 1.7) (layers F.Cu F.Paste F.Mask))
   (model ${KINOWAEMOD}/packages3d/walter/diode/do214ac.wrl
