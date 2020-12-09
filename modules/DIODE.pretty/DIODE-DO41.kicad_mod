@@ -1,4 +1,4 @@
-(module DIODE-DO41 (layer F.Cu) (tedit 5950C073)
+(module DIODE-DO41 (layer F.Cu) (tedit 5FD0CF8C)
   (fp_text reference VAL** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -42,8 +42,8 @@
   (fp_line (start -2.5 1.3) (end 2.5 1.3) (layer F.Fab) (width 0.15))
   (fp_line (start 2.5 1.3) (end 2.5 -1.3) (layer F.Fab) (width 0.15))
   (fp_line (start 2.5 -1.3) (end -2.5 -1.3) (layer F.Fab) (width 0.15))
-  (pad 1 thru_hole circle (at -5 0) (size 1.7 1.7) (drill 0.762) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 5 0) (size 1.7 1.7) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at -5 0) (size 1.7 1.7) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 5 0) (size 1.7 1.7) (drill 0.762) (layers *.Cu *.Mask))
   (model ${KINOWAEMOD}/packages3d/walter/diode/do41.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

@@ -1,4 +1,4 @@
-(module DIODE-0805 (layer F.Cu) (tedit 5A12BC72)
+(module DIODE-0805 (layer F.Cu) (tedit 5FD0CF79)
   (descr "Diode SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "diode 0805")
   (attr smd)
@@ -33,8 +33,8 @@
   (fp_line (start -1.6 1) (end 2.25 1) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1.6 -1) (end -1.6 1) (layer F.CrtYd) (width 0.05))
   (fp_line (start 2.25 -1) (end 2.25 1) (layer F.CrtYd) (width 0.05))
-  (pad 1 smd rect (at -0.95 0) (size 0.9 1.3) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 0.95 0) (size 0.9 1.3) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -0.95 0) (size 0.9 1.3) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 0.95 0) (size 0.9 1.3) (layers F.Cu F.Paste F.Mask))
   (model ${KINOWAEMOD}/packages3d/3rd-party/bourns/CD1206-BXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.67 0.67 0.67))
