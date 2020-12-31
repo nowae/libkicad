@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CDS-13138-SMT
-D SPEAKER 8OHM 300MW TOP PORT 87DB
-F https://www.cui.com/product/resource/cds-13138-smt.pdf
-$ENDCMP
-#
-#End Doc Library
