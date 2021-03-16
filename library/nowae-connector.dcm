@@ -42,4 +42,10 @@ K usb universal serial bus type-C full-featured
 F https://www.we-online.de/katalog/datasheet/632723300011.pdf
 $ENDCMP
 #
+$CMP USB3.1-C-WE-632723300011_2
+D USB Full-Featured Type-C Receptacle connector
+K USB,USB-C
+F https://www.we-online.de/katalog/datasheet/632723300011.pdf
+$ENDCMP
+#
 #End Doc Library
