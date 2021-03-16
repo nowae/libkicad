@@ -29,6 +29,12 @@ $CMP ESP32-WROOM-32D
 F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
 $ENDCMP
 #
+$CMP ESP32-WROOM-32E(8MB)
+D 32-bit MCU & 2.4 GHz Wi-Fi & Bluetooth/Bluetooth LE
+K ESP32
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+$ENDCMP
+#
 $CMP HL7692
 D AirPrime HL Series modules 2G/3G/4G
 F https://source.sierrawireless.com/devices/hl-series/hl7692/
