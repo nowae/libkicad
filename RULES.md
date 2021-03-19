@@ -1,11 +1,14 @@
 # Drawing Rules for KiCad 5
 
 ## Symbol Editor
+
+Symbol Name and Reference Field text size: 1.27 mm [50 mils]
+
 Pin Lenght: 2.54 mm [100 mils]
 
-Name text size: 1.27 mm [50 mils]
+Pin Name text size: 1.27 mm [50 mils]
 
-Number text size: 1.27 mm [50 mils]
+Pin Number text size: 1.27 mm [50 mils]
 
 ## Footprint Editor
 Text Width: 0.8 mm
