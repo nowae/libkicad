@@ -29,12 +29,18 @@ K nmos n-mos n-mosfet transistor
 F https://www.diodes.com/assets/Datasheets/ds31854.pdf
 $ENDCMP
 #
+$CMP DMP2120U-7
+D P-Channel Enhancement mode mosfet
+K pmos p-mos p-mosfet transistor
+F http://www.onsemi.com/pub/Collateral/FDV304P-D.PDF
+$ENDCMP
+#
 $CMP FDT86256
 D N Channel 150V 1.2A 845mOhm
 F http://www.onsemi.com/pub/Collateral/FDT86256-D.pdf
 $ENDCMP
 #
-$CMP FDV304P
+$CMP FDV304P_copy
 D FDV304P Digital FET, P-Channel
 K pmos p-mos p-mosfet transistor
 F http://www.onsemi.com/pub/Collateral/FDV304P-D.PDF
