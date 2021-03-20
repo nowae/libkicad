@@ -10,6 +10,8 @@ Pin Name text size: 1.27 mm [50 mils]
 
 Pin Number text size: 1.27 mm [50 mils]
 
+Power Symbol text size: 1.016 mm [40 mils]
+
 ## Footprint Editor
 Text Width: 0.8 mm
 
