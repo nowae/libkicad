@@ -111,6 +111,12 @@ $CMP STM6601CM2DDM6F
 F https://www.st.com/resource/en/datasheet/stm6601.pdf
 $ENDCMP
 #
+$CMP SWITCH-SPDT-WE_450405020524
+D WS-SLSU SMT Mini Slide Switch, Same side connection
+K switch slide, SPDT, SMD
+F https://www.we-online.com/catalog/datasheet/450405020524.pdf
+$ENDCMP
+#
 $CMP TPS2051BDBVR
 D TPS20xxBCurrent-Limited, Power-DistributionSwitches
 F https://www.ti.com/lit/gpn/TPS2051B
