@@ -54,6 +54,12 @@ K LED RED
 F https://katalog.we-online.com/led/datasheet/150141RS73100.pdf
 $ENDCMP
 #
+$CMP RGB-SIDEVIEW-WE-155124M173200
+D WL-SFSW SMT Full-color Side view Waterclear
+K LED, RGB, Side view
+F https://www.we-online.com/catalog/datasheet/155124M173200.pdf
+$ENDCMP
+#
 $CMP RGB-WE-SFTW-150141M173100
 D PLCC-4 Tricolor Black Surface LED
 F https://katalog.we-online.de/led/datasheet/150141M173100.pdf
@@ -61,7 +67,7 @@ $ENDCMP
 #
 $CMP WHITE-WE-158301250
 D WL-SWTP SMT White Top view PLCC - Daylight
-K LED WHITE 
+K LED WHITE
 F https://www.we-online.com/catalog/datasheet/158301250.pdf
 $ENDCMP
 #
