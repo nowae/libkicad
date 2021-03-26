@@ -27,6 +27,12 @@ K switch button
 F https://katalog.we-online.de/em/datasheet/4343x10458xx.pdf
 $ENDCMP
 #
+$CMP BUTTON-WE_430162073826
+D WS-TASV SMT Tact Switch 12x12 mm, SMD version
+K switch button
+F https://www.we-online.de/katalog/datasheet/430162073826.pdf
+$ENDCMP
+#
 $CMP BUTTON-WE_431181015816
 D WS-TASV 5x5mm Tact Switch with ground terminal, SMD version
 K switch button
