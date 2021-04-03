@@ -24,6 +24,10 @@ $CMP JUMPER-2
 D Solder jumper
 $ENDCMP
 #
+$CMP JUMPER-2_1
+D Solder jumper
+$ENDCMP
+#
 $CMP JUMPER-3
 D Solder jumper
 $ENDCMP
