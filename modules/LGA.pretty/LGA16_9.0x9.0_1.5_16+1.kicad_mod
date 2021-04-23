@@ -1,4 +1,4 @@
-(module LGA16_9.0x9.0_1.5_16+1 (layer F.Cu) (tedit 5C117991)
+(module LGA16_9.0x9.0_1.5_16+1 (layer F.Cu) (tedit 60832B92)
   (fp_text reference VAL** (at 0 -5.6) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
@@ -43,4 +43,9 @@
   (pad 17 smd rect (at 1.58 -1.58 180) (size 2.05 2.05) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at -1.58 1.58 180) (size 2.05 2.05) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 1.58 1.58 180) (size 2.05 2.05) (layers F.Cu F.Paste F.Mask))
+  (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/WE-MAGI3C-1710x1801.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
