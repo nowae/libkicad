@@ -15,6 +15,11 @@ D L78L - Positive voltage regulators
 F http://www.st.com/content/st_com/en/products/power-management/linear-voltage-regulators/standard-voltage-regulators/l78l.html
 $ENDCMP
 #
+$CMP LDK130C15R
+D 300 mA low quiescent current very low noise LDO
+F https://www.st.com/resource/en/datasheet/ldk130.pdf
+$ENDCMP
+#
 $CMP LP38798SD-ADJ_NOPB
 D 1A Low Noise CMOS LDO Regulator With Enable
 F https://www.ti.com/lit/ds/symlink/lp38798.pdf
