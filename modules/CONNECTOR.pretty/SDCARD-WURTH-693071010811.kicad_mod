@@ -1,4 +1,4 @@
-(module SDCARD-WURTH-693071010811 (layer F.Cu) (tedit 59C28375)
+(module SDCARD-WURTH-693071010811 (layer F.Cu) (tedit 5E774191)
   (descr "Wurth Memory Card Sockets 693071010811")
   (fp_text reference VAL** (at 0 -9) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -43,7 +43,7 @@
   (pad 10 smd rect (at -0.8 7.25) (size 1.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 4.9 7.25) (size 1.8 1.4) (layers F.Cu F.Paste F.Mask))
   (model ${KINOWAEMOD}/packages3d/3rd-party/wurth/693071010811.wrl
-    (at (xyz 0.08 -0.03 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
