@@ -23,6 +23,7 @@
   (lib (name nowae-relay)(type Legacy)(uri ${KINOWAELIB}/nowae-relay.lib)(options "")(descr ""))
   (lib (name nowae-resistor)(type Legacy)(uri ${KINOWAELIB}/nowae-resistor.lib)(options "")(descr ""))
   (lib (name nowae-sensor)(type Legacy)(uri ${KINOWAELIB}/nowae-sensor.lib)(options "")(descr ""))
+  (lib (name nowae-som)(type Legacy)(uri ${KINOWAELIB}/nowae-som.lib)(options "")(descr ""))
   (lib (name nowae-speaker)(type Legacy)(uri ${KINOWAELIB}/nowae-speaker.lib)(options "")(descr ""))
   (lib (name nowae-switch)(type Legacy)(uri ${KINOWAELIB}/nowae-switch.lib)(options "")(descr ""))
   (lib (name nowae-switching)(type Legacy)(uri ${KINOWAELIB}/nowae-switching.lib)(options "")(descr ""))
