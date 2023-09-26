@@ -5,6 +5,10 @@ D CDCLVC11xx 3.3-V and 2.5-V LVCMOS High-Performance Clock Buffer Family
 F http://www.ti.com/lit/ds/symlink/cdclvc1108.pdf
 $ENDCMP
 #
+$CMP DRV8410PWPR
+F https://www.ti.com/lit/ds/symlink/drv8410.pdf
+$ENDCMP
+#
 $CMP PCA9306DC
 D PCA9306 - Dual bidirectional I2C-bus and SMBus voltage-level translator
 F https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf
